@@ -12,6 +12,7 @@ import { PDFManager } from "./pdf-manager.js";
 import { QASystem } from "./qa-system.js";
 import { BookmarkManager } from "./bookmark-manager.js";
 import { StudyMaterialManager } from "./study-material-manager.js";
+import { TextbookManager } from "./textbook-manager.js";
 
 // 스키마 정의
 const SearchPDFSchema = z.object({
@@ -59,6 +60,24 @@ const GetStudyMaterialsSchema = z.object({
   subject: z.string().optional().describe("과목명"),
 });
 
+const LoadTextbooksSchema = z.object({
+  directoryPath: z.string().describe("교재 PDF 파일이 있는 디렉토리 경로"),
+});
+
+const SearchTextbooksSchema = z.object({
+  query: z.string().describe("검색할 질문 또는 키워드"),
+  subject: z.string().optional().describe("과목명"),
+  maxResults: z.number().optional().default(10).describe("최대 결과 수"),
+});
+
+const GetTextbooksSchema = z.object({
+  subject: z.string().optional().describe("과목명"),
+});
+
+const GetTextbookContentsSchema = z.object({
+  textbookId: z.number().describe("교재 ID"),
+});
+
 class TreeDoctorPDFQAServer {
   private server: Server;
   private dbManager: DatabaseManager;
@@ -66,6 +85,7 @@ class TreeDoctorPDFQAServer {
   private qaSystem: QASystem;
   private bookmarkManager: BookmarkManager;
   private studyMaterialManager: StudyMaterialManager;
+  private textbookManager: TextbookManager;
 
   constructor() {
     this.server = new Server(
@@ -85,6 +105,7 @@ class TreeDoctorPDFQAServer {
     this.qaSystem = new QASystem(this.dbManager, this.pdfManager);
     this.bookmarkManager = new BookmarkManager(this.dbManager);
     this.studyMaterialManager = new StudyMaterialManager(this.dbManager);
+    this.textbookManager = new TextbookManager(this.dbManager);
 
     this.setupToolHandlers();
   }
@@ -133,6 +154,36 @@ class TreeDoctorPDFQAServer {
             description: "학습 자료를 조회합니다. 개념, 암기카드, 오답, 북마크 등을 확인할 수 있습니다.",
             inputSchema: GetStudyMaterialsSchema,
           },
+          {
+            name: "load_textbooks",
+            description: "지정된 디렉토리에서 교재 PDF 파일들을 로드하고 마크다운으로 변환하여 데이터베이스에 저장합니다.",
+            inputSchema: LoadTextbooksSchema,
+          },
+          {
+            name: "search_textbooks",
+            description: "교재에서 질문에 대한 답변을 검색합니다. 교재명, 과목, 섹션 제목, 페이지 정보를 포함하여 제공합니다.",
+            inputSchema: SearchTextbooksSchema,
+          },
+          {
+            name: "get_textbooks",
+            description: "로드된 교재 목록을 조회합니다. 과목별로 필터링할 수 있습니다.",
+            inputSchema: GetTextbooksSchema,
+          },
+          {
+            name: "get_textbook_contents",
+            description: "특정 교재의 내용을 섹션별로 조회합니다.",
+            inputSchema: GetTextbookContentsSchema,
+          },
+          {
+            name: "get_subjects",
+            description: "로드된 교재들의 과목 목록을 조회합니다.",
+            inputSchema: z.object({}),
+          },
+          {
+            name: "get_textbook_stats",
+            description: "교재 통계 정보를 조회합니다 (총 교재 수, 과목 수, 페이지 수 등).",
+            inputSchema: z.object({}),
+          },
         ],
       };
     });
@@ -158,6 +209,18 @@ class TreeDoctorPDFQAServer {
             return await this.handleCreateFlashcard(args);
           case "get_study_materials":
             return await this.handleGetStudyMaterials(args);
+          case "load_textbooks":
+            return await this.handleLoadTextbooks(args);
+          case "search_textbooks":
+            return await this.handleSearchTextbooks(args);
+          case "get_textbooks":
+            return await this.handleGetTextbooks(args);
+          case "get_textbook_contents":
+            return await this.handleGetTextbookContents(args);
+          case "get_subjects":
+            return await this.handleGetSubjects(args);
+          case "get_textbook_stats":
+            return await this.handleGetTextbookStats(args);
           default:
             throw new Error(`Unknown tool: ${name}`);
         }
@@ -365,9 +428,197 @@ class TreeDoctorPDFQAServer {
     };
   }
 
+  private async handleLoadTextbooks(args: any) {
+    const { directoryPath } = LoadTextbooksSchema.parse(args);
+    
+    try {
+      await this.textbookManager.initializeTextbooks();
+      await this.textbookManager.loadTextbooksFromDirectory(directoryPath);
+      
+      const stats = await this.textbookManager.getTextbookStats();
+      
+      let response = `📚 **교재 로드 완료**\n\n`;
+      response += `📊 **통계**:\n`;
+      response += `- 총 교재 수: ${stats.totalTextbooks}개\n`;
+      response += `- 과목 수: ${stats.totalSubjects}개\n`;
+      response += `- 총 페이지 수: ${stats.totalPages}페이지\n\n`;
+      
+      response += `📋 **과목별 교재 수**:\n`;
+      for (const [subject, count] of Object.entries(stats.bySubject)) {
+        response += `- ${subject}: ${count}개\n`;
+      }
+      
+      return {
+        content: [
+          {
+            type: "text",
+            text: response,
+          },
+        ],
+      };
+    } catch (error) {
+      return {
+        content: [
+          {
+            type: "text",
+            text: `❌ 교재 로드 실패: ${error instanceof Error ? error.message : String(error)}`,
+          },
+        ],
+      };
+    }
+  }
+
+  private async handleSearchTextbooks(args: any) {
+    const { query, subject, maxResults } = SearchTextbooksSchema.parse(args);
+    
+    const results = await this.textbookManager.searchTextbooks(query, subject, maxResults);
+    
+    let response = `📚 **교재 검색 결과**\n\n`;
+    response += `🔍 **검색어**: ${query}\n`;
+    if (subject) {
+      response += `📖 **과목**: ${subject}\n`;
+    }
+    response += `📊 **결과 수**: ${results.length}개\n\n`;
+    
+    if (results.length === 0) {
+      response += "❌ 검색 결과가 없습니다.\n";
+    } else {
+      results.forEach((result, index) => {
+        response += `**${index + 1}. ${result.textbook.title}**\n`;
+        response += `📚 과목: ${result.textbook.subject}\n`;
+        if (result.content.sectionTitle) {
+          response += `📄 섹션: ${result.content.sectionTitle}\n`;
+        }
+        response += `📄 페이지: ${result.content.pageStart}-${result.content.pageEnd}\n`;
+        response += `🎯 관련도: ${result.relevanceScore.toFixed(2)}\n`;
+        response += `📝 내용: ${result.matchedText}\n\n`;
+      });
+    }
+    
+    return {
+      content: [
+        {
+          type: "text",
+          text: response,
+        },
+      ],
+    };
+  }
+
+  private async handleGetTextbooks(args: any) {
+    const { subject } = GetTextbooksSchema.parse(args);
+    
+    const textbooks = await this.textbookManager.getTextbooks(subject);
+    
+    let response = `📚 **교재 목록**\n\n`;
+    if (subject) {
+      response += `📖 **과목**: ${subject}\n\n`;
+    }
+    
+    if (textbooks.length === 0) {
+      response += "❌ 교재가 없습니다.\n";
+    } else {
+      textbooks.forEach((textbook, index) => {
+        response += `**${index + 1}. ${textbook.title}**\n`;
+        response += `📚 과목: ${textbook.subject}\n`;
+        response += `📄 페이지: ${textbook.pageCount}페이지\n`;
+        response += `📊 내용 길이: ${textbook.contentLength.toLocaleString()}자\n`;
+        response += `🔧 처리 방법: ${textbook.processingMethod}\n`;
+        response += `📅 등록일: ${new Date(textbook.createdAt).toLocaleString("ko-KR")}\n\n`;
+      });
+    }
+    
+    return {
+      content: [
+        {
+          type: "text",
+          text: response,
+        },
+      ],
+    };
+  }
+
+  private async handleGetTextbookContents(args: any) {
+    const { textbookId } = GetTextbookContentsSchema.parse(args);
+    
+    const contents = await this.textbookManager.getTextbookContents(textbookId);
+    
+    let response = `📖 **교재 내용**\n\n`;
+    
+    if (contents.length === 0) {
+      response += "❌ 교재 내용이 없습니다.\n";
+    } else {
+      contents.forEach((content, index) => {
+        response += `**${index + 1}. ${content.sectionTitle || "제목 없음"}**\n`;
+        response += `📄 페이지: ${content.pageStart}-${content.pageEnd}\n`;
+        response += `📊 레벨: ${content.level}\n`;
+        response += `📝 내용: ${content.content.substring(0, 200)}${content.content.length > 200 ? "..." : ""}\n\n`;
+      });
+    }
+    
+    return {
+      content: [
+        {
+          type: "text",
+          text: response,
+        },
+      ],
+    };
+  }
+
+  private async handleGetSubjects(args: any) {
+    const subjects = await this.textbookManager.getSubjects();
+    
+    let response = `📚 **과목 목록**\n\n`;
+    
+    if (subjects.length === 0) {
+      response += "❌ 과목이 없습니다.\n";
+    } else {
+      subjects.forEach((subject, index) => {
+        response += `${index + 1}. ${subject}\n`;
+      });
+    }
+    
+    return {
+      content: [
+        {
+          type: "text",
+          text: response,
+        },
+      ],
+    };
+  }
+
+  private async handleGetTextbookStats(args: any) {
+    const stats = await this.textbookManager.getTextbookStats();
+    
+    let response = `📊 **교재 통계**\n\n`;
+    response += `📚 총 교재 수: ${stats.totalTextbooks}개\n`;
+    response += `📖 과목 수: ${stats.totalSubjects}개\n`;
+    response += `📄 총 페이지 수: ${stats.totalPages.toLocaleString()}페이지\n`;
+    response += `📊 총 내용 길이: ${stats.totalContentLength.toLocaleString()}자\n\n`;
+    
+    response += `📋 **과목별 교재 수**:\n`;
+    for (const [subject, count] of Object.entries(stats.bySubject)) {
+      response += `- ${subject}: ${count}개\n`;
+    }
+    
+    return {
+      content: [
+        {
+          type: "text",
+          text: response,
+        },
+      ],
+    };
+  }
+
   async run() {
     // 데이터베이스 초기화
     await this.dbManager.initialize();
+    
+    // 교재 관리 시스템 초기화
+    await this.textbookManager.initializeTextbooks();
     
     const transport = new StdioServerTransport();
     await this.server.connect(transport);
