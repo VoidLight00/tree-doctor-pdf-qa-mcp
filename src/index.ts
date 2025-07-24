@@ -7,6 +7,7 @@ import {
   ListToolsRequestSchema,
 } from "@modelcontextprotocol/sdk/types.js";
 import { z } from "zod";
+import { zodToJsonSchema } from "zod-to-json-schema";
 import { DatabaseManager } from "./database.js";
 import { PDFManager } from "./pdf-manager.js";
 import { QASystem } from "./qa-system.js";
@@ -117,72 +118,72 @@ class TreeDoctorPDFQAServer {
           {
             name: "search_pdf",
             description: "PDF 교재에서 질문에 대한 답변을 검색합니다. 교재명, 페이지, 근거 문장을 포함한 정확한 답변을 제공합니다.",
-            inputSchema: SearchPDFSchema,
+            inputSchema: zodToJsonSchema(SearchPDFSchema),
           },
           {
             name: "find_source",
             description: "기출문제에 대한 교재 근거를 찾습니다. 해당 문제가 출제된 교재 단락과 페이지를 표시합니다.",
-            inputSchema: FindSourceSchema,
+            inputSchema: zodToJsonSchema(FindSourceSchema),
           },
           {
             name: "generate_explanation",
             description: "기출문제에 대한 해설을 생성합니다. 교재 근거를 바탕으로 상세한 해설을 작성합니다.",
-            inputSchema: GenerateExplanationSchema,
+            inputSchema: zodToJsonSchema(GenerateExplanationSchema),
           },
           {
             name: "extract_concepts",
             description: "텍스트에서 중요한 개념을 추출합니다. 추출된 개념은 자동으로 학습 자료로 저장됩니다.",
-            inputSchema: ExtractConceptsSchema,
+            inputSchema: zodToJsonSchema(ExtractConceptsSchema),
           },
           {
             name: "create_bookmark",
             description: "중요한 내용을 북마크로 저장합니다. 문제, 개념, 해설, 교재 근거 등을 북마크할 수 있습니다.",
-            inputSchema: CreateBookmarkSchema,
+            inputSchema: zodToJsonSchema(CreateBookmarkSchema),
           },
           {
             name: "get_bookmarks",
             description: "저장된 북마크를 조회합니다. 타입과 태그로 필터링할 수 있습니다.",
-            inputSchema: GetBookmarksSchema,
+            inputSchema: zodToJsonSchema(GetBookmarksSchema),
           },
           {
             name: "create_flashcard",
             description: "암기카드를 생성합니다. 중요한 개념을 암기하기 쉬운 형태로 저장합니다.",
-            inputSchema: CreateFlashcardSchema,
+            inputSchema: zodToJsonSchema(CreateFlashcardSchema),
           },
           {
             name: "get_study_materials",
             description: "학습 자료를 조회합니다. 개념, 암기카드, 오답, 북마크 등을 확인할 수 있습니다.",
-            inputSchema: GetStudyMaterialsSchema,
+            inputSchema: zodToJsonSchema(GetStudyMaterialsSchema),
           },
           {
             name: "load_textbooks",
             description: "지정된 디렉토리에서 교재 PDF 파일들을 로드하고 마크다운으로 변환하여 데이터베이스에 저장합니다.",
-            inputSchema: LoadTextbooksSchema,
+            inputSchema: zodToJsonSchema(LoadTextbooksSchema),
           },
           {
             name: "search_textbooks",
             description: "교재에서 질문에 대한 답변을 검색합니다. 교재명, 과목, 섹션 제목, 페이지 정보를 포함하여 제공합니다.",
-            inputSchema: SearchTextbooksSchema,
+            inputSchema: zodToJsonSchema(SearchTextbooksSchema),
           },
           {
             name: "get_textbooks",
             description: "로드된 교재 목록을 조회합니다. 과목별로 필터링할 수 있습니다.",
-            inputSchema: GetTextbooksSchema,
+            inputSchema: zodToJsonSchema(GetTextbooksSchema),
           },
           {
             name: "get_textbook_contents",
             description: "특정 교재의 내용을 섹션별로 조회합니다.",
-            inputSchema: GetTextbookContentsSchema,
+            inputSchema: zodToJsonSchema(GetTextbookContentsSchema),
           },
           {
             name: "get_subjects",
             description: "로드된 교재들의 과목 목록을 조회합니다.",
-            inputSchema: z.object({}),
+            inputSchema: zodToJsonSchema(z.object({})),
           },
           {
             name: "get_textbook_stats",
             description: "교재 통계 정보를 조회합니다 (총 교재 수, 과목 수, 페이지 수 등).",
-            inputSchema: z.object({}),
+            inputSchema: zodToJsonSchema(z.object({})),
           },
         ],
       };
