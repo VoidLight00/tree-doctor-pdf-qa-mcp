@@ -1,0 +1,116 @@
+{
+  "name": "GitHub Issue to JSON Converter",
+  "nodes": [
+    {
+      "id": "1",
+      "name": "GitHub Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "position": [250, 300],
+      "parameters": {
+        "path": "github-issue-webhook",
+        "httpMethod": "POST",
+        "authentication": "headerAuth",
+        "headerAuth": {
+          "name": "X-GitHub-Event",
+          "value": "issues"
+        }
+      }
+    },
+    {
+      "id": "2", 
+      "name": "Parse Issue Content",
+      "type": "n8n-nodes-base.code",
+      "position": [450, 300],
+      "parameters": {
+        "language": "javascript",
+        "code": "// GitHub Issue 파싱\nconst issueBody = $input.first().json.issue.body;\nconst title = $input.first().json.issue.title;\n\n// 정규식으로 각 섹션 추출\nconst parseSection = (section) => {\n  const regex = new RegExp(`## ${section}\\\\s*\\\\n([\\\\s\\\\S]*?)(?=##|$)`, 'i');\n  const match = issueBody.match(regex);\n  return match ? match[1].trim() : '';\n};\n\n// 회차와 문제 번호 추출 (제목에서)\nconst titleMatch = title.match(/\\[(\\d+)회-(\\d+)\\]/);\nconst examYear = titleMatch ? titleMatch[1] : '';\nconst questionNumber = titleMatch ? parseInt(titleMatch[2]) : 0;\n\n// 과목 추출\nconst subjectSection = parseSection('과목');\nlet subject = '';\nif (subjectSection.includes('수목병리학')) subject = '수목병리학';\nelse if (subjectSection.includes('수목해충학')) subject = '수목해충학';\nelse if (subjectSection.includes('수목생리학')) subject = '수목생리학';\nelse if (subjectSection.includes('산림토양학')) subject = '산림토양학';\nelse if (subjectSection.includes('정책 및 법규')) subject = '정책 및 법규';\n\n// 문제 내용 추출\nconst question = parseSection('문제 내용').replace(/```/g, '').trim();\n\n// 선택지 추출\nconst choicesText = parseSection('선택지').replace(/```/g, '').trim();\nconst choices = {};\nconst choiceRegex = /([①②③④⑤]|[1-5][).]?)\\s*(.+)/g;\nlet match;\nwhile ((match = choiceRegex.exec(choicesText)) !== null) {\n  const num = match[1].replace(/[①②③④⑤]/, (m) => '①②③④⑤'.indexOf(m) + 1);\n  choices[num] = match[2].trim();\n}\n\n// 정답 추출\nconst answerSection = parseSection('정답');\nconst answerMatch = answerSection.match(/정답 번호[\\s:]*([1-5①②③④⑤])/);\nconst answer = answerMatch ? parseInt(answerMatch[1].replace(/[①②③④⑤]/, (m) => '①②③④⑤'.indexOf(m) + 1)) : null;\n\n// 해설 추출\nconst explanation = parseSection('해설').replace(/```/g, '').trim();\n\n// 키워드 추출\nconst keywordsSection = parseSection('키워드');\nconst keywords = keywordsSection.split(/[\\n,]/).map(k => k.replace(/^-\\s*/, '').trim()).filter(k => k);\n\n// JSON 구조 생성\nreturn {\n  examYear: examYear + '회',\n  number: questionNumber,\n  subject: subject,\n  question: question,\n  choices: choices,\n  answer: answer,\n  explanation: explanation,\n  keywords: keywords,\n  githubIssueNumber: $input.first().json.issue.number,\n  contributor: $input.first().json.issue.user.login,\n  createdAt: new Date().toISOString()\n};"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Validate Data",
+      "type": "n8n-nodes-base.if",
+      "position": [650, 300],
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{$json.question !== '' && Object.keys($json.choices).length === 5 && $json.answer !== null}}",
+              "value2": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "4",
+      "name": "Save to Database",
+      "type": "n8n-nodes-base.postgres",
+      "position": [850, 250],
+      "parameters": {
+        "operation": "insert",
+        "table": "exam_questions",
+        "columns": "exam_year,number,subject,question,choices,answer,explanation,keywords,github_issue,contributor",
+        "additionalFields": {}
+      }
+    },
+    {
+      "id": "5",
+      "name": "Slack Success Notification",
+      "type": "n8n-nodes-base.slack",
+      "position": [1050, 250],
+      "parameters": {
+        "channel": "#exam-contributions",
+        "text": "✅ 새로운 기출문제가 추가되었습니다!\n회차: {{$json.examYear}}\n문제 번호: {{$json.number}}\n과목: {{$json.subject}}\n기여자: @{{$json.contributor}}"
+      }
+    },
+    {
+      "id": "6",
+      "name": "GitHub Comment",
+      "type": "n8n-nodes-base.github",
+      "position": [1050, 350],
+      "parameters": {
+        "operation": "createIssueComment",
+        "owner": "voidlight",
+        "repository": "tree-doctor-exam-crowdsource",
+        "issueNumber": "={{$json.githubIssueNumber}}",
+        "body": "✅ 문제가 성공적으로 추가되었습니다! 감사합니다.\n\n검증 상태: ✓ 통과\n- 문제: ✓\n- 선택지 (5개): ✓\n- 정답: ✓\n- 과목 분류: ✓\n\n기여해주셔서 감사합니다! 🌳"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Validation Failed",
+      "type": "n8n-nodes-base.github",
+      "position": [850, 450],
+      "parameters": {
+        "operation": "createIssueComment",
+        "owner": "voidlight",
+        "repository": "tree-doctor-exam-crowdsource",
+        "issueNumber": "={{$node['Parse Issue Content'].json.githubIssueNumber}}",
+        "body": "❌ 데이터 검증에 실패했습니다.\n\n다음 항목을 확인해주세요:\n- [ ] 문제 내용이 비어있지 않은지\n- [ ] 선택지가 정확히 5개인지\n- [ ] 정답이 1-5 사이의 숫자인지\n\n수정 후 다시 시도해주세요."
+      }
+    }
+  ],
+  "connections": {
+    "GitHub Webhook": {
+      "main": [[{"node": "Parse Issue Content", "type": "main", "index": 0}]]
+    },
+    "Parse Issue Content": {
+      "main": [[{"node": "Validate Data", "type": "main", "index": 0}]]
+    },
+    "Validate Data": {
+      "main": [
+        [{"node": "Save to Database", "type": "main", "index": 0}],
+        [{"node": "Validation Failed", "type": "main", "index": 0}]
+      ]
+    },
+    "Save to Database": {
+      "main": [
+        [
+          {"node": "Slack Success Notification", "type": "main", "index": 0},
+          {"node": "GitHub Comment", "type": "main", "index": 0}
+        ]
+      ]
+    }
+  }
+}

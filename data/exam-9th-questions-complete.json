@@ -1,0 +1,1521 @@
+{
+  "exam_info": {
+    "title": "제9회 나무의사 자격시험 기출문제",
+    "total_questions": 150,
+    "extraction_date": "2025-07-28",
+    "note": "OCR 추출로 인해 일부 문제나 선택지가 불완전할 수 있습니다."
+  },
+  "questions": [
+    {
+      "number": 1,
+      "original_number": 2,
+      "question": "SLIG RS 가해하는 해충을 모두 고른 것은?",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 2,
+      "original_number": 8,
+      "question": "01 = 100DD 6 유효적산몬도 :1 /",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 3,
+      "original_number": 10,
+      "question": "01 =10°C @) 해충 &의 유효적산온도는 59온일도(9668『6ᄒ-6ᄒᄒ\\}이다. |100ᄆ|",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 4,
+      "original_number": 11,
+      "question": "01 = 100ᄆ0ᄆ © 같은 환경 조건에서 해춤 것| 발육이 해충 6보다 빠르다. |느리다.|",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 5,
+      "original_number": 12,
+      "question": "517!/흉고직경07 나무주사, 티아클로프리드 액상수화제 * 갈색날개매미중 - [피해발생초기 OF 5월경) 티아클로프리드 액상수화제 2000 배액 또는 아바멕틴 유제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 6,
+      "original_number": 13,
+      "question": "6|/융고직경60 나무주사 © 박쥐나방, 큰팽나무이 @ 박주나방, 붉나무 혹응애",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 7,
+      "original_number": 14,
+      "question": "해춤과 방제 방법의 연결이 을지 않은 것은?",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "매미나방 - 성충 우화시기에 유아등으로 포획"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 8,
+      "original_number": 15,
+      "question": "3 mS 졸기에 F을 Sv 주입한다. * 피해도'중\"이상인 지역에 강우시 약제가 식수원이나 농경지 등으로 유입될 우려가 없는 임지나 조경수",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 9,
+      "original_number": 16,
+      "question": "한국의 산림토양 특성에 관한 설명으로 옳지 않은 것은? 토양의 분류 체계는 토양군, 토양아군, 토양형 순이다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 10,
+      "original_number": 17,
+      "question": "89 x 10° < 칼륨:",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 11,
+      "original_number": 18,
+      "question": "질소 저장량을 추정하고자 조사한 내용이 아래와 같을 때, 이 토양 &층의 lha 중 질소 저장량[60) 은?",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 12,
+      "original_number": 21,
+      "question": "2 3) 2 @ 20 © 200 * S2(g) = BE(g/cm*) x 부피(670*) 이 공식을 이용하여 계산을 하여야 하는데 기본 크기가 habe 00계산",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 13,
+      "original_number": 23,
+      "question": "1m = 1000 m* - 용적밀도 :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 14,
+      "original_number": 25,
+      "question": "2 / 100) = 2000 kg = 2 ton - 석력함량 : 0%",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 15,
+      "original_number": 26,
+      "question": "25 미상 ᆞ 적정 교환성 칼륨(000106/!66) :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 16,
+      "original_number": 28,
+      "question": "5 \" 적정 교환성 칼슴(600016/19):",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 17,
+      "original_number": 30,
+      "question": "50 * 적정 Nacl(%) :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 18,
+      "original_number": 31,
+      "question": "05 미만 *적점 전기전도도 EC (dS/ m) :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 19,
+      "original_number": 32,
+      "question": "40 미만 (ECe :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 20,
+      "original_number": 33,
+      "question": "13 % 낮은 감은 약간 있음|",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "칼륨 [1 cmole/kg 은 적정함량 보다 높음]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 21,
+      "original_number": 34,
+      "question": "플루오피람 UN을 (OSM S 함량 40%)를 4,000배 희석하여 500!를 조제할 때 소요되는 OF 량과 살포액의 유효성분 을E? (Et, 희석수의 비중은 1이다.)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 22,
+      "original_number": 35,
+      "question": "125L > mL= 변환하면 125mL \" 살포액의 유효성분농도",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 23,
+      "original_number": 37,
+      "question": "0001 (유효성분",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 24,
+      "original_number": 38,
+      "question": "4를 4000배 희석했으므로)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 25,
+      "original_number": 40,
+      "question": "봉입체 통한 진단 1) 전자현미경으로 봉입체를 찾음",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 26,
+      "original_number": 41,
+      "question": "병원체 : Poplar mosaic virus (PropMV)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 27,
+      "original_number": 42,
+      "question": "생장주, 저항기록드릴",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 28,
+      "original_number": 43,
+      "question": "병원균 ᆞ Erwinia amylovora : 그람음성균, 막대모양 [간균)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 29,
+      "original_number": 44,
+      "question": "사과나무, 2,배나무, 3,산사나무,",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 30,
+      "original_number": 46,
+      "question": "피해 - 1950년대부터 보은, 목천, 봉화 등 대추명산지를 황폐화, A을 현만인 병해이다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 31,
+      "original_number": 47,
+      "question": "5월 중순~하준 발쟁하여 7~?월 개화기에 꽃봉오리, 열매 등으로 확산",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 32,
+      "original_number": 48,
+      "question": "병원균 - Septoria abeliceae",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 33,
+      "original_number": 49,
+      "question": "[예방) 11월~3뭔말에 아바멕틴",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 34,
+      "original_number": 50,
+      "question": "8% 유제, 에마멕틴 벤조에이트",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 35,
+      "original_number": 51,
+      "question": "8% + 설폭사플로르 분산성액제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 36,
+      "original_number": 52,
+      "question": "Marssonina 속에 의한 병 발생 및 병원균의 특성에 관한 설명으로 Se 것은? 분생포자각을 형성한다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "4",
+          "text": "증상이 심한 병반에는 짧은 털이 밀생한 것처럼 보인다."
+        },
+        {
+          "number": "1",
+          "text": "분생포쟈각을 형성한다. [분생포자층]"
+        },
+        {
+          "number": "3",
+          "text": "은백양은 포플러류 점무늬잎떨림병에 감수성이 있다. |은백양은 포플러류 점무늬잎떨림병의 내병성품종이"
+        },
+        {
+          "number": "5",
+          "text": "장미 컴은무늬병은 봄비가 찾은 해에는 5~6&월에도 심하게 발생한다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 37,
+      "original_number": 53,
+      "question": "병원균 - Drepanopeziza brunnea",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 38,
+      "original_number": 54,
+      "question": "병원균 - Marssonina martinii",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 39,
+      "original_number": 55,
+      "question": "병원균 - Dip locarpon mespil i (= Marssonina rasae) * 장미를 비롯한 장미속 식물에 발생",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 40,
+      "original_number": 56,
+      "question": "0um) < 세균] * 민공배양 되지 않는다 [순활물 기생성)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 41,
+      "original_number": 58,
+      "question": "000배 | 폴리목신디 수화제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 42,
+      "original_number": 60,
+      "question": "병원균 - Botryosphaeria dothidea",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 43,
+      "original_number": 61,
+      "question": "병원균 - Uredinopsis kormakatakensis",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 44,
+      "original_number": 62,
+      "question": "병원균 : Rhizina undulata [파상땅해파리 버섯), 주발버섯문 (반균강,자낭균류) |",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 45,
+      "original_number": 63,
+      "question": "병원균 - Apiognomonia veneta",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 46,
+      "original_number": 64,
+      "question": "병원균 - Pestalotiaginko",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 47,
+      "original_number": 65,
+      "question": "병원균 - Glomerella cingulata 무성포자(분샘포자)는 Colletotrichum 910605601101065 미고, 유섬포자{자낭포자)는 Glomerella",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 48,
+      "original_number": 66,
+      "question": "병원균 - Septobasidium bogoriense, S.tanakae 「갈색고약병) (basidium2 담자균류)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 49,
+      "original_number": 67,
+      "question": "병원균 - Uromyces truncicola",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 50,
+      "original_number": 68,
+      "question": "병원균 : Ophiostoma novo-ulmi [자낭균류) * 매개충 : 유럽느릅나무좀, 미국느릅나무좀, 유럽에서 발생 후 북미로 유입 (느릅나무의 치명적인 피해)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 51,
+      "original_number": 69,
+      "question": "병원균의 속(46045)이 병만 고른 것은? 4, 밤나무 임크병 7, 밤나무 QS | Phytopnthera,",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 52,
+      "original_number": 70,
+      "question": "곤춤의 날개의 변형이 옮지 않은 것S? 0) 대벌레 - 연모[1096ᄒ)",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "2",
+          "text": "오리나무좀 - KAl(elytra)"
+        },
+        {
+          "number": "5",
+          "text": "갈색날캐노린재 - BE A|(hemelytra)"
+        },
+        {
+          "number": "3",
+          "text": "오리나무좀 - KA (elytra) [딱정벌레목은 조시 (를Os, 무당벌레과, 잎벌레과, 바구미과, 하늘소과, 주둥이"
+        },
+        {
+          "number": "3",
+          "text": "갈색여치 - 가죽날개((69!0100ᄋ) |에뚜기도 포함하여 가죽날개]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 53,
+      "original_number": 71,
+      "question": "분포 : 한국, 중국, 일본, 대만",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 54,
+      "original_number": 72,
+      "question": "5배 이하이다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 55,
+      "original_number": 73,
+      "question": "생물적 방제 * 기생성 천적으로 솔잎혹파리먹좀벌, 혹파리 살이먹좀벌, 혹파리등뿔먹좀벌, 혹파리반뿔먹좀벌을 이용한다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 56,
+      "original_number": 74,
+      "question": "수목해충의 약제 처리에 관한 설명으로 옮지 않은 것은? 꽃매미는 어린 약충기에 수관살포한다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "2",
+          "text": "갈색날캐매미줌은 어린 약춤기인 4월 하순부터 수관살포한다. |꽃매미, 갈색날캐매미춤, 미국선녀벌레의 경"
+        },
+        {
+          "number": "5",
+          "text": "slit) 월동한 유춤의 활동기인 4월 중.하순경에 경엽살포한다. |유충가해기에 트리플루뮤론 수화제"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 57,
+      "original_number": 75,
+      "question": "환공재, 산공재, 반환공재로 구분할 때 나머지와 다른 수좋은\" 벗나무 [산공재]",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 58,
+      "original_number": 76,
+      "question": "햇빛을 감지하여 광형태형성을 조절하는 광수용체를 고른 것은?",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 59,
+      "original_number": 77,
+      "question": "종자 발아에서 개화까지 생장 전 과정에 관여",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 60,
+      "original_number": 78,
+      "question": "낮과 밤의 길이를 감지하고 적생광에 반응함.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 61,
+      "original_number": 79,
+      "question": "청색광과 자외선을 흡수하여 굴광성에 관여",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 62,
+      "original_number": 80,
+      "question": "해당작용 - 1단계 * 포도당이 Cs 화합물인 피루빈산으로 분해되는 과정",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 63,
+      "original_number": 81,
+      "question": "주기성 : 불규칙 A을 하는데 주된 뭔인은 화아의 형성이 안되거나 화아형성이 되었어도 미발달이 문제 [화아의 발달유무는 탄수화물의 공급에 의존함)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 64,
+      "original_number": 82,
+      "question": "광 합성(환원과정]의 역반음에 해당하는 산화과정이다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 65,
+      "original_number": 83,
+      "question": "브라시도스테로이드 * 캄파스테롤로부터 생합성",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 66,
+      "original_number": 84,
+      "question": "수목의 질산환원에 관한 설명으로 옮지 않은 것은? © Sel NOreé 아미노산 합성 전에 NOE 환원된다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "2",
+          "text": "잎에서 질산환원은 광합성속도와 부(-)의 상관관계를 갖는다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 67,
+      "original_number": 85,
+      "question": "[질산태)티@- -> (OFSIAHEW)NO,~ : 질산환원효소(01046 「694아056)에 의해 이루어짐 [세포질 내]",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 68,
+      "original_number": 86,
+      "question": "1 대표적인 혼층형 광물로 비팽창형] 카올리나이트[<(@01101『6] [1:1 비팽참형]",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 69,
+      "original_number": 87,
+      "question": "온대 또는 열대의 습윤한 기후에서 발달하며 cambic, umbric HSS 가지는 토양목은?",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "1",
+          "text": "알피졸(11501) (3) 을|R(Ultisol) (3) 엔티졸[ᄃ011501)"
+        },
+        {
+          "number": "4",
+          "text": "WC|B(Andisol) © 인셉티졸(10ᄋ6ᄒᄆᄂᄆ5ᄋ01)"
+        },
+        {
+          "number": "3",
+          "text": "WE|S(Entisol) |우리나라에 주요분포, 풍화에 강함, 미숙토양, 비성대성 토양의 대부분.]"
+        },
+        {
+          "number": "5",
+          "text": "QHE|S(lnceptisol) [cambio(HEeet 높음), 006ᄆᄋ열대우림, 툰드라), 토층분화정도는 중간]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 70,
+      "original_number": 88,
+      "question": "토양 곰팡이와 식물뿌리 간의 \"공생\" 관계를 맺고 있는 상태 식물 - 곰팡이에게 탄수화물(설탕)을 제공",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 71,
+      "original_number": 89,
+      "question": "코발트 + 코발트의 유효도는 토양 phot 수분상태의 영향을 크게 받음",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 72,
+      "original_number": 90,
+      "question": "토양유기물 분해에 관한 설명으로 옮지 않은 것은? 토양이 산성화 또는 알칼리화되면 유기물 분해속도는 느려진다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "발효형 미생물은 리그닌의 분해를 SU을 키폭효과를 가지고 있다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 73,
+      "original_number": 92,
+      "question": "0 8/007”이다.)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 74,
+      "original_number": 93,
+      "question": "5 9/'00: *용적수분함량 = 중량수분함량 ×용적밀도 = 20 «",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 75,
+      "original_number": 94,
+      "question": "5 = 30 % 위조점은 석물이 시들게 되는 토양수분 상태이다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "2",
+          "text": "포장용추량은 모든 공극이 물로채워진 토양수분 상태이다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 76,
+      "original_number": 95,
+      "question": "0 g/cm - 질소농도 :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 77,
+      "original_number": 96,
+      "question": "0 g/om® [변환 1000 (6, 00\"|",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 78,
+      "original_number": 97,
+      "question": "수목 이식에 관한 설명으로 옳지 않은 것은? 나무의 크기가 클수록 이식성공률이 낮다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 79,
+      "original_number": 98,
+      "question": "이식장소 선정 : 식재공간, 토양상태, 배수상태, 채광상태, 주변환령 oa 학인 > Aza 가죄무 24) 저 실시차는 저저으 되도로 저기 하는 것이 바람직함.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 80,
+      "original_number": 99,
+      "question": "수목의 기생성 병과 비기생성 병의 특징에 관한 설명으로 ge 것은? 기생성 병은 수목 조직에 대한 선호도가 없지만 비기생성 BS 있다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "4",
+          "text": "기생성 병은 병의 진전도가 비슷하게 나타나지만 비기생성 BS 다양하게 나타난다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 81,
+      "original_number": 100,
+      "question": "50 이상 \"적정 교환성 나트륨 :",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 82,
+      "original_number": 101,
+      "question": "마바멕틴 미탁제에 관한 설명으로 옮지 않은 것은? 꿀벌에 대한 독성이 강하여 사용에 주의하여야 한다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "1",
+          "text": "접촉독 및 소화중독에 의하여 살충효과를 나타낸다, [우선 살춤제 지문이 나왔을 경우, 접촉독, 소화중독[식독"
+        },
+        {
+          "number": "3",
+          "text": "소나무에 나무주사 시 흉고직경 cm S 원액 IMLS 사용하여야 한다.[옮은 보기 지문]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 83,
+      "original_number": 102,
+      "question": "육안적 검정 - 대표증상 : 빗자루[총생), 황화",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 84,
+      "original_number": 103,
+      "question": "수목 병원균류의 영양기관은? DQ 버섯 (2) 균사체 (3) 자낭구 @ 분생포자좌 (5) 분생포자층",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 85,
+      "original_number": 104,
+      "question": "기주 : 포플러류 [피해 A, 전세계), 19624 미류나무에서 최초 발견, 40~50% 재적감소",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 86,
+      "original_number": 105,
+      "question": "기주 - 대추나무, SLES, 쥐똥나무, 일일초 등",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 87,
+      "original_number": 106,
+      "question": "잎 표면에 밀가루를 뿌린 것 같은 백색~회색 반점이 생김.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 88,
+      "original_number": 107,
+      "question": "병발생 환경유인 (AMgkS 나무는 동해 걸리기 쉽다. 접목부위 통한 침입) + 10년 이하 어린나무에서 Bo] 많이 발생",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 89,
+      "original_number": 108,
+      "question": "발병특징 * 전세계적으로 포플러류 묘목, 성목에서 발생",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 90,
+      "original_number": 109,
+      "question": "발생특징 * BE, 건물에 근접 또는 그늘에서는 수관전체발생",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 91,
+      "original_number": 110,
+      "question": "15% 유제, 모란탈테트레이트 8%, 밀베멕틴 2%유제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 92,
+      "original_number": 111,
+      "question": "(예방) 를A ~ 5월 하순까지 살선충제 토양약제 주입 : 포스치아제이트 30% 액제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 93,
+      "original_number": 112,
+      "question": "발병특징 * 전세계적으로 포플러류 묘목, 성목에서 발생",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 94,
+      "original_number": 113,
+      "question": "특징 * 29] HHS 건전부위와 병든부위의 경계가 Salot 적갈색, 뒷면은 담갈색",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 95,
+      "original_number": 114,
+      "question": "다음에 설명된 수목 병원체에 관한 내용으로 옮은 것은? - 원핵생물계에 속하며 일정한 모양이 없는 다형성 미생물이다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "매미충류, HPO, BSS 0| 매개중으로 알려져 있다. |주로 매미중류에 의해]"
+        },
+        {
+          "number": "5",
+          "text": "병원체의 크기는 바이러스보다 크고 셰균과-유샤하다. [바이러스<파이토플라스마<세균]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 96,
+      "original_number": 115,
+      "question": "기주 - 20과 100여속 (다범성 병해) * 밤나무, 호두나무, 사과나무, 배나무 > 과실을 썩게하는 \"경제적피해\"",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 97,
+      "original_number": 116,
+      "question": "기주 - (녹병정자, 녹포자) 전나무",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 98,
+      "original_number": 117,
+      "question": "발챙특성 - SSR, 진달래류 (봄비가 Say 많이 발생)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 99,
+      "original_number": 118,
+      "question": "발생특성 - 버즘나무는 2차 생장하므로 수목이 죽지는 않고 수관이 회복이 되긴 함. (초봄) 어린잎 까맞게 고사 [생육기) 잎맥따라 검은 갈색 반점 (괴사)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 100,
+      "original_number": 119,
+      "question": "발병특징 - 주로 어린나무 @ 모포에서 주로발생, 강품등의 환경요인으로 인한 삼처부위에 \"감염\"",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 101,
+      "original_number": 121,
+      "question": "기주 - 회화나무 *중간기주 없음 [동종기생성] - 기주교대× 3, 발생특징",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 102,
+      "original_number": 122,
+      "question": "기주 - 배나무, 사과나무, 포도나무, 감나무, 밤나무, 호두나무, 포플러, SUS 등의 수목 및 초본식물 [기주범위가 넓으며 묘목에 나타나면 피해 심!!)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 103,
+      "original_number": 123,
+      "question": "철쪽류 잎마름병 [Pestalotiopsis| . 포플러 잎마를 . 포플러 S088 [Septotinia populiperdal",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 104,
+      "original_number": 124,
+      "question": "흰날개무늬병의 특징만 고른 것은?",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 105,
+      "original_number": 125,
+      "question": "병원균은 리지나뿌리썩음병과 동일한 S(phylum)ol 속한다. 0) ᄀ,ᄂ2) 7ᄀ,ᄃ 3) ᄂ,ᄃ 0) ᄂ,2 ᄃ,2",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 106,
+      "original_number": 126,
+      "question": "기주 : SUS, 단품나무, AUF, 포도",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 107,
+      "original_number": 127,
+      "question": "피해 : 사과 과수원 약 5% 감염",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 108,
+      "original_number": 128,
+      "question": "안노섬뿌리썩음병 (침엽수) o O@ebel ote 리썩을병 침엽 a. Si a a,",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 109,
+      "original_number": 129,
+      "question": "복숭아유리나방 @ 그 @ L,cC (3) lye LCi, 1,L,¢,",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 110,
+      "original_number": 130,
+      "question": "섬충의 외부 구조에 관한 설명으로 옮은 것은? 백송애기잎말이나방은 머리에 옆홀눈이 있다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "갈색날캐매미충의 다리는궁쌍위따-배부부위에 있다. |다리가 앞가슴, 가운데가슴, 뒷가슴에 BAYS"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 111,
+      "original_number": 131,
+      "question": "5배 길이로, S을",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 112,
+      "original_number": 132,
+      "question": "화학적방제 25%, 트리플루뮤론 25%, 비티쿠르스타키 수화제]",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 113,
+      "original_number": 133,
+      "question": "화학적방제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 114,
+      "original_number": 134,
+      "question": "화학적방제 ° 유중기인 4월 하순 58 상순까지 클로르푸루아주론 유제 (5%) 2,000배액 또는 페니트로티온 유제",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 115,
+      "original_number": 135,
+      "question": "화학적 방제 eo ACHE 약충 발생 초기에 이미다클로프리드 액상수화제[8%) 2,000배액 또는 에티다티온 유제[40%)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 116,
+      "original_number": 136,
+      "question": "수목의 뿌리에서 코르크형성층과 측근을 만드는 조직은1 wale 「 OAi@c@Oc@a (7) <i ~ Xf Gp",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 117,
+      "original_number": 137,
+      "question": "카로티노이드 ᄆ. 크립토크롬 vy, 포토트로핀 Q7,L,6@7,2,4@vt,2,9@c,2,0@0C,50,H",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 118,
+      "original_number": 138,
+      "question": "낮은 광도에서 예민하게 반음",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 119,
+      "original_number": 139,
+      "question": "카로티노이드 [광합성을 돕고 자외선의 P을S 막는 을MA, 염록소를 보조하여 햇빛을 흡수하는 광합 성의 보조색소, 녹색 이외의 다양한 색깔이 있음, 암흑 속에서도 합성이 가능(노란색을 B)|",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 120,
+      "original_number": 140,
+      "question": "굴광성과 굴지성은 청색광에 의해서 유도됨] . 포토트로핀",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 121,
+      "original_number": 141,
+      "question": "스트레스에 대한 수목의 반응으로 을 것은? 바람에 자주 노출된 수목은 뿌리 생장이 감소한다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "2",
+          "text": "JBAEM을 받으면 춘재 구성세포의 직경이 커진다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 122,
+      "original_number": 142,
+      "question": "크레브스회로(1665 cycle, TCA 회로] - 2단계 * 해당작용에서 생성된 에서 ᄋ<;가 빠지면서 -;화합물이 되어 크레브스 회로에 전달됨.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 123,
+      "original_number": 143,
+      "question": "눈의 호흡은 계절적으로 변동이 심하다.(휴면기간에는 최저수준, 봄철 호흠량이 급속도로 올라감)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 124,
+      "original_number": 144,
+      "question": "를A 개화능력 : 같은 환경에서도 개화능력에는 차이가 있음 특히, 질소와 관련된 명양상태가 양호할 때 암꽂이 생킨다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 125,
+      "original_number": 145,
+      "question": "원형질을 가진 세포 WOM 미토콘드리아라는 작은 세포소기관에서 일어난다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 126,
+      "original_number": 146,
+      "question": "크레브스회로[+@65 cycle, TCA 회로) - 2단계 * 아세틸604&가 < 화합물과 반응하면서 CO, 발생, NADH 생산하는 단계",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 127,
+      "original_number": 148,
+      "question": "[아질산태)4@2- -> (StS EH)NH,* : 아질산환뭔효소[01416 reductase)oll 의해 이루어짐 [엽록체 or plastid(4#2%))]",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "4",
+          "text": "질소함량은 낙엽 직전에 잎에서는 감소하고 가지에서는 증가한다."
+        },
+        {
+          "number": "3",
+          "text": "지방 분해과정의 첫 번째 를K 리파아제|16ᄆᄋ56)이다."
+        },
+        {
+          "number": "5",
+          "text": "것LS 글리세롤과 지방산으로 분해된 후 자당[600/056)으로 합성된다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 128,
+      "original_number": 149,
+      "question": "기후요인 * 온도 - 암반음은 효소에 의한 생화학적 CO, 고정이기에 온도 을S 많이 받음 {고산지대에서는 최적온도가",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 129,
+      "original_number": 150,
+      "question": "광물의 풍화 내성이 강한 것부터 약한 순서로 나열한 것은? 미사장석 > 백운모 > 흑운모 > 감람석 > 석명",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "5",
+          "text": "흑운모 > 백운모 > 감람석 > 석영 > 미사장석"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 130,
+      "original_number": 151,
+      "question": "종류 1) 외생균근",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "모래함량아-않은 토양일수록완충용량은 커진다. |'점토함량이 않은' 으로 교체되어야 Bt]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 131,
+      "original_number": 152,
+      "question": "몰리브덴은 Nitrogenase2| 보조인자로 작용합니다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 132,
+      "original_number": 153,
+      "question": "식물명양소의 공급기작에 관한 설명으로 gS 것은? 인산이 칼륨보다 큰 확산계수를 가진다.",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 133,
+      "original_number": 154,
+      "question": "집단류 (mass flaw) * 물의 대류현상으로 확산과 대비되는 개념",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 134,
+      "original_number": 156,
+      "question": "전정과 가지묶기 : 굴취 전 실시하는 전정은 되도록 적게 하 = 고 i ue | 적 러 4, +I 보호 \" 마태, 부직포, 좀이 [마분지], 비닐, 새끼로 꼬아 we A 느 기 은 ETA 41)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 135,
+      "original_number": 157,
+      "question": "가로수에 관한 설명으로 옮지 않은 것은? 내병충성과 강한 구획화 능력이 요구된다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "보도 포장의 율기와 훼손을 예방하려고 천근성-수종을 선정한다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 136,
+      "original_number": 158,
+      "question": "19911년에 만들어진 도시공원의 토양 조사 결과 pH",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 137,
+      "original_number": 159,
+      "question": "8 (leat serch) * V9) 가잠자리 또는 엽맥사이의 조직이 변색되며 죽는 생리적인 장애",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 138,
+      "original_number": 161,
+      "question": "테부코나졸 유탁제에 관한 설명으로 옮지 않은 것은? 스트로빌루린계 살균제이다.",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "3",
+          "text": "세포막 스테롤 생합성 저해제이다. |암기 : \"사막『 - 작용기작은 ah, 막에서 스테롤 생합성 저해]"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 139,
+      "original_number": 162,
+      "question": "을S 진단 1) 한천젤이중확산법 : 소수의 시료를 이용한 면역학적 진단",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 140,
+      "original_number": 163,
+      "question": "포플러류 모자미크병의 병징으로 옮지 않은 것은? 잎자루와 주맥의 괴사반점",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "5",
+          "text": "So] 불규칙한 모양의 퇴록반점"
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 141,
+      "original_number": 164,
+      "question": "전염 : 감염나무의 삽수 * 종자전염은 불가능, W을 등 전반방법 불명확 - 늦봄부터 활짝 핀 잎에 불규칙한 퇴록 반점 다수 나타나 모자이크 증상 보임",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 142,
+      "original_number": 165,
+      "question": "병환 / 월동 / 침입 / 전반 * 궤양 주변에서 휴면상태로 월동하여 이듬해 봄에 비가 내릴때 활동시작",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 143,
+      "original_number": 166,
+      "question": "매개곤충 - 마름무늬매미충 (Hishimonus sellatus) [= 모무늬 매미충) * 꽃봉오리가 점차 입으로 변하는 엽화현",
+      "type": "객관식",
+      "choices": [
+        {
+          "number": "5",
+          "text": "소나무재선충병 매개충은 우화. 탈출시기에 살충제를 살포하여 방제한다."
+        }
+      ],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 144,
+      "original_number": 167,
+      "question": "꽃이 잘 피지 않고, 일찍 시든다..",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 145,
+      "original_number": 168,
+      "question": "(GUE) 을ISS ~ 4월 15일에 매개충 살충제 나무주사 : 티아에톡삼 15% 분산성 Wal A, (예방) 12월 ~ 2B Bol] 합제[살선충제+살충제] 나무주사 : 아마멕틴",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 146,
+      "original_number": 169,
+      "question": "한국에 적용 살균제가 등록되어 있는 수목병은? 사철나무 탄저병",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 147,
+      "original_number": 170,
+      "question": "병징.표징 - 갈색, 을M, 자낭각, 분생포자각 [6~8월), 특유의 술냄새가 난다 (열매)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 148,
+      "original_number": 171,
+      "question": "피해 - 관상가치 촌상 * 4월 말부터 잎, 꽃눈이 비대, 흰색~핑크색 덩어리로~[5월에 담자포자)",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 149,
+      "original_number": 172,
+      "question": "병징 - 잎의 가장자리부터 병반발생, 경계부위 갈색~회갈색, 경계부위는 황록색, 부채꼴 모양으로 확대",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    },
+    {
+      "number": 150,
+      "original_number": 173,
+      "question": "표징 : 수피밑에 흰색의 균사막, 균핵형성 -> 자실체가 아닌 균사덩어리 임. 5, 방제 : 자주빛 날캐무늬병과 동일",
+      "type": "주관식",
+      "choices": [],
+      "answer": null,
+      "keywords": []
+    }
+  ]
+}

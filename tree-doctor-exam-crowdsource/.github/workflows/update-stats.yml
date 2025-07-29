@@ -1,0 +1,251 @@
+name: Update Statistics
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**/*.json'
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Calculate Statistics
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require('fs');
+          const path = require('path');
+          
+          // Statistics object
+          const stats = {
+            totalQuestions: 0,
+            verifiedQuestions: 0,
+            byYear: {},
+            bySubject: {},
+            contributors: {},
+            verifiers: {},
+            lastUpdated: new Date().toISOString()
+          };
+          
+          // Process all JSON files
+          const processDirectory = (dir) => {
+            const files = fs.readdirSync(dir);
+            
+            for (const file of files) {
+              const filePath = path.join(dir, file);
+              const stat = fs.statSync(filePath);
+              
+              if (stat.isDirectory()) {
+                processDirectory(filePath);
+              } else if (file.endsWith('.json') && !file.startsWith('_')) {
+                try {
+                  const content = fs.readFileSync(filePath, 'utf8');
+                  const data = JSON.parse(content);
+                  
+                  // Count total
+                  stats.totalQuestions++;
+                  
+                  // Count verified
+                  if (data.verifiedBy && data.verifiedBy.length >= 2) {
+                    stats.verifiedQuestions++;
+                  }
+                  
+                  // By year and round
+                  const yearKey = `${data.year}`;
+                  if (!stats.byYear[yearKey]) {
+                    stats.byYear[yearKey] = { total: 0, verified: 0, rounds: {} };
+                  }
+                  stats.byYear[yearKey].total++;
+                  if (data.verifiedBy && data.verifiedBy.length >= 2) {
+                    stats.byYear[yearKey].verified++;
+                  }
+                  
+                  const roundKey = `round-${data.round}`;
+                  if (!stats.byYear[yearKey].rounds[roundKey]) {
+                    stats.byYear[yearKey].rounds[roundKey] = { total: 0, verified: 0 };
+                  }
+                  stats.byYear[yearKey].rounds[roundKey].total++;
+                  if (data.verifiedBy && data.verifiedBy.length >= 2) {
+                    stats.byYear[yearKey].rounds[roundKey].verified++;
+                  }
+                  
+                  // By subject
+                  if (!stats.bySubject[data.subject]) {
+                    stats.bySubject[data.subject] = { total: 0, verified: 0 };
+                  }
+                  stats.bySubject[data.subject].total++;
+                  if (data.verifiedBy && data.verifiedBy.length >= 2) {
+                    stats.bySubject[data.subject].verified++;
+                  }
+                  
+                  // Contributors
+                  if (data.contributor) {
+                    if (!stats.contributors[data.contributor]) {
+                      stats.contributors[data.contributor] = 0;
+                    }
+                    stats.contributors[data.contributor]++;
+                  }
+                  
+                  // Verifiers
+                  if (data.verifiedBy) {
+                    for (const verifier of data.verifiedBy) {
+                      if (!stats.verifiers[verifier]) {
+                        stats.verifiers[verifier] = 0;
+                      }
+                      stats.verifiers[verifier]++;
+                    }
+                  }
+                  
+                } catch (e) {
+                  console.error(`Error processing ${filePath}: ${e.message}`);
+                }
+              }
+            }
+          };
+          
+          // Start processing
+          if (fs.existsSync('data')) {
+            processDirectory('data');
+          }
+          
+          // Sort contributors and verifiers
+          const topContributors = Object.entries(stats.contributors)
+            .sort(([,a], [,b]) => b - a)
+            .slice(0, 10);
+          
+          const topVerifiers = Object.entries(stats.verifiers)
+            .sort(([,a], [,b]) => b - a)
+            .slice(0, 10);
+          
+          // Generate badge functions
+          const getBadge = (count, type) => {
+            if (type === 'contributor') {
+              if (count >= 100) return '🏔️ 산 기여자';
+              if (count >= 51) return '🌲 숲 기여자';
+              if (count >= 21) return '🌳 나무 기여자';
+              if (count >= 6) return '🌿 성장 기여자';
+              return '🌱 새싹 기여자';
+            } else {
+              if (count >= 100) return '🏅 마스터 검증자';
+              if (count >= 50) return '🔎 전문 검증자';
+              if (count >= 10) return '🔍 검증자';
+              return '';
+            }
+          };
+          
+          // Update README
+          let readme = fs.readFileSync('README.md', 'utf8');
+          
+          // Update progress bar
+          const progress = Math.round((stats.verifiedQuestions / 800) * 100);
+          readme = readme.replace(
+            /!\[진행률\]\(https:\/\/progress-bar\.dev\/\d+\/\?title=[^)]+\)/,
+            `![진행률](https://progress-bar.dev/${progress}/?title=전체%20진행률)`
+          );
+          
+          // Update statistics table
+          const tableRows = [];
+          const years = ['2023', '2022'];
+          const rounds = [1, 2];
+          
+          for (const year of years) {
+            for (const round of rounds) {
+              const yearStats = stats.byYear[year]?.rounds[`round-${round}`] || { total: 0, verified: 0 };
+              const progress = yearStats.total > 0 ? Math.round((yearStats.verified / 200) * 100) : 0;
+              tableRows.push(`| ${year} | ${round}회 | 200 | ${yearStats.total} | ${yearStats.verified} | ${progress}% |`);
+            }
+          }
+          
+          const tableSection = `| 연도 | 회차 | 총 문제 수 | 입력 완료 | 검증 완료 | 진행률 |
+|------|------|-----------|-----------|-----------|--------|
+${tableRows.join('\n')}`;
+          
+          readme = readme.replace(
+            /\| 연도 \| 회차 \| 총 문제 수[\s\S]+?(?=\n\n)/,
+            tableSection
+          );
+          
+          // Update current stats
+          readme = readme.replace(
+            /- 총 입력된 문제: \d+개/,
+            `- 총 입력된 문제: ${stats.totalQuestions}개`
+          );
+          readme = readme.replace(
+            /- 검증 완료된 문제: \d+개/,
+            `- 검증 완료된 문제: ${stats.verifiedQuestions}개`
+          );
+          readme = readme.replace(
+            /- 참여 기여자: \d+명/,
+            `- 참여 기여자: ${Object.keys(stats.contributors).length}명`
+          );
+          
+          // Add Hall of Fame section if not exists or update it
+          const hallOfFameSection = `
+## 🏆 명예의 전당
+
+### 이번 달 최고 기여자
+${topContributors.slice(0, 3).map(([name, count], index) => 
+  `${index + 1}. @${name} - ${count}개 문제 ${getBadge(count, 'contributor')}`
+).join('\n')}
+
+### 최고 검증자
+${topVerifiers.slice(0, 3).map(([name, count], index) => 
+  `${index + 1}. @${name} - ${count}개 검증 ${getBadge(count, 'verifier')}`
+).join('\n')}
+
+### 전체 기여자 순위
+<details>
+<summary>전체 보기</summary>
+
+| 순위 | 기여자 | 문제 수 | 배지 |
+|------|--------|---------|------|
+${topContributors.map(([name, count], index) => 
+  `| ${index + 1} | @${name} | ${count} | ${getBadge(count, 'contributor')} |`
+).join('\n')}
+
+</details>`;
+          
+          if (readme.includes('## 🏆 명예의 전당')) {
+            readme = readme.replace(
+              /## 🏆 명예의 전당[\s\S]+?(?=##|$)/,
+              hallOfFameSection + '\n\n'
+            );
+          } else {
+            // Insert before 현재 진행 상황
+            readme = readme.replace(
+              '## 📊 현재 진행 상황',
+              hallOfFameSection + '\n\n## 📊 현재 진행 상황'
+            );
+          }
+          
+          fs.writeFileSync('README.md', readme);
+          
+          // Save statistics JSON
+          fs.writeFileSync('stats.json', JSON.stringify(stats, null, 2));
+          
+          // Commit changes
+          const { execSync } = require('child_process');
+          execSync('git config user.name "github-actions[bot]"');
+          execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+          execSync('git add README.md stats.json');
+          
+          try {
+            execSync('git commit -m "chore: 자동 통계 업데이트"');
+            execSync('git push');
+          } catch (e) {
+            console.log('No changes to commit');
+          }

@@ -1,0 +1,24 @@
+{
+  "total_time": "3.49s",
+  "files_processed": 3,
+  "results": [
+    {
+      "file": "/Users/voidlight/Downloads/[Codekiller]제7회 기출문제 해설집(v1.0).pdf",
+      "output": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-7th-complete.md",
+      "problems_extracted": 0,
+      "processing_time": "1.34s"
+    },
+    {
+      "file": "/Users/voidlight/Downloads/[Codekiller]제8회 기출문제 해설집(v1.0).pdf",
+      "output": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-8th-complete.md",
+      "problems_extracted": 0,
+      "processing_time": "0.95s"
+    },
+    {
+      "file": "/Users/voidlight/Downloads/[Codekiller]제9회 기출문제 해설집(v1.0).pdf",
+      "output": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-9th-complete.md",
+      "problems_extracted": 0,
+      "processing_time": "1.21s"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+98. 오염 토양 복원 기술 중, 생물학적 처리 기술이 아닌 AS?
+01) Bioventing
+
+@ Vitrification
+
+@ Land farming
+
+() Biodegradation
+
+(65) Phytoremidiation
+
+생물학적 처리기술
+1. biodegradation : 세균이나 사상균과 같은 미생물로 유기오염물질을 분해하는 방법
+2. 0104601109 :오염된 불포화 SAO] 공기를 주입하여 휘발성 OHSAS 기화시키는 기술, 토양내 산소의 농
+도를 증가시켜 미생물의 생분해능을 촉진시켜 처리하는 기술
+3. landfarming : 오염물질이 하부로 유출되는 것을 막기위해 처리장 하부에 차단시설 설치, 그 위에 오염토양
+을 펼쳐놓고 주기적으로 경작.
+4. phytoremediation : ASS 이용한 환경복원 = 식물복원방법
+물리화학적 처리기술
+1. Soil flushing
+2. 토양증기추출기술 [5011 vapor extraction(SVE) 공법)
+3, 안정화 및 고형화처리기술[0611120[100/50110111001100 technology)
+: -vitrification(FelS})& 안정화
+4. chemical reduction(24) /oxidation(4tt)
+
+폐광지역의 폐갱도에서 황화합물이 포함된 산성 폐수가 나옴.
+
+100. 조림 지역에 질소시비량 50 kg N/ha 을 시용할 경우 복합비료[4=25% )살포량은?[[ㅇ 당)
+0) 100 kg @ 150 kg
+
+@ 200 kg @ 250 kg
+
+(5) 300 kg
+
+살포량 = 질소시비량 / 비료의 질소함유량
+= 50 / 0.25
+= 200kg
+
+정답 : 98-2, 99-8), 100-2)

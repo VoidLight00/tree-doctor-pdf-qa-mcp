@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-07-28T20:34:53.712181",
+  "total": 7,
+  "successful": 0,
+  "failed": 7,
+  "results": [
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-5th-markitdown.md"
+    },
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-6th-markitdown.md"
+    },
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-7th-markitdown.md"
+    },
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-8th-markitdown.md"
+    },
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-9th-markitdown.md"
+    },
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-10th-markitdown.md"
+    },
+    {
+      "success": false,
+      "error": "module 'markitdown' has no attribute 'MarkdownConverter'",
+      "file": "exam-11th-markitdown.md"
+    }
+  ]
+}

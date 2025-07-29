@@ -1,0 +1,6691 @@
+{
+  "round": 7,
+  "title": "제7회 나무의사 자격시험",
+  "question_count": 421,
+  "questions": [
+    {
+      "id": "q7_1",
+      "exam_round": 7,
+      "number": 1,
+      "subject": "기타",
+      "question": "수목의 흰카루병에 관한 설명으로 옮지 않은 것은? 단풍나무의 흰가루병이 Hop 발병 초기에 집중 방제를 한다.",
+      "choices": {
+        "2": "쥐똥나무에 발생하면 잎이 떨어지고 관상가치가 크게 떨어진다.",
+        "65": "장미의 AWS SFO] 날씨가 서늘해지면 자낭과를 형성하고 자낭에 8 개의 자낭포자를 만든다."
+      },
+      "answer": 65,
+      "explanation": "으로 옮지 않은 것은? 단풍나무의 흰가루병이 Hop 발병 초기에 집중 방제를 한다.",
+      "keywords": [
+        "흰가루병",
+        "흰카루병",
+        "생리",
+        "병충해",
+        "참나무",
+        "발병",
+        "단풍나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_2",
+      "exam_round": 7,
+      "number": 2,
+      "subject": "기타",
+      "question": "수목의 뿌리에 발생하는 Hol 관한 설명 중 옮은 것은?",
+      "choices": {
+        "2": "뿌리썩음병을 일으키는 주유 병원균은-세균이다. 파이토프토라[난균류)",
+        "3": "리지나뿌리썩음병균은-담자균문아-속하고 산성토양에서 피해가 심하다. 자낭균문",
+        "9": "아밀라리하뿌리썩음병균은 뿌리꼴균사다발을 형성한다. 담자균문"
+      },
+      "answer": null,
+      "explanation": "중 옮은 것은?",
+      "keywords": [
+        "뿌리썩음병",
+        "뿌라흑병",
+        "토양",
+        "리지나뿌리썩음병",
+        "병충해",
+        "하밀라리아뿌리썩음병",
+        "모잘록병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_3",
+      "exam_round": 7,
+      "number": 3,
+      "subject": "기타",
+      "question": "5%",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_4",
+      "exam_round": 7,
+      "number": 4,
+      "subject": "기타",
+      "question": "5 의 조사구 10개소 선정 ＊ 피표면으로부터 30 cm HOM SS 파면서 토중 유충수 조사하여 발생량 예찰",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "유충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_5",
+      "exam_round": 7,
+      "number": 5,
+      "subject": "기타",
+      "question": "해충의 약제 방제시기와 방법에 관한 설명으로 옮지 많은 것은? SUAAT| HAE 12 월에 등록약제를 나무주사한다. 외줄면층은 충영 형성 전에 등록약제를 나무주사한다.",
+      "choices": {
+        "4": "갈색날캐매미충은 등록 약제를 나무주사한다."
+      },
+      "answer": 4,
+      "explanation": "으로 옮지 많은 것은? SUAAT| HAE 12 월에 등록약제를 나무주사한다. 외줄면층은 충영 형성 전에 등록약제를 나무주사한다. 63 밤나무혹벌은 성충 발생 최성기에 등록약제를 살포한다. 미국선녀벌레는 어린 Os 발생 시기부터 등록약제를 살포한다.",
+      "keywords": [
+        "농약",
+        "생리",
+        "해충",
+        "갈색날캐매미충",
+        "성충",
+        "후약충",
+        "병충해",
+        "갈색날개매미충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_6",
+      "exam_round": 7,
+      "number": 6,
+      "subject": "기타",
+      "question": "수목의 호흡메 관한 설명으로 옮지 많은 것은? 형성층은 수피와 가깝기 때문에 호기성 호흡만 일어난다. 음수는 양수에 비해 최대 광합성량이 적고, 호흡량도 낮은 수준을 유지한다. 밀식된 임분은 개체 수가 많고 직경이 작아 전체 호흡량이 많아진다. 잎의 SEAS 잎이 완전히 자란 직후 가장 왕성하며, 가을에 HAS 정지하거나, 낙엽 직전에 최소",
+      "choices": {
+        "3": "음수는 양수에 비해 최대 광합성량이 적고, 호흡량도 낮은 수준을 유지한다. 음수는 광합성량도 적고 호흠량도"
+      },
+      "answer": 3,
+      "explanation": "으로 옮지 많은 것은? 형성층은 수피와 가깝기 때문에 호기성 호흡만 일어난다. 음수는 양수에 비해 최대 광합성량이 적고, 호흡량도 낮은 수준을 유지한다. 밀식된 임분은 개체 수가 많고 직경이 작아 전체 호흡량이 많아진다. 잎의 SEAS 잎이 완전히 자란 직후 가장 왕성하며, 가을에 HAS 정지하거나, 낙엽 직전에 최소 017 형성춤은 수피와 가깝기 때문에 추가상추흡만 일어난다, 수피와 가깝기는 하지만 외부와 공기접촉점이 없기 때문에 혐기성 호흡만을 위주로 한다. 의 체적이 증가하여 호흡량이 증가한다.",
+      "keywords": [
+        "수목관리",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_7",
+      "exam_round": 7,
+      "number": 7,
+      "subject": "기타",
+      "question": "5~2017 정도 움직임",
+      "choices": {
+        "3": "옥신의 운반은 극성을 떤다. [줄기에서는 항상 구기적방향으로 운반, 뿌리에서는 구정적 방향으로 운반)",
+        "4": "옥신의 SHS 에너지를 소모하는 과정이다. (&1『의 생산 억제시, 옥신 운반이 중단됨)",
+        "1": "뿌리생장"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_8",
+      "exam_round": 7,
+      "number": 8,
+      "subject": "기타",
+      "question": "수목의 질소대사에 관한 설명으로 옮지 많은 것은?",
+      "choices": {
+        "0": "HOA 회수된 질소의 이동은 SHS 통하여 이루어진다. 사부를 통해서"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은? 02 Holl 회수된 질소의 OSE SHS 통하여 이루어진다. GOA] 회수된 칠소는 SHS 사부 내 방사 유조직에 저장된다. 낙엽 직전의 질소함량은 잎에서는 감소하고 가지에서는 증가한다. 수목의 질소함량은 변재보다 심재에서 더 적다. 수목은 제한된 질소를 효율적으로 활용하기 위하여 오래된 조직에서 새로운 조직으로 재분배한다.",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_9",
+      "exam_round": 7,
+      "number": 9,
+      "subject": "기타",
+      "question": "적색토*황색토*적황색토 간대성 토양 : 국소적인자에 의해 좁은 지역내에서 발달한 토",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_10",
+      "exam_round": 7,
+      "number": 10,
+      "subject": "기타",
+      "question": "부분적으로 또는 심하게 분해된 수생식물의 잔재가 연못이나 습지에 퇴적되어 형성된 토양목은",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_11",
+      "exam_round": 7,
+      "number": 11,
+      "subject": "기타",
+      "question": "1%의 처리량으로 입단개량효과를 나타내는 합성물질.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_12",
+      "exam_round": 7,
+      "number": 12,
+      "subject": "기타",
+      "question": "토양 유기물에 관한 설명으로 옮지 않은 것은? 식물과 미생물에 양분을 공급한다. 토양 PH, 산화-환원전위에 SAS 미친다. © 토양 입단에 포함된 유기물은 ES} 없이 토양 중에 있는 유기물보다 분해가 BM 빠르게 진행된다. 유기물분해 AAS 더디게 해주어 오랫동안 SHO] 공급되게 하는 기능이 있음 토양유기물이란? 토양에 함유되어 있는 모든 유기물질을 말하며, 살아 있는 생명체와 죽은 wel 줄기,/잎 등의 잔사 및 AIS 포함한다. 토양유기물의 특징 * 부식이나 유기물의 분해 시 생성되는 물질은 토양의 생물/화학 및 물리성을 향상시킨다. * 작물의 성장을 도우며, 양이온교환용량과 pHessss 향상시킨다. * 토양유기물에 포합되어 있는 탄소의 양은 식물/동물/미생물 등 살아있는 생물에 포함되어 있는 Pec} 23 HY 많다.                |                            | * 유기물은 경작지 Stoll 약 2% 함유되어 있다, * 유기물은 보수력을 증가시키고, 공기와 물의 SES 원활하게 한다. * 토양의 입단형성을 촉진함으로써 통기성과 배수성을 향상시킨다, * 부식은 검은색을 떠므로 We 잘 흡수하여 지온을 상승시킨다. (토양생물 활성화) 토양유키물의 구분",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 식물과 미생물에 양분을 공급한다. 토양 PH, 산화-환원전위에 SAS 미친다. © 토양 입단에 포함된 유기물은 ES} 없이 토양 중에 있는 유기물보다 분해가 BM 빠르게 진행된다. 유기물분해 AAS 더디게 해주어 오랫동안 SHO] 공급되게 하는 기능이 있음 토양유기물이란? 토양에 함유되어 있는 모든 유기물질을 말하며, 살아 있는 생명체와 죽은 wel 줄기,/잎 등의 잔사 및 AIS 포함한다. 토양유기물의 특징 * 부식이나 유기물의 분해 시 생성되는 물질은 토양의 생물/화학 및 물리성을 향상시킨다. * 작물의 성장을 도우며, 양이온교환용량과 pHessss 향상시킨다. * 토양유기물에 포합되어 있는 탄소의 양은 식물/동물/미생물 등 살아있는 생물에 포함되어 있는 Pec} 23 HY 많다.                |                            | * 유기물은 경작지 Stoll 약 2% 함유되어 있다, * 유기물은 보수력을 증가시키고, 공...",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_13",
+      "exam_round": 7,
+      "number": 13,
+      "subject": "기타",
+      "question": "0002mm 미내이며, 이동하지 못하는 물이고, 식물이 흡수 및 이용할 수 없는 물이다. * 흡습수는 105도씨 이상의 온도에서 8~10시간 건조시 제거 된다. 위조첨                                                 | * 식물이 흡수하지 못하여 Al Sal 되는 토양수분상태. (-LSMPa 이하의 수분상태; * 이 수분상태에서 식물이 시들면 다시 회복하지 못하여 '명구위조점' 이라함. * 점토함량이 많고 고운 토성의 토양일수록 수분의 Beto] 많아진다. 모세관수 * BASS (CASS) 존재하는 SS 의미하며, -",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_14",
+      "exam_round": 7,
+      "number": 14,
+      "subject": "기타",
+      "question": "033MPa 사이의 MESS 가지는 수분이다. ㆍ 대분분식물이 흡수 이용할 수 있는 물이다. 포장용수량          | * -0,033Mpa(1/3bar)2] 퍼텐셜로 토양에 유지되는 수분함량을 의미한다. * 식물의 챙육에 가장 적합한 수분조건이다. * 점토함량이 많은 토양일수록 많아진다. [점토함량이 많을수록 소공극이 많아지고, 공극률이 커진다.) 증력수                  |                            | ¢ -",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_15",
+      "exam_round": 7,
+      "number": 15,
+      "subject": "기타",
+      "question": "033MPa 보다 2 HAMS 가지는 수분이다, * 중력의 작용에 의하여 이동할 수 있어 토망공극으로부터 쉽게 제거되는 수분이다. [=자유수) © 많은 물이 유입되어 토양이 포화상태로 되었을 때 존재할 수 있다. * 대공극에 많이 존재하는 수분이다,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_16",
+      "exam_round": 7,
+      "number": 16,
+      "subject": "기타",
+      "question": "33 x 100 염기포화도 = 33% * 교환성염기? 토양입자 표면에 흡착되어 있는 양이온 FSS 산성화시키는 H, ALS 제외한, 토양을 알칼리 성으로 만들려는 경향이 있는 Ca,Mg, Kk, Na 를 교환성염기라고 한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_17",
+      "exam_round": 7,
+      "number": 17,
+      "subject": "기타",
+      "question": "토양 공극에 관한 설명으로 옮지 않은 AS? 토양 공극량은 식토보다 사토에 더 많다. 토양 입단은 공극률에 큰 영향을 준다. 자연상태에서 공극은 공기 또는 물로 채워져 있다. 토양 내 배수와 통기는 대부분 대공극에서 이루어진다.",
+      "choices": {
+        "1": "토양 공극량은 식투보다사토야 다 맞다."
+      },
+      "answer": 1,
+      "explanation": "으로 옮지 않은 AS? 토양 공극량은 식토보다 사토에 더 많다. 토양 입단은 공극률에 큰 영향을 준다. 자연상태에서 공극은 공기 또는 물로 채워져 있다. 토양 내 배수와 통기는 대부분 대공극에서 이루어진다.",
+      "keywords": [
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_18",
+      "exam_round": 7,
+      "number": 18,
+      "subject": "기타",
+      "question": "같은 장소에서 발견된 두 가지 HSS 사이의 상호작용이 나머지 네 개와 다른 것은? 동백나무-동박새 소나무-모래밭버섯 오리나무-『00100ㅇ sp 박태기나무-따1[2061010 sp.",
+      "choices": {
+        "9": "오동나무-담배장님노린재"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "패개충",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_19",
+      "exam_round": 7,
+      "number": 19,
+      "subject": "기타",
+      "question": ") : 용액이 뿌리와 중분한 시간 동안 접촉하면 하수관 내의 뿌리 재생장을 억제 - 활산구리는 유독하고 하수저리를 방해할 수 있기 때문에 조심해서 사용해야 St. 배수관로에 대한 치뮤 처리 * 일단 관로에서 뿌리가 제거되면, 배관의 원상을 회목하고 재생장 방지를 위해서 맥상밀폐제를 시스템메 추가 * 배관은 수지 라이너[6510 liner)= 피복할 수 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_20",
+      "exam_round": 7,
+      "number": 20,
+      "subject": "기타",
+      "question": "05%이며, ph",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_21",
+      "exam_round": 7,
+      "number": 21,
+      "subject": "기타",
+      "question": "0109,/9)으로 관리한다. 적절한 사용법으로 HSS 방제하는데 필요한 최소한의 양만을 사용하도록 FLL.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_22",
+      "exam_round": 7,
+      "number": 22,
+      "subject": "기타",
+      "question": "ㅁＬ) / 안전계수[다] * 종간 안전계수[동물과 사람간의 종간차이)는 1/10 © Buy 만전계수[사람과 사람간의 개체 차이]는 1/10을 ADIE 한다. * 미는 제계공통 ULE FAO-WHO 합동전문가위원희에서 결정한 값을 각국에 권고 하고 있다. 잔류허용기준 (\\/ㅁＬ 과 식품계수 © ADIT} 세계공통 값이라도 식사로 섭취하는 농산물의 비율은 나라마다 식습관이 다르므로, 그 나라의 전 식사 at 중에서 차지하는 놓산물의 비율, 즉 식품계수를 고려해야 한다. * 농약이 벼에만 사용된다면 | (ADI x AB) / 1일당 쌀 섭취량 ㅣ -> 잔류허용한계가 된다. * 모든 작물에 사용되는 농약이라면 | (ADL × AS) / 1일 농산물 섭취량] -잔류허용한계가 된다, 놈작업자노출허용량[60ㄷＬ) * 농작업자가 농약을 살포하면서 노출되는 농약으로부터 건강을 보호하기 위함이다. * 독성시험 성적에서 감수성이 가장 높은 시험동물 종에서 NOAELS 이용하되 해당 농약의 살포양상이나 노출 상황을 고려하여 장기독성시험의 NOAELE 선정할 수 있으며, 이 NOAELS 안전계수로 나누어 구함, 안전계 AOEL = 최대 무작용량[1(60^6Ｌ) / 안전계수[다] 인축독성은 경구독성과 경피독성으로 구분 * la [맹독성), lle (고독성], lle [보통독성], Ve (ASA) SOE 구분하고 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_23",
+      "exam_round": 7,
+      "number": 23,
+      "subject": "기타",
+      "question": "수목병 감염 시 나타나는 생리기능 장매증상이 바르게 연결되지 않는 AES?",
+      "choices": {
+        "2": "조팝나무 흰가루병-양분의 저장 장애",
+        "3": "감나무 열매썩음병-양분의 저장, 증식 장애",
+        "4": "소나무 안노섬뿌리썩음병-물과 무기양분의 흡수 장애"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "흰가루병",
+        "토양",
+        "생리",
+        "소나무",
+        "진단",
+        "열매썩음병",
+        "안노섬뿌리썩음병",
+        "시들음병",
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_24",
+      "exam_round": 7,
+      "number": 24,
+      "subject": "기타",
+      "question": "병원균 : Armillaria sop (Sabet), Asolidipes(SLt}FI/a1-4l!!), Atabescens [빵나무버섯부치), Amellea (SLUSHA, 천마공생균), A.gallica, Asinapina",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_25",
+      "exam_round": 7,
+      "number": 25,
+      "subject": "기타",
+      "question": "해부현미경 : 육안으로 진단이 어려울 경우",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "진단"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_26",
+      "exam_round": 7,
+      "number": 26,
+      "subject": "기타",
+      "question": "기본구조     | * 뉴클레오 캡시드 (nucleocapsid : 핵단백질 구조물) * 게놈핵산 : 외가닥, 또는 겹가닥의 RNA, DNAS 하나. « (ssRNA 800 013, dsRNA 50 여 S(TMV 등), ssDNA 110여 종, dsDNA 40여 종) * 핵산이 바이러스 입자 중 5~408% 차지함: * 보호단백질 외피 (protein coat, capsid : HALE) [기주세포의 특이 SAO] 바이러스 부착, 유전물질보호]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_27",
+      "exam_round": 7,
+      "number": 27,
+      "subject": "기타",
+      "question": "순환형 바이러스",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_28",
+      "exam_round": 7,
+      "number": 28,
+      "subject": "기타",
+      "question": "병원균 ㆍ Meliolaceae, Asterinaceae ¢ Capnodiaceae (BSH 곤충에 수반하여 부생)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_29",
+      "exam_round": 7,
+      "number": 29,
+      "subject": "기타",
+      "question": "수목에 기생하는 종자식물에 관한 설명으로 옮지 않은 것은? 기생성 종자식물에는 새삼, 마녀풀, 더부살이, 4 SO] 있다. 흡기라는 특이 구조체를 만들어 기주수목에서 수분과 양분을 흡수한다. 진정겨우살이에 감염된 기주는 생장이 위축되고 가지 HHO] 심하면 고사할 수 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 기생성 종자식물에는 새삼, 마녀풀, 더부살이, 4 SO] 있다. 흡기라는 특이 구조체를 만들어 기주수목에서 수분과 양분을 흡수한다. 진정겨우살이에 감염된 기주는 생장이 위축되고 가지 HHO] 심하면 고사할 수 있다. 겨우살이에는 침엽수에 기생하는 소나무(난쟁이)겨우살이, 활엽수에 기생하는 진정겨우살이가 있다. © 기생성 종자식물에는 새삼, OS, 더부살이, S50] 있다. + 기생성종자식물 ; 겨울살이, 새삼, 더부살이 * 비기생성종자식물 : 없혀사는 식물(침), 감고사는 식물[덩굴류) <기생성 종자식물> * 세계적으로 2500 여 종이 말려짐, 모두 쌍떡잎식물에 속함 * 잎, 줄기, 뿌리가 없거나 퇴화, 양분과 수분을 다른 식물체메 의존 * 흡기를 통하여 다른나무의 수분과 양분을 흡수 * [우리나라] 겨우살이, 새삼, 더부살이 <비기생성 종자식물> * 없혀사는 식물(칠), ...",
+      "keywords": [
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_30",
+      "exam_round": 7,
+      "number": 30,
+      "subject": "기타",
+      "question": "총류 : APAO|(Viscum album var, coloratum), BOWOAO] 동백나무겨우살이, 꼬리겨우살이 등 상록",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_31",
+      "exam_round": 7,
+      "number": 31,
+      "subject": "기타",
+      "question": "분포 ; 전세계, 열대성 작물에 경제적 피해. [한국 3 종 보고됨)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_32",
+      "exam_round": 7,
+      "number": 32,
+      "subject": "기타",
+      "question": "내부기쟁성 {구침 X)",
+      "choices": {
+        "1": "고착성 선충 : BelSAS(Meloidogyne, 피해 심], 시스트 MS, 감글선충 등, 대부분 몸이 비대해진다.",
+        "2": "이주성 MS: 뿌리썩이 선충[『『0116ㅁ아05, Radopholus), 맘컷, 수컷 모두 피해준다."
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "선충",
+        "감글선충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_33",
+      "exam_round": 7,
+      "number": 33,
+      "subject": "기타",
+      "question": "피해 © 1973년 삼추에서 만연, 150만 그루이상 제거",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_34",
+      "exam_round": 7,
+      "number": 34,
+      "subject": "기타",
+      "question": "땅에 떨어진 병든 잎을 가을에 모아서 태우거나 땅속에 묻는다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_35",
+      "exam_round": 7,
+      "number": 35,
+      "subject": "기타",
+      "question": "(3B 이전] 피해임지 환경개선, 가지치기, SOrH|7|, 열세목제거",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_36",
+      "exam_round": 7,
+      "number": 36,
+      "subject": "기타",
+      "question": "수목병을 일으키는 Helo] 관한 설명으로 옮지 않은 것은? 수목병의 뭔인에는 전염성과 비전염성 요인이 있다. 전염성 수목병의 원인은 균류, 세균, 바이러스, 선충, 기생성 종자식물 등이 있다. HILPS 갈색무늬구멍병의 원인은 Mycosphaerella 속의 진균이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 수목병의 뭔인에는 전염성과 비전염성 요인이 있다. 전염성 수목병의 원인은 균류, 세균, 바이러스, 선충, 기생성 종자식물 등이 있다. HILPS 갈색무늬구멍병의 원인은 Mycosphaerella 속의 진균이다. 오동나무 탄저병 AS Colletotrichum 속의 진균이다, 호두나무 갈색썩음병의 원인은 Pseudomonas 42-0}, Pseudomonas - 점무늬, 혹, 마름, 궤양, 시들음의 SAS 나타내는 병원균임. Xanthomonas arboricola [세균섬병해] - (세균성구멈병, 호두나무갈색썩음병) 세균구멍병",
+      "keywords": [
+        "선충",
+        "갈색무늬구멍병",
+        "병충해",
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_37",
+      "exam_round": 7,
+      "number": 37,
+      "subject": "기타",
+      "question": "병원균 - Xanthomonas arboricola pV. pruni",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_38",
+      "exam_round": 7,
+      "number": 38,
+      "subject": "기타",
+      "question": "29 - 조제 : 챙석회와 SS 1:2 무게비로 배합 참고) 석회보르도맥 - 1885년 ZEA Bordeaux 대학 P.Millardet 교추가 포도의 도난 방지를 위해 황산구리와 석회의 SUNS 뿌렸을때 노균병에 유효한것을 발견 - 보호살균제 (침투이행성 없음) : 예방제 (치료제 x) _ 여 러 작물, ere 수종 j 다양한 병을 동시 에 방제 - 4-4식 보르도맥 : 황산구리[산성) + 생석회(알카리성) 석회원맥에 황산구리 AHS 섞어서 염기성 SHS 만듬 (반대로 섞으면 산성액이 되어버림!) - 보르도액 조제시에는 1)금속용기 사용하지 많음, 2) 약해발생 주의, ㅎ) 제조즉시 사용해야 함. 호두나무 갈색썩음병      a “201414 FE] 격리재배지에서만 발생하다가 20164 6B 안동 농가에서 처음발생 \" 검역관리병해",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "검역관리병",
+        "농약",
+        "병충해",
+        "노균병",
+        "갈색썩음병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_39",
+      "exam_round": 7,
+      "number": 39,
+      "subject": "기타",
+      "question": "Theophrastus (B.C:370 ~286) ; 올리브나무 등 몇가지 병해에 대해 기록(신의노여움)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_40",
+      "exam_round": 7,
+      "number": 40,
+      "subject": "기타",
+      "question": "병원균 : Rattaelea quetcus-mongolicae [곰팡이 )",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_41",
+      "exam_round": 7,
+      "number": 41,
+      "subject": "기타",
+      "question": "Dopamine: 기분, 기민, 집중, 학습의 기능관 연관됨",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_42",
+      "exam_round": 7,
+      "number": 42,
+      "subject": "기타",
+      "question": "주요해충[=1차해충) - \"관건해충\" 매년 만성적, 지속적인 피해를 나타내는 해충 - 효고적인 천적이 없는 ALI} 대부분 + 심각한 손실발생 - Sete] Sya4a| Ha, 버즘나무방패벌레,소나무재선중병",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "해충",
+        "차해충",
+        "소나무",
+        "관건해충",
+        "소나무재선중병",
+        "병충해",
+        "주요해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_43",
+      "exam_round": 7,
+      "number": 43,
+      "subject": "기타",
+      "question": "5007 미하로 파쇄한다. 기계적방제          물리적방제",
+      "choices": {
+        "2": "기계적방제          임업적(생태)적방제"
+      },
+      "answer": 2,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "생리",
+        "병충해",
+        "수목관리",
+        "살충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_44",
+      "exam_round": 7,
+      "number": 44,
+      "subject": "기타",
+      "question": "시간생명표 : 어떤 시점에 존재하는 개체군의 연령구성으로부터 각 연령 간격의 사망률을 추정하여 제작",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_45",
+      "exam_round": 7,
+      "number": 45,
+      "subject": "기타",
+      "question": "수목의 뿌리메 관한 설명으로 옮지 많은 것은? 건조한 지역에서 자라는 ASAE S/R 율이 상대적으로 작다. 소나무의 경우 EA! 200m 내에 전체 세근의 00%정도가 존재한다. 균근을 혐성하는 소나무 뿌리에는 뿌리털이 거의 발달하지 않는다.",
+      "choices": {
+        "3": "소나무의 경우 토심 20017 내에 전체 세근의 ?0%정도가 존재한다. (HS 뿌리는 보통 1~2m 정도 내려가지",
+        "1": "외샘균근",
+        "2": "내생균근         |",
+        "5": "온대지방메서는 봄와 출가-생장이-사작된-후야-뿌리-생장이-사작된다."
+      },
+      "answer": 3,
+      "explanation": "으로 옮지 많은 것은? 건조한 지역에서 자라는 ASAE S/R 율이 상대적으로 작다. 소나무의 경우 EA! 200m 내에 전체 세근의 00%정도가 존재한다. 균근을 혐성하는 소나무 뿌리에는 뿌리털이 거의 발달하지 않는다. 00 측근은 내초세포가 분열하여 만들어진다. [안쪽부터 내초-내피-피즘에서 내초세포가 병층/수층분열을 하여 촉근이 만들어진다.)          때",
+      "keywords": [
+        "토양",
+        "생리",
+        "소나무",
+        "완충",
+        "참나무"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q7_46",
+      "exam_round": 7,
+      "number": 46,
+      "subject": "기타",
+      "question": "ㅇ))를 분해하여 산소[,)발생시킨다. ＊ NADPS 환원하여 NADPHS 만들고 [를 생산 * 결론적으로 ATPSt NADPHO 저장, 햇빛 > 엽록체 (H,O-0,) 4 Friel (ADP>ATP, NADP > NADPH) 저장 전자전달계       _                         0             7 * 광분해 과정에서 물분자가 분해되어 ALA (O,)7} 나오고, 방출된 전자[6-+1+ )는 NADPOl 전달. * 참고) 지문의 양성자는 +16를 의미하므로 잘못된 표현임. * HO > 0,2} H+7} 나오고 - NADP 전달 - NADPH 생산",
+      "choices": {},
+      "answer": 56,
+      "explanation": "중 ㄱ~ㄷ에 해당하는 AS SMHS 나열한 것은? 형성층 세포는 BSE 때 접선 방향으로 새로운 세포벽을 만드는 [ ㄱ)에 의하여 목부와 사부를 만든다. 생리 적으로 체내 식물호르몬 중 [ㄴ])의 함량이 높고 [ㄷ]이 낮은 조건에서는 목부를 우선 생산하는 것으로 알려져 병층분열, 옥신, 지베렐린 병증분열, 지베렐린, 옥신 수층분열, 옥신, 지베렐린 수층분열, 지베렐린, 에틸렌 접선방향으로 세포벽 만드는 세포분열 : 병층분열 방사방향으로 제포벽을 만드는 세포분열 : 수층분열 옥신의 함량이 높으면 SHS 생산, 지베렐린의 함량이 높으면 사부를 생산             정답: 56-6), 57-@ 58, 수고생장에 관한 설명으로 옮지 많은 것은? 느롭나무는 어릴 때의 정아우세 현상이 없어지면서 구형 수관이 된다. 대부분의 나자식물은 정아지가 측지보다 빨리 자라서 원추형 수관이 된다.",
+      "keywords": [
+        "은행나무",
+        "참나무",
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_47",
+      "exam_round": 7,
+      "number": 47,
+      "subject": "기타",
+      "question": "광합정(환원과정)의 역반응에 해당하는 산화과정이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_48",
+      "exam_round": 7,
+      "number": 48,
+      "subject": "기타",
+      "question": "해당작용 - 단계 © HAS 요구하지 않는 단계이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_49",
+      "exam_round": 7,
+      "number": 49,
+      "subject": "기타",
+      "question": "추목의 부위 중에서 G9] 호흠활동이 가장 왕성하다,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_50",
+      "exam_round": 7,
+      "number": 50,
+      "subject": "기타",
+      "question": "왕성하게 세포가 분열하는 BACH] 끝의 눈, 뿌리 BO] 분열조직, HAS, 어린 열매} 등으로 이동하여 새 조",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_51",
+      "exam_round": 7,
+      "number": 51,
+      "subject": "기타",
+      "question": "목본식물의 계절적 변화 : 낙엽수 > 상록수 (낙엽수는 낙엽이 질 때 내한성 준비하므로 탄수화물 농도가 최고치 이고, SHOE 생장을 위해 최저치이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_52",
+      "exam_round": 7,
+      "number": 52,
+      "subject": "기타",
+      "question": "(AMEH)NOs- ->(마질산태)462, : 칠산환뭔효소[(010016 reductase) 의해 이루어짐 [세포질 내|",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_53",
+      "exam_round": 7,
+      "number": 53,
+      "subject": "기타",
+      "question": "루핀형 : 뿌리메서 질산환원 작용이 일어남 (LAB, 진달래류), 줄기수액에 가 거의 없음",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_54",
+      "exam_round": 7,
+      "number": 54,
+      "subject": "기타",
+      "question": "카로티노이드 * 이소프렌 8개가 모인 탄화수소물 * 녹색이외의 색을 띠는 보조색소[황색, 주황색, 적색, 갈색) © 카로틴[(1076/)과 크산토필로 Lee! (RES 비타민&의 APSA, 크산토필은 가을철 노란단풍) * 카로티노이드는 암흑 속에서도 합성이 될 수 있음[노란색을 멈) * 독특한 냄새[향기)를 유발하는 휘발성물질",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_55",
+      "exam_round": 7,
+      "number": 55,
+      "subject": "기타",
+      "question": "(wax) : 22] 각피층[큐티클 층) 맨 바깥 부분의 성분으로, 말코올이 긴사슬을 가진 지방산과 에스테르화 ot 여 이루어진 화합물(수용성 X, 비환원당 x), 증산작용을 억제.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_56",
+      "exam_round": 7,
+      "number": 56,
+      "subject": "기타",
+      "question": "리그닌 * 방향족 알코올이 복잡하게 연결된 중합체이다. * 용매메 불용성이기 때문에 추출하기 어렵다. * 목본식물 건중량의 15-20% 가량을 차지함 * 셀룰로오스 다음으로 지구상에서 두 HWE 흔한 유기화합물 * 기능 : 세포벽의 주성분, 섬유소의 압축강도를 보강함 * 종이를 만들 때 FAVS 제거하지 많으면 저급종이가 됨.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_57",
+      "exam_round": 7,
+      "number": 57,
+      "subject": "기타",
+      "question": "탄수화물 : 탄소, 수소, MAR 만들어진 화합물로, 세 원소가 1:2:1의 비율의 구성비를 가진다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_58",
+      "exam_round": 7,
+      "number": 58,
+      "subject": "기타",
+      "question": "굴광성 : (줄기) 옥신 농도가 햇빛 반대쪽에서 높아짐",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_59",
+      "exam_round": 7,
+      "number": 59,
+      "subject": "기타",
+      "question": "주기성 : 불규칙 결실을 하는데 주된 원인은 화하의 형성이 안되거나 화아형성이 되었어도 미발달이 문제 [화아의 발달유무는 탄수화물의 공급에 의존함)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_60",
+      "exam_round": 7,
+      "number": 60,
+      "subject": "기타",
+      "question": "목본조직의 경우, 조직 내 질소함량은 가을과 겨울에 가장 높다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_61",
+      "exam_round": 7,
+      "number": 61,
+      "subject": "기타",
+      "question": "수목의 스트레스 반응에 관한 설명으로 옮지 않은 AL? 고온은 과도한 증산작용과 탈수현상을 수반한다. 바람에 의해 기물어진 수간 압축이상재의 아래쪽에는 옥신 농도가 높다. ©) 한대 및 온대지방 수목은 일장에는 반응을 보이지 않고, 온도에만 반음을 보인다. 일장과 온도에서 모두 반을을 보임 난온대식물=> 유칼리는 온도에 의해서만 반응이 일어남 고온피해 메커니즘",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 않은 AL? 고온은 과도한 증산작용과 탈수현상을 수반한다. 바람에 의해 기물어진 수간 압축이상재의 아래쪽에는 옥신 농도가 높다. ©) 한대 및 온대지방 수목은 일장에는 반응을 보이지 않고, 온도에만 반음을 보인다. 일장과 온도에서 모두 반을을 보임 난온대식물=> 유칼리는 온도에 의해서만 반응이 일어남 고온피해 메커니즘",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_62",
+      "exam_round": 7,
+      "number": 62,
+      "subject": "기타",
+      "question": "효소계 비정상 반응 : 세포조직 괴사 (HA, 응집되면 효소활성의 기능이 교란)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_63",
+      "exam_round": 7,
+      "number": 63,
+      "subject": "기타",
+      "question": "온대지방에서의 내한성의 발달 단계 (MEA - 진정휴면 - 후휴면으로 진행됨) |) 전휴면 : 가을에 일장이 짧아지면 온도가 10도씨 정도 내려가면서 피토크롬이 이를 감지하여 생장정지(휴면) [유칼리와 같은 난몬대 수종은 일장에 반응을 보이지 않고, 온도변화에 의해 내한성 증가)",
+      "choices": {
+        "2": "진정휴면 : 빙점에 가까이 온도가 내려갈 때 단백질과 막지질의 합성이 이루어지면서 구조적 변화 발생.",
+        "3": "후휴면 : 1), 2] 단계에 의해 휴면단계"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_64",
+      "exam_round": 7,
+      "number": 64,
+      "subject": "기타",
+      "question": "당류의 증가 : 전분의 가수분해로 생성, 특히 설탕 함량이 증가한다. [당류는 맥포 내에 AAS)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_65",
+      "exam_round": 7,
+      "number": 65,
+      "subject": "기타",
+      "question": "배휴면 : 배가 아직 섬숙하지 많은 미숙배.상태라서 발아가 안되는 경우, (후숙으로 극복이 가능함) [물푸레나무, 덜핑나무속, 은행나무 등)                              |",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "은행나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_66",
+      "exam_round": 7,
+      "number": 66,
+      "subject": "기타",
+      "question": "후숙 : 종자를 건조한 상태에서 일정 기간 보관하면 휴면상태를 제거할 수 있다. 이 방법은 미성숙 배가 더 성숙하도록 유도하는 방법,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_67",
+      "exam_round": 7,
+      "number": 67,
+      "subject": "기타",
+      "question": "수분흡수 : 수분흡수는 건조한 종자 내 뭔형질에 수화작용을 유발해 수분의 흡수를 도모 좀피가 부드러워지고, 배가 늘어나서 좀피를 파열하게 됨.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_68",
+      "exam_round": 7,
+      "number": 68,
+      "subject": "기타",
+      "question": "Hl2kBAtterra rossa) 지중해기후와 같은 온대대륙의 반건반습기후 하에서 석회암이 풍화되어 불순물로 남아 있는 철분이 풍부한 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_69",
+      "exam_round": 7,
+      "number": 69,
+      "subject": "기타",
+      "question": "토양입자가 비교적 소형(2~50000)으로 둥글며 유기물 함량이 많은 표토에서 발달하는 토양구조는? WADA @ 벽상구조(07055146 structrure) (3) 입상구조 @ 주상구조 © 판상구조",
+      "choices": {
+        "0": "주삼구조 짐증토,각주상[반건조과 뭔주상(논토양 심층토)이 있음"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_70",
+      "exam_round": 7,
+      "number": 70,
+      "subject": "기타",
+      "question": "초기토양생성작용(10101 soil formation) : 모암이나 모재로부터 최초로 토양이 생성되는 단계. 1) 암편에 녹조류,남조류,규조류 번성 - 2) 암석 표면에 골이파임 - 표면적이 증가 - 3) 타급영양세균(점균류,사상균,방 Mat) 서식 - 4) 세균이 암석을 풍화시켜 지의류가 암석 표면에 형성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_71",
+      "exam_round": 7,
+      "number": 71,
+      "subject": "기타",
+      "question": "부식집적작용 : 동식물의 유체가 토양미생물에 의해 분해되면서 토양 중에서 재합성되는 부식화.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_72",
+      "exam_round": 7,
+      "number": 72,
+      "subject": "기타",
+      "question": "회색화작용 : 토양이 과습하여 물로 포화되고 환원상태로 되어 암회색으로 변하는 작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_73",
+      "exam_round": 7,
+      "number": 73,
+      "subject": "기타",
+      "question": "B 갈색산림토양(6100) : 습윤한 몬대 및 난대기후에서 발달, A-B-C SAS 가지는 산성토양,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_74",
+      "exam_round": 7,
+      "number": 74,
+      "subject": "기타",
+      "question": "점 토 사이의 양이온에 의 한 응집현상",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_75",
+      "exam_round": 7,
+      "number": 75,
+      "subject": "기타",
+      "question": "양이온의 작용 - 양미온이 SASS 가지는 점토 사이에 위치함으로써 힘이 작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_76",
+      "exam_round": 7,
+      "number": 76,
+      "subject": "기타",
+      "question": "입단이 커지면 전체 공극량이 많아져 통기성과 배수성이 증가",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_77",
+      "exam_round": 7,
+      "number": 77,
+      "subject": "기타",
+      "question": "흡수표면적의 증가로 양분과 수분의 증가",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_78",
+      "exam_round": 7,
+      "number": 78,
+      "subject": "기타",
+      "question": "부식 ＊ 탄소:질소:인산:왕의 비율이 100:10:1:1 이다. * 탄질률은 약 16 이고, 탄소가 OF 58%, 질소가 약",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_79",
+      "exam_round": 7,
+      "number": 79,
+      "subject": "기타",
+      "question": "토양 미생물에 관한 설명 중 을지 않은 것은? 종속영양세균은 유기물을 탄소원과 에너지원으로 이용한다. 조류[100ㅎ)는 대기로부터 많은 양의 (>,를 제거하고 OL3 풍부하게 한다. 세균의 AS 사상균보다 적지만 물질순환에 있어서 분해자로서 중요한 역할을 한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "중 을지 않은 것은? 종속영양세균은 유기물을 탄소원과 에너지원으로 이용한다. 조류[100ㅎ)는 대기로부터 많은 양의 (>,를 제거하고 OL3 풍부하게 한다. 세균의 AS 사상균보다 적지만 물질순환에 있어서 분해자로서 중요한 역할을 한다. 도와준다. 사상균은 유기물이 풍부한 곳에서 활성이 높고, 호기성 생물이지만 이산화탄소의 농도가 높은 환경에 서도 찰 견딘다. 토양미 * 종속영양형 : 필요로 하는 에너지원과 탄소가 유기양분이다. [세균, 균류, 원생동물] * 독립명양형 : 필요로 하는 에너지원이 햇빚이나 무기물의 산화에서 얻어지며 탄소는 <ㅇ;의 동화작용을 통하여 SEC [AFL] 일부의 세균만이 DSA Sa} 같이 햇빛을 메너지원으로 한다.| * 단세포이고, (집단)660!1004로 존재한다, * 이산화탄소(ㅇㅇ.)를 이...",
+      "keywords": [
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_80",
+      "exam_round": 7,
+      "number": 80,
+      "subject": "기타",
+      "question": "균근균의 기주 정착에 관한 설명으로 을지 않은 것은? D 밀도가 높아야 한다. 유전적 친화성이 높아야 한다. 균근균이 침입할 수 있는 세포 간극이 충분하여야 한다. 고산과 툰드라 지역에서 생육하는 수목에는 균근균이 정작하지 못한다.",
+      "choices": {
+        "9": "송미버섯은 소나무림의 나이가 20~80 년 정도로 활력이 가장 왕성할 때 공생관계를 형성한다. (기주선택",
+        "0": "감염원의 밀도가 높아야 한다. [균근균의 AS 특정 수목에 공생하므로 아무래도 감염원인 균근균의 밀도"
+      },
+      "answer": 0,
+      "explanation": "으로 을지 않은 것은? D 밀도가 높아야 한다. 유전적 친화성이 높아야 한다. 균근균이 침입할 수 있는 세포 간극이 충분하여야 한다. 고산과 툰드라 지역에서 생육하는 수목에는 균근균이 정작하지 못한다.",
+      "keywords": [
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_81",
+      "exam_round": 7,
+      "number": 81,
+      "subject": "기타",
+      "question": "토양 곰팡이와 식물뿌리 간의 \"공생\" 관계를 맺고 있는 상태 * 식물 - 곰팡이에게 탄수화물(설탕]을 제 * 곰팡이 - 기주식물에게 무기양분과 수분제공 * 육상식물 - 97%가 균근을 형성 * 산림토양 - 인[『)이 부족하여 곰팡이의 도움으로 수목이 인을 흠수함",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_82",
+      "exam_round": 7,
+      "number": 82,
+      "subject": "기타",
+      "question": "시공 설계시 [공사 전 조치] ¢ 뭔하는 나무들을 가장 효과적으로 보전하는 데 매우 중요한 단계 [수목보전의 필요성] 수목조사[수종, 크기, 건강, 수형과 구조, SHS, 수관급, 살아있는 수관 비율 등) [수목 보전 적합성] 수목의 건강, 구조적인 안정성, 메상되는 수명 부지 변화에 대한 수종 내성, 새로운 용도에 대한 적합성 앞으로 요구되는 유지관리 수준 [수목보호구역 설정] 수목의 건강과 안전성을 유지하기에 충분한 뿌리와 수관면적을 HOS 수 있도록 설정 수목보호구역 크기와 형태를 결정짓는 요소 [충격에 민감성, 건강과 나이, 뿌리와 수간의 입체적 형태, 개발메 대한 제약 등) * 사전조사 : 주요 나무들의 위치, 수종, 크기, 건강상태(수관, 줄기, 뿌리) SS 조사하고, HAS 것인지 제거할 것인지 등을 메모        |        . * 건물과 창고의 위치, 길을 WAL 케이블을 묻기 위한 BE 노선을 정할 때 나무들이 피해를 가장 적게 받도록 고안함. 때로는 건물의 방향을 조절하거나 노선을 변경할 수 있음,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_83",
+      "exam_round": 7,
+      "number": 83,
+      "subject": "기타",
+      "question": "잡초의 발생을 최소화한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_84",
+      "exam_round": 7,
+      "number": 84,
+      "subject": "기타",
+      "question": "120, CFCs 등이 있다.",
+      "choices": {
+        "3": "몬실효과 가스 중 이산화탄소의 대기 중 농도는 현재 약 20066 정도이다."
+      },
+      "answer": 3,
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "해충",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_85",
+      "exam_round": 7,
+      "number": 85,
+      "subject": "기타",
+      "question": "32! 적당 * (머린수목] 생육기 중에 가장 효과적으로 유도할 수 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_86",
+      "exam_round": 7,
+      "number": 86,
+      "subject": "기타",
+      "question": "추피 44/9] 치료방법으로 올지 않은 것은? 수피이식을 시도할 수 있다. 목재부후균의 길항미생물을 접종한다.",
+      "choices": {
+        "5": "살아있는 SE 수피는 발생 즉시 작은 못으로 고정하고 보습재로 덮은 후 폴리에틸렌 필름을 Zoe",
+        "1": "삼처부위 손질과 소독"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_87",
+      "exam_round": 7,
+      "number": 87,
+      "subject": "기타",
+      "question": "상처가 마르기 전에 즉시 치료를 해야 한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_88",
+      "exam_round": 7,
+      "number": 88,
+      "subject": "기타",
+      "question": "상처부위를 깨끗하게 청소, 상처의 위아래에서 높이 2007 가량의 살아 있는 수피를 수평 방향으로 벗겨내고, 격 리된 상하 상처부위에 다른 나무에서 벗겨 온 비슷한 두께의 신선한 수피를 이식하여 덮어 준다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_89",
+      "exam_round": 7,
+      "number": 89,
+      "subject": "기타",
+      "question": "5 배 반경 안에는 작업자 이외 사람의 접근을 막는다, 체인톱을 사용할 때 톱니를 잘 세우지 많으면 거치효율이 저하되어 진동이 발생할 수 있다. 근원직경 15607 이하인 소경목은 SHS 추구 없이 20 도 정도의 기울기로 가로자르기를 한다.",
+      "choices": {
+        "1": "위험순위가 높게 나온 개체는 의사결정 후 즉시제거 한다.",
+        "2": "위혐수목을 제거하는 작업은 위험하여 전문가만이 할 수 있다.",
+        "3": "크레인, 고소자동차 등 중장비를 활용한다.",
+        "4": "그루터기를 남기지 않고 제커한다. (보행자에 불편함이나 피해가 없게 함)"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_90",
+      "exam_round": 7,
+      "number": 90,
+      "subject": "기타",
+      "question": "AA (Quantitative) 평가 * 발생가능성과 피해정도를 수치로 평가하여 위험도를 수치로 표기 [위험도 = 발생가능성 ×피해정도) * 장점 - 수목 위험성을 다른 수목 뿐만 아니라 다른 형태의 위험성과 비교가능, 통계분석 가능",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_91",
+      "exam_round": 7,
+      "number": 91,
+      "subject": "기타",
+      "question": "무기 살충제 - 무기황제, 비소제, 불소제 등 무기화합물을 주성분으로 하는 LSA",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "살충",
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_92",
+      "exam_round": 7,
+      "number": 92,
+      "subject": "기타",
+      "question": "지질함성             지방산 할성효소 acetyl CoA                     A> (H01)                           Fluazifop-p-bytyl, *|              carboxylase(ACCase) 저                  aoa                   Sethoxydim, clethodim 지방족 마미노산 합성효소 ALS                8 (41021              Bensulfuron, flazasulfuron, 0ㅁ61105",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_93",
+      "exam_round": 7,
+      "number": 93,
+      "subject": "기타",
+      "question": "생산자가 지켜야할 사항 _ * 희석 배수와 살포횟수를 준수한다. * 출하 전 마지막 살포일을 준수한다. * 포장지 표기 사항을 반드시 확인하고 사용한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_94",
+      "exam_round": 7,
+      "number": 94,
+      "subject": "기타",
+      "question": "[< 그룹 : - 세포의 미소관 배열 저해로 어린 뿌리 생장억제하는 발아전 처리제 - 체내에 흠수되지만 이행은 되지 않고 단백질 합성이 저해, 뿌리 선단이 팽창하고 촉근이나 2차근 억제 - Dinitroaniline Al : trifluralin, ethalfluralin, pendimethalin, oryzalin",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_95",
+      "exam_round": 7,
+      "number": 95,
+      "subject": "기타",
+      "question": "Al 발생면적을 조사-확정하고 발생 상황의 표준이 되는 지역을 선정",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_96",
+      "exam_round": 7,
+      "number": 96,
+      "subject": "기타",
+      "question": "병원체의 유전물질이 식물에 전이되는 형질전환 현상에 의해 이상비대나 이상증식이 나타나는 으? 은",
+      "choices": {
+        "2": "소나무록병 [녹병)"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "출기녹병",
+        "소나무",
+        "진단",
+        "소나무록병",
+        "병충해",
+        "떡병",
+        "뿌리록선충병",
+        "뿌리혹병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_97",
+      "exam_round": 7,
+      "number": 97,
+      "subject": "기타",
+      "question": "기주 ; SLES, 낙엽송, 소나무, 느티나무, 참나무류, 밤나무 \"딸기, 감자, 초본류도 감염 [침, 활, 풀, SER) > 다범성피해 - 뿌리꼴균사다발 (BeteAtss, rhizomorph) - ABA (mycelial tan) - SLEPH A (910 월)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "참나무",
+        "느티나무",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_98",
+      "exam_round": 7,
+      "number": 98,
+      "subject": "기타",
+      "question": "버드나무 잎녹병 o WLS 빗자루병 .붉나무 빗자루병 ㅅ.,동백나무 겹둥근무늬병",
+      "choices": {
+        "0": "ㄱㅋㄷ, @ 1, BA L,c,O@t,H,A c,H,A"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "잎녹병",
+        "오갈병",
+        "빗자루병",
+        "겹둥근무늬병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_99",
+      "exam_round": 7,
+      "number": 99,
+      "subject": "기타",
+      "question": "버드나무 잎녹병 (곰팡이) 버,붉나무 빗자루병 【파이토플라스마) ㅅ.동백나무 겹둥근무늬병 [곰팡이) “파이토플라스마는 염색만 생각하여 전자현미경은 아니라고 착각하는 경우가 있는데, 파이토플라스마의 형태 PHS 기본이 전자현미경이고, 사관부의 정밀한 관찰은 형광반응을 보기위한 광학현미경입니다. 현미경에 의한 진단",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "잎녹병",
+        "진단",
+        "빗자루병",
+        "겹둥근무늬병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_100",
+      "exam_round": 7,
+      "number": 100,
+      "subject": "기타",
+      "question": "광학현미경 : 진균과 세균관찰",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_101",
+      "exam_round": 7,
+      "number": 101,
+      "subject": "기타",
+      "question": "형태 ㆍ 대부분 막대~실 모양, 밀부는 타원체 모양 바이러스의 증식과정 [순서] 부착 -> 주입 -> 핵산복제[대사에 관련된 효소가 없어서 714 ribosome 이용) > 외피단백질 합성 -> 조립 식물체메서 바이러스의 체내이동, 분포 ＊ 원형질 연락사를 따라 한세포에서 다른 세포로 이동 ㆍ 하루 8~10 개 세포이동 또는 Imm 거리 이동 © 사부에서 빠르게 전신으로 확산 [전신감염 : systemic infection) * 감염의 분류는 단독감염, SHAE, 국부감염 등이 있다, 식물바이러스에 의한 병징",
+      "choices": {
+        "1": "잎에 나타나는 병징",
+        "2": "꽃에 나타나는 병징 ：꽃 얼룩무늬[동백나무 바이러스병)",
+        "3": "줄기에 나타나는 병징 : SHAS, 수과고정병, 감글 tristeza 바이러스 병"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수과고정병",
+        "세엽모자이크병",
+        "진단",
+        "바이러스병",
+        "외부병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_102",
+      "exam_round": 7,
+      "number": 102,
+      "subject": "기타",
+      "question": "내부병징 * 광학/전자 현미경 관찰 가능한 조직 및 세포 내 변화 또는 이상 구조물(봉입체) * SQAl(inclusion body) : 바이러스병 감염의 확실한 지표, 진단을 결론 지을 수 있음 <봉입체의 종류> * 결정상 봉입체 : 광학현미경으로 관찰 - 세포질, 핵, 다각체 Hae 봉입체 : 광학현미경으로 관찰- 공, 타원형(1~30 (max :100) um), 부정 * 이상미세구조 : 전자현미겨으로 관찰 {아주 작은 관상 봉입체), 품차모양봉입체, 다발모양 봉입체 식물바이러스의 전반(전염) * 외부 도움없이 세포 내로 들어갈 수 없다. 상처, 매개생물을 통하여 감염!! * (SA) 감염식물 SAS Aol 바르기/문지르기 * 농기구 접촉            |",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "진단",
+        "내부병",
+        "바이러스병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_103",
+      "exam_round": 7,
+      "number": 103,
+      "subject": "기타",
+      "question": "접목 및 명양번식 * (ANAS) AZO, 접목묘, 뿌리접목, 새삼(특히, 이종간의 접종)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_104",
+      "exam_round": 7,
+      "number": 104,
+      "subject": "기타",
+      "question": "증식형 바이러스 - 충체 내 증식, 매미충류, 멸구류, 매개충은 밀생 보독, SEIS 가능 [참고] 경란전염 : 벌레의 알의 통해서 ae... [참고] 일생 보독 : 병의 원인인 바이러스를 체내에 가지고 있으나 BAS 나타내지 많는것",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "매개충",
+        "매미충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_105",
+      "exam_round": 7,
+      "number": 105,
+      "subject": "기타",
+      "question": "특징 * 모든 나무에 발생하며, 나무에 해는 없으나 경관적 가치 손상, * 주로 Y BHO] 그을음을 발라 놓은 듯이 지저분한 SSS 나타냄. * 장마철 이후 많이 발생하며, 포자가 바람에 날려 전파됨. * AAS, AA Hal, 가루이를 비롯하여 분비물에 모여드는 개미, 파리, 벌 등에 의해서도 전파됨. * HARE 기주특이청이 없고, 발병상황에 따라 균종도 다름",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "발병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_106",
+      "exam_round": 7,
+      "number": 106,
+      "subject": "기타",
+      "question": "분포 : 전세계, 주로 가지에 침입, 흠기형성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "참나무",
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_107",
+      "exam_round": 7,
+      "number": 107,
+      "subject": "기타",
+      "question": "장미 검은무늬병에 관한 설명으로 옮지 많은 것은?",
+      "choices": {
+        "1": "감염된 및은 조기 낙엽되고 심한 경우 모두 떨어지기도 한다.",
+        "3": "병원균은 감염된 VA 자낭구로 월동하고 Sol 자낭포자가 1 차 전염원이 된다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은?",
+      "keywords": [
+        "검은무늬병",
+        "병충해",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_108",
+      "exam_round": 7,
+      "number": 108,
+      "subject": "기타",
+      "question": "발병특성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "소나무",
+        "병충해",
+        "참나무",
+        "발병",
+        "장미검은무늬병",
+        "수목병",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_109",
+      "exam_round": 7,
+      "number": 109,
+      "subject": "기타",
+      "question": "참나무 시들옴병 광릉긴나무좀 ㅁ. 명자나무 불마름병 Ue .오동나무 빗자루병 오동나무매미중, 썩덩나무노린재, 담배장님노린재 A. EUS 타르점무늬병 ×(병원균인 자낭균류에 의한 병] ㅇ. 소나무 리지나뿌리썩음병 × (병원균인 자낭균류에 의한 병)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "시들옴병",
+        "불마름병",
+        "소나무",
+        "리지나뿌리썩음병",
+        "병충해",
+        "빗자루병",
+        "타르점무늬병",
+        "참나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_110",
+      "exam_round": 7,
+      "number": 110,
+      "subject": "기타",
+      "question": "외부기생성 [구침 O)",
+      "choices": {
+        "1": "근권 선충류",
+        "2": "토막[코르크) 뿌리병"
+      },
+      "answer": 2,
+      "explanation": "",
+      "keywords": [
+        "소나무",
+        "선충",
+        "진단",
+        "병충해",
+        "공짐선충",
+        "진균병",
+        "수목병",
+        "뿌리병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_111",
+      "exam_round": 7,
+      "number": 111,
+      "subject": "기타",
+      "question": "기주 - BLS, WIA, 화이트클로바, 레드클로바, 자운영 등",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_112",
+      "exam_round": 7,
+      "number": 112,
+      "subject": "기타",
+      "question": "비배관리를 잘 해서 EAS 강화",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_113",
+      "exam_round": 7,
+      "number": 113,
+      "subject": "기타",
+      "question": "[4월 중순) 녹포자기 형성여부조사, 7일 간격 5회 이상",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_114",
+      "exam_round": 7,
+      "number": 114,
+      "subject": "기타",
+      "question": "기주 : 복숭아, 살구나무, 자두나무, 매실 등 핵과류",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "발병",
+        "진단",
+        "병충해",
+        "흰색병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_115",
+      "exam_round": 7,
+      "number": 115,
+      "subject": "기타",
+      "question": "기주 : 호두나무, 가래나무",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_116",
+      "exam_round": 7,
+      "number": 116,
+      "subject": "기타",
+      "question": "Robert Hartig (1839~1901) : 수목병리학의 아버지 * 부후나무의 균사와 외부에 나타나는 자실체 연구 © 수목병리학의 교과서 [Lehrbuch der Baumkrankheiten] 저서",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_117",
+      "exam_round": 7,
+      "number": 117,
+      "subject": "기타",
+      "question": "매개중 : [암부로시아 딱정벌레] 광릉긴나무좀 [머마245 koryoensis)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_118",
+      "exam_round": 7,
+      "number": 118,
+      "subject": "기타",
+      "question": "병발생 환경유인 |추피가 FS LUPE 동해 걸리기 쉽다. 접목부위 통한 침입]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "발병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_119",
+      "exam_round": 7,
+      "number": 119,
+      "subject": "기타",
+      "question": "곤충 날캐의 진화에 관한 설명으로 se 것은? 곤충은 고챙대에서 신생대까지 비행 가능한 유일한 동물집단이다. 돌좀이나 좀은 날개가 발달하지 못한 원시형질을 가진 유시류 곤충이다.",
+      "choices": {
+        "2": "곤춤은 고생대에서 산생대까지 비행 가능한 유밀한 동물집단이다. 중생대",
+        "3": "돌좀이나 SS 날개가 발달하지 못한 뭔시형질을 가진 유시류-곤중이다. 무시류",
+        "65": "10 억 년 전 고생대 발달시켰다,"
+      },
+      "answer": 3,
+      "explanation": "으로 se 것은? 곤충은 고챙대에서 신생대까지 비행 가능한 유일한 동물집단이다. 돌좀이나 좀은 날개가 발달하지 못한 원시형질을 가진 유시류 곤충이다. 10 억 년 전 고생대 데본기에 Boy 살던 곤충이 날개를 발달시켰다.",
+      "keywords": [
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_120",
+      "exam_round": 7,
+      "number": 120,
+      "subject": "기타",
+      "question": "Norepinephrine : 기분, 각성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_121",
+      "exam_round": 7,
+      "number": 121,
+      "subject": "기타",
+      "question": "해충의 개념적 범주와 방제 수준에 관한 AIS Sx] 않은 것은? 돌발해충은 간헐적으로 대발생하여 밀도가 경제적 피해수준을 넘는 해충이다.. 잠재해충은 유용천적이 다량 존재하여 자연적으로 발생이 억제되는 해충이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "해충",
+        "돌발해충",
+        "병충해",
+        "잠재해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_122",
+      "exam_round": 7,
+      "number": 122,
+      "subject": "기타",
+      "question": "돌발해중 - 평삼시 별문제가 되지 않던 곤충 종이 비정상적으로 대발생 - SUH 붉은매미나방, 천막벌레나방, 주홍날개꽃매미, 미국선녀벌레, 갈색날개매미중",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_123",
+      "exam_round": 7,
+      "number": 123,
+      "subject": "기타",
+      "question": "경제적 피해허용 수준[606ㅁ6ㅇ1016 Threshold) - 해충의 밀도가 경제적 피해추준에 도달하는 것을 억제하기 위해 미리 방제 수단을 써야하는 밀도",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_124",
+      "exam_round": 7,
+      "number": 124,
+      "subject": "기타",
+      "question": "연령생명표 : 단기간 내 출생한 동시 출생집단의 경과를 추적하여 제작",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_125",
+      "exam_round": 7,
+      "number": 125,
+      "subject": "기타",
+      "question": "솔잎혹파리",
+      "choices": {
+        "1": "출및혹파리 oS '우화상황'과 '중영형성률' 조사"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_126",
+      "exam_round": 7,
+      "number": 126,
+      "subject": "기타",
+      "question": "태양광의 특성과 태양광의 생리적 효과에 관한 설명으로 옮지 AZ? 가시광선보다 파장이 더 긴 적외선은 CO, 수분에 흡수된다. 자유생장 수종은 단일조건에 의해 줄기생장이 정지되며 이는 저에너지 광효과 때문이다. 뿌리가 굴지성에 의해 밑으로 구부러지는 것은 옥신이 뿌리 아래쪽으로 이동하여 세포의 신장을 촉 진하고, 위쪽 세포의 신장을 억제하기 때문이다.",
+      "choices": {
+        "1": "단풍나무 활엽수림 아래의 임상에는 적색광이 주좋을 이루고 있다.",
+        "3": "효율적인 광합성 유효...",
+        "5": "뿌리가 굴지성에 의해 밑으로 구부러지는 것은 목신이 뿌리 아래쪽으로 이동하여 싸포와 신장을 촉진하고,"
+      },
+      "answer": 1,
+      "explanation": "으로 옮지 AZ? 가시광선보다 파장이 더 긴 적외선은 CO, 수분에 흡수된다. 자유생장 수종은 단일조건에 의해 줄기생장이 정지되며 이는 저에너지 광효과 때문이다. 뿌리가 굴지성에 의해 밑으로 구부러지는 것은 옥신이 뿌리 아래쪽으로 이동하여 세포의 신장을 촉 진하고, 위쪽 세포의 신장을 억제하기 때문이다.",
+      "keywords": [
+        "수목관리",
+        "단풍나무",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_127",
+      "exam_round": 7,
+      "number": 127,
+      "subject": "기타",
+      "question": "세포분열, 광합성, 호흡, 증산작용 등의 기능을 담당한다.",
+      "choices": {
+        "0": "ㅋ, ㄴ (2) 4 , ㄷ c,e2 @) 1,L,2 (5) ㄴㄷ,"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_128",
+      "exam_round": 7,
+      "number": 128,
+      "subject": "기타",
+      "question": "뭔형질을 가진 세포 내에서 미토콘드리아라는 작은 세포소기관에서 일어난다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_129",
+      "exam_round": 7,
+      "number": 129,
+      "subject": "기타",
+      "question": "크레브스회로(1ㅠ668 cycle, TCA 회로] - 2단계 * 해당작용에서 생성된 (:3에서 @;가 빠지면서 ;;화합물이 되어 크레브스 회로에 전달됨. © 마세틸ㅇ6&가 Cy 화합물과 반응하면서 CO, 발생, NADHS 생산하는 단계 * 산소를 요구하는 단계이며, 미토콘드리아에서 일어나는 기작,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_130",
+      "exam_round": 7,
+      "number": 130,
+      "subject": "기타",
+      "question": "눈의 SHS 계절적으로 변동이 심하다.[휴면기간에는 최저수준, 봄철 호흠량이 급속도로 올라감)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_131",
+      "exam_round": 7,
+      "number": 131,
+      "subject": "기타",
+      "question": "(대사작용에 필요한 에너지를 공급하기 위하여] 호홈작용에 탄수화물이 쓰인다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_132",
+      "exam_round": 7,
+      "number": 132,
+      "subject": "기타",
+      "question": "질산환원에 관한 설명으로 Se 것은? 질산환원효소에 의한 반응은 색소체[6!065049)에서 일어난다.",
+      "choices": {
+        "2": "탄수화물의 여부와는 관계없이 체내에서 쉽케 이루머지지 않는다.",
+        "9": "질산환원효소는 햇빛에 의해 활력도가 낮아지기 때문에 효소의 활력이 밤에는 높고 낮에는 줄어든다."
+      },
+      "answer": 9,
+      "explanation": "으로 Se 것은? 질산환원효소에 의한 반응은 색소체[6!065049)에서 일어난다.",
+      "keywords": [
+        "토양",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_133",
+      "exam_round": 7,
+      "number": 133,
+      "subject": "기타",
+      "question": "(OFRIAHEHJNO.- —> (StS SEH )NH,* : OFS ASAI S 4 (nitrite reductase )O| 의해 이루어짐 [엽록체 or",
+      "choices": {
+        "3": "소나무류와 진달래류는 가 적은 토양에서 자라면서 질산환원 대사가 뿌리에서 일어난다."
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_134",
+      "exam_round": 7,
+      "number": 134,
+      "subject": "기타",
+      "question": "도꼬마리형 : 및에서 질산환원 작용이 일어남[나머지 수목들은 도꼬마리형) 질산환원효소는 햇빛에 의해 활력도가 낮아저가 때문에 효소의 활력이 밤에는 높고 낮에는 줄어든다. 질산환원효소는 햇빛에 의해 활력도가 높아진다. 뿌리에서 흠수되는 형태 * 대부분의 작물, 식물들은 질산태(4)형태로 질소를 흡수한다. * 경작토양에서는 암모늄태(\"4+14') 질소비료를 시비하더라도 질산화박테리아에 의해 NOs SEY = YPRICH. * 산성화가 심한 토양은 질산화 박테리아 활동이 억제되어 맘모늄태[4+1/*) 질소가 축적된다. -> 그래서 균근의 ESS 받아 NHS 직접 흡수한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_135",
+      "exam_round": 7,
+      "number": 135,
+      "subject": "기타",
+      "question": "수베린[목전질] : WSS 가진 FER, 수피의 코르크 조직의 주성분으로 뿌리의 카스파리대의 주성분이며, 수 분의 증발을 억제, 낙엽이 진 후 OSS 싸발라 상처를 보호한다, 라그난은 토양 속에 존재하며, 식물 생장을 억제한다. 타닌의 AB",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_136",
+      "exam_round": 7,
+      "number": 136,
+      "subject": "기타",
+      "question": "타닌 ＊ polyphenol (폴리페놀)의 중합체 * 미생물{곰팡이, 박테리아]의 침입억제 *＊ BE: 초식동물의 기피제 *. 감의 탈삽 : 수용성 타닌을 불용성 타닌으로 만드는 과정 * 타감물질 : 낙엽이 썩은 후에 토양에 남아 오래된 숲에서 종자발아를 억제함 * 생가죽의 무두질 원료[가죽 부패방지)",
+      "choices": {
+        "5": "BoE A (palmitic acid)2 SES Aol] 속하며, 목본식물에 많이 존재한다. 포화지방산"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_137",
+      "exam_round": 7,
+      "number": 137,
+      "subject": "기타",
+      "question": "헤미셀룰로오스는 2차 세포벽에서 가장 많은 비율을 차지하나, At 세포벽에서는 셀룰로오스보다 A 은 비율을 차지한다. TL. @6,2 @.1,L,C@L,£,2 0607ㄱㄴㄷ,2",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_138",
+      "exam_round": 7,
+      "number": 138,
+      "subject": "기타",
+      "question": "탄수화물의 기능 - 제포벽의 구성성분 : 셀룰로오스[섬유소), WE - 다른 물질 합성의 출발점 : 포도당 - 광합성의 최초산물 : 맘반응에 의해~ - BBA 에너지원 : 전분 or 포도당 탄수화물의 종류 : 당의 기본단위 AR 구성된 것 (탄소의 개수에 따라 3~7탄당) : 말데히드기나 케톤기를 하나 가진다. SHE: 광합성에서 CO,8 붙잡아 처음 만들어진 당 (glyceraldhyde) [’aldhyde : 알데히드기]",
+      "choices": {
+        "2": "소당류(올리고당류)",
+        "3": "다당류"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_139",
+      "exam_round": 7,
+      "number": 139,
+      "subject": "기타",
+      "question": "굴지성 : (뿌리) 햇빛 반대방향에서 높아져 신장을 억제함",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_140",
+      "exam_round": 7,
+      "number": 140,
+      "subject": "기타",
+      "question": "4-ㅁ(제초제),",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_141",
+      "exam_round": 7,
+      "number": 141,
+      "subject": "기타",
+      "question": "4,5-1[고엽제), NAA, MCPA [참고) 2-4-DE 식물호르몬이라서 인간에게 영향이",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_142",
+      "exam_round": 7,
+      "number": 142,
+      "subject": "기타",
+      "question": "유전적 개화능력 : 같은 환경에서도 개화능력에는 차이가 있음",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_143",
+      "exam_round": 7,
+      "number": 143,
+      "subject": "기타",
+      "question": "2차 목부에는 질소 함량이 극히 적다,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_144",
+      "exam_round": 7,
+      "number": 144,
+      "subject": "기타",
+      "question": "저장된 AAS 이용하는 시기인 봄철에는 감소, 생장이 정지되면 다시 증가한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_145",
+      "exam_round": 7,
+      "number": 145,
+      "subject": "기타",
+      "question": "가을에 회수된 4, 『, 는 줄기로 이동하므로 함량이 증가한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_146",
+      "exam_round": 7,
+      "number": 146,
+      "subject": "기타",
+      "question": "원형질막[지질함유]이 온도에 민감하게 반음            |",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_147",
+      "exam_round": 7,
+      "number": 147,
+      "subject": "기타",
+      "question": "탄수화물 및 지질 함량 증가 : 저몬에 의한 막의 고체 겔화를 방지한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_148",
+      "exam_round": 7,
+      "number": 148,
+      "subject": "기타",
+      "question": "종자의 휴면과 발아에 관한 설명으로 옮지 않은 것은?",
+      "choices": {
+        "3": "건조한 종자는 호흡이 거의 없지만, 수분흡수 후에는 호흡이 증가한다."
+      },
+      "answer": 3,
+      "explanation": "으로 옮지 않은 것은? 07 종자의 크기는 발아속도에 SS 준다. 휴면타파에는 저온처리, 발아율 향상에는 고온처리가 효율적이다.",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_149",
+      "exam_round": 7,
+      "number": 149,
+      "subject": "기타",
+      "question": "좀피휴면 : 종피가 견고하고 단단하여 발아하지 못하는 경무.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_150",
+      "exam_round": 7,
+      "number": 150,
+      "subject": "기타",
+      "question": "저온처리 : 종자를 젖은 상태로 겨울철 땅속 낮은 몬도에서 보관하는 방법(노천매장 or SH)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_151",
+      "exam_round": 7,
+      "number": 151,
+      "subject": "기타",
+      "question": "호흡 : 종자가 수분 흡수시, 흡수한 수분량에 비례하여 산소호흠량 증가한다. 호흡을 통해 전분, 당류, AS 분해하여 ATP 생산.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_152",
+      "exam_round": 7,
+      "number": 152,
+      "subject": "기타",
+      "question": "개화~수정 소요시간에서는 가장 짧은 수종과 가장 긴 ABS Sch (빈칸이 있는 항목은 암기하지 많는다,)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_153",
+      "exam_round": 7,
+      "number": 153,
+      "subject": "기타",
+      "question": "ZES(podzol) 아한대의 taiga(7HEHILES, 전나무가 SSS 이루는 아한대 침엽수림)에 분포하는 토양. HAS 밑에 회백색의 표백증이 있으며, 산화철/산화알루미늄,/부식,점토 등이 이동 및 집적한 갈색 이고 치밀한 집적층이 생성된 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_154",
+      "exam_round": 7,
+      "number": 154,
+      "subject": "기타",
+      "question": "OIELE (peat soil, bog soil) 아한대에서 온대에 걸쳐 분포, 습윤에서 마습윤기후 하의 습지에서 습윤식물의 퇴적하여 생긴 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_155",
+      "exam_round": 7,
+      "number": 155,
+      "subject": "기타",
+      "question": "토양 생성작용 중 무기성분의 변화에 의한 것이 아닌 것은? 갈색화작용 @ 부식집적작용 @ 점토생성작용 © 초기토양생성작용 © 철, 알루미늄집적작용",
+      "choices": {
+        "2": "부식접적작용 유기성분의 변화에 의한 것, 나머지 13,"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_156",
+      "exam_round": 7,
+      "number": 156,
+      "subject": "기타",
+      "question": "점토생성작용(0『91101100,.010”010101100) : 토양 중의 1차광물이 분해되어 새로운 결정형 또는 비결정형 의 2차규산염광물을 생성하는 과정     :",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_157",
+      "exam_round": 7,
+      "number": 157,
+      "subject": "기타",
+      "question": "이탄집적작용 : 요함지[빗물이 장시간 정체]나 지하수위가 높은 AAS 토양이 혐기상태로 되기 쉬워 불완전 하게 분해된 유기물이 쌓이거나 번성한 습지식물이 지표에 쌓이는 작용 토양생물의 작용과 물질의 이동에 의한 생성작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_158",
+      "exam_round": 7,
+      "number": 158,
+      "subject": "기타",
+      "question": "염기용탈작용 : 강수량이 증발량보다 많아서 와 Na 등의 염기류가 하방 및 측방으로 세탈되는 작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_159",
+      "exam_round": 7,
+      "number": 159,
+      "subject": "기타",
+      "question": "ReY 적황색산림토양(60 yellow) : 야산지에 분포하며 퇴적상태가 치밀하고 물리적 성질이 불량한 토양.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_160",
+      "exam_round": 7,
+      "number": 160,
+      "subject": "기타",
+      "question": "SHAS] 구성요소 (에 관련되 사항, Se 황함유 아미노산 FAA ©. \\46-광합성반응애서 산소방출 Clo 관련된 사항, \\/7은 탈수소효소, 카르보닐효소의 구성요소 다량영양소 [TAL 영양소 (NPK), 2차 명양소 (ㅇㅇ, Mg, 5)] ：암기법 “41<카마황\" 표의 주요흡수형태와 기능은 무조건 암기 ae                “Tr               원초         주요음수형태                      주요기능 B47)                           비무기설          끄                   10                      Delay 흡수 후, 유기물질샘 a",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_161",
+      "exam_round": 7,
+      "number": 161,
+      "subject": "기타",
+      "question": "점토 표면의 양전하와 점토에 의한 응집현상",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_162",
+      "exam_round": 7,
+      "number": 162,
+      "subject": "기타",
+      "question": "유기물의 작용 - 미생물들이 유기물의 분해를 촉진시키고, 이때 생성되는 점액성 물질로 인해 입단형성, 폴리 사카이드는 큰 입단 생성에 중요한 역할을 gt.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_163",
+      "exam_round": 7,
+      "number": 163,
+      "subject": "기타",
+      "question": "비모세혈관 공극량[대공극량]은 입단의 크기와 비례하여 증가",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_164",
+      "exam_round": 7,
+      "number": 164,
+      "subject": "기타",
+      "question": "챙물학적인 풍화작용으로 영양가동성 증가 SZ. SSSR AE SE] 뿌리감염을 방지",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_165",
+      "exam_round": 7,
+      "number": 165,
+      "subject": "기타",
+      "question": "비부식물질 * 토망유기물의 12~24%를 차지 한다. * 부식물질에 비해 구조가 간단여 분해에 대한 저항성이 작다. * 미샐물에 의해 다당류, 단백질, 지방 등이 약간 변형된 물질로 원래 형태를 그대로 유지하고 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_166",
+      "exam_round": 7,
+      "number": 166,
+      "subject": "기타",
+      "question": "사상균 * 밀반적으로 곰팡이를 사상균이라 부르기도 한다. * 현미경으로 관찰되지만 HARE 육안관찰이 된다. * 핵막과 세포벽을 가지고 있는 진핵생물로서 균사라고 불리는 가는 BSS 하고 있다. * 종속영양생물이기 때문에 유기물이 풍부한 곳에서 활성이 높고, 호기성 생물이지만 이산화탄소의 농도가 높은 환경에서도 잘 견딘다. * 가장 일반적인 종 : Penicillium, Mucor, Fusarium, Aspergillus",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_167",
+      "exam_round": 7,
+      "number": 167,
+      "subject": "기타",
+      "question": "58             | * 균사가 세포밖에 머물러 있음, 하티그망과 균투 * [기주) 소나무과, 참나무과, 버드나무과, 자작나무과 * (곰팡이) 자낭균과 담자균[버섯류~)",
+      "choices": {
+        "2": "내생균근"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "생리",
+        "소나무",
+        "병충해",
+        "완충",
+        "참나무",
+        "내병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_168",
+      "exam_round": 7,
+      "number": 168,
+      "subject": "기타",
+      "question": "건설 현장의 수목보호구역에 관한 설명 중 옮지 많은 것은? 물타리를 설치한다,",
+      "choices": {
+        "2": "활력이 좋고 넓은 수관을 갖는 나무는 4+ (dripline)S 기준으로 설정한다.",
+        "5": "HST 만메서는 어떠한 공사활동, 자재 및 쓰레기의 OFM 모니터링을 위한 통로 등도 하용되자않는다."
+      },
+      "answer": null,
+      "explanation": "중 옮지 많은 것은? 물타리를 설치한다,",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_169",
+      "exam_round": 7,
+      "number": 169,
+      "subject": "기타",
+      "question": "공사 중 나무 보호 ＊* 보호하고자 하는 나무에 대해 잘 보이도록 확실하게 표식을 하고 작업자들에게 인식시킴 © 수목보호 경계를 정하여 작업자들이 확실히 알 수 있도록 밝고 잘 보이는 띠를 매달거나 또는 네트와 같은 임시 담장을 설치함",
+      "choices": {
+        "2": "보호",
+        "4": "공사 충격완화 설계"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "토양",
+        "병해충",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_170",
+      "exam_round": 7,
+      "number": 170,
+      "subject": "기타",
+      "question": "미래의 재산가치 [향후 수목관리 비용을 결정)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_171",
+      "exam_round": 7,
+      "number": 171,
+      "subject": "기타",
+      "question": "토양으로부터 수분증발을 감소시킨다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_172",
+      "exam_round": 7,
+      "number": 172,
+      "subject": "기타",
+      "question": "온대지방 수목 중 낙엽활엽수는 낙엽 이후 AAS, 침엽수는 초가을이나 SH, 야자나무류는 이른 봄 이 이식 적기이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_173",
+      "exam_round": 7,
+      "number": 173,
+      "subject": "기타",
+      "question": "온대지방 수목 중 낙엽활엽수는 낙엽 이후 AAS, 침엽수는 초가을아냐 SS, 야자나무류는 이른 봄이 이식 Loe A:",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_174",
+      "exam_round": 7,
+      "number": 174,
+      "subject": "기타",
+      "question": "수간과 가지의 구조를 튼튼하게 발달시키기 위해서 머릴 때 ABS 시작한다. ㅁ. 봄철 건조한 날에 전정하는 것이 비오는 날 전정하는 것보다 소나무 가지끝마름병으로부터 상처 부 위의 감염을 억제할 수 있다, ㄴ. 전정 상처를 빠르게 유합시키기 위해서 휴면과직전애-전정하는-것이 좋다. [휴면상태에서 해야 함) ㄷ. 목련류, 철폭류는 꽃아진-직후-전정하면-다음하-꽃눈의-수가-감소한다. ASR, 목련류의 꽃 피는 시키는 4~5월로써 꽂이 진 직후에 HAS 하더라도 꽃눈의 수가 감소하지 않는다. BE 꽃눈형성시기 : 6하~6상 (가지치기 적기 : 5~<월) 목련 꽃눈형성시기 : 6~7월 [가지치기 적기 : 꽃이 AAS) 전정시기 * (침엽수) 한겨울을 피해서 10~11월 경과 초봄 양호 * (상록수) 봄에 새눈이 신장생장 휴지기인 5~6월, 초가을 HAS 눈, 도장지가 신장생장 휴지기민 9~10월 경, 「 [낙엽 수) Q10| 성숙하는 7~ Bz! ( 태풍 이전), L+o4 이전",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "가지끝마름병",
+        "수목관리",
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_175",
+      "exam_round": 7,
+      "number": 175,
+      "subject": "기타",
+      "question": "형성층의 이탈, 비틀림, 부서진 경우, 조각이 마르기 전이라면 사고 현장에서 즉시 수습하면 재생 가능",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_176",
+      "exam_round": 7,
+      "number": 176,
+      "subject": "기타",
+      "question": "SE 수피를 제자리에 밀착시키고, 작은 VS 박거나 테이프로 붙여서 고정한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_177",
+      "exam_round": 7,
+      "number": 177,
+      "subject": "기타",
+      "question": "건강한 수피에서 벗겨 온 수피가 마르지 않게 하고, 수피의 위 방향과 아래 방향이 바뀌지 않게 조심해야 한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_178",
+      "exam_round": 7,
+      "number": 178,
+      "subject": "기타",
+      "question": "벌목작업과 체인톱 취급에 관한 설명으로 옮지 많은 것은? 경사지에서의 벌도방향은 경사방향과 평행하게 하는 것이 좋다. 체인톱은 시동 후",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은? 경사지에서의 벌도방향은 경사방향과 평행하게 하는 것이 좋다. 체인톱은 시동 후",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_179",
+      "exam_round": 7,
+      "number": 179,
+      "subject": "기타",
+      "question": "3 분, 정지하기 전에는 저속 SASH",
+      "choices": {
+        "3": "벌도목 수고의"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_180",
+      "exam_round": 7,
+      "number": 180,
+      "subject": "기타",
+      "question": "제거방법 임업에서 나무를 벌채할 때의 요령을 적용한다.",
+      "choices": {
+        "1": "안전거리 확보 - 벌목 보조자는 기계톱 작업자로부터 Sm 이상 거리를 둔다. 보조자는 나무가 쓰러지기 전에",
+        "2": "벌도방향 설정 - 건물이나 사람에게 안전한 쪽으로 벌도 방향을 정한다.",
+        "3": "방해물 제거 - 나무 밑동 주변과 나무가 쓰러지는 방향에 방해물이 없도록 미리 점검한다.",
+        "4": "수구베기(방향베기)      |",
+        "5": "추구베기[따라베기)                         |"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_181",
+      "exam_round": 7,
+      "number": 181,
+      "subject": "기타",
+      "question": "8484 (Oualitative) 평가 * 발생가능성과 피해정도를 등급화 * 여러 국가의 정부기관이나 업체에서 보편적으로 사용 * 제한점 - 본질적으로 주관성과 모호성이 존재함 (용어, 발생가능성, 피해정도, 위험도 등에 대하여 등급의 중용 성을 명확하게 설명하는 것이 필요함) 위험성 평가 수준 (시각적 평가) * 평가를 위한 효율적 동선의 결정과 동선 기록 * 평가 대상목에의 접근방법 - 도보, 자동차, 드론 * 진전 단계 수준의 평가 필요 대상목 확인 위험성 평가 수준 (기초 평가) * 평가 대상 수목{들)의 위치 확인 * 위험목[가지)에 피해를 입을 대상물과 구역(20106) 결정 * 조사 결과 기록 - 입지조건, 결점, 내부결점과 관련된 외부 표징 * 필요시, 진전 단계의 평가 권장 * 경감 옵션 개발 및 각 옵션별 잔존 위험성 평가 * 평가 결과보고서 작성 및 제출 (재검사 일정, 조언 등 포함) * 수관검사, 가지의 구조적 결함 평가 - 육안, 부후검사 * 위험 대상물 분석 * 위험목 입지 평가 * 부후 검사 - 생장추, 비트드릴(소구경), 저항기록드릴, 음향파장, 음향단층>×선 촬영, AMM AS, 방사선 * 건강성 평가 - 나이테 분석(온대수종), 신초길이 측정, WE (starch) 분석",
+      "choices": {},
+      "answer": null,
+      "explanation": "하는 것이 필요함) 위험성 평가 수준 (시각적 평가) * 평가를 위한 효율적 동선의 결정과 동선 기록 * 평가 대상목에의 접근방법 - 도보, 자동차, 드론 * 진전 단계 수준의 평가 필요 대상목 확인 위험성 평가 수준 (기초 평가) * 평가 대상 수목{들)의 위치 확인 * 위험목[가지)에 피해를 입을 대상물과 구역(20106) 결정 * 조사 결과 기록 - 입지조건, 결점, 내부결점과 관련된 외부 표징 * 필요시, 진전 단계의 평가 권장 * 경감 옵션 개발 및 각 옵션별 잔존 위험성 평가 * 평가 결과보고서 작성 및 제출 (재검사 일정, 조언 등 포함) * 수관검사, 가지의 구조적 결함 평가 - 육안, 부후검사 * 위험 대상물 분석 * 위험목 입지 평가 * 부후 검사 - 생장추, 비트드릴(소구경), 저항기록드릴, 음향파장, 음향단층>×선 촬영, AMM AS, 방사선 * 건강성 평가 - 나이테 분석(온대수종), 신초길이 측정, WE (starch) 분석 + 폭풍,/바람에 의한 부하 분석...",
+      "keywords": [
+        "진단",
+        "단풍나무",
+        "생리",
+        "벚나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_182",
+      "exam_round": 7,
+      "number": 182,
+      "subject": "기타",
+      "question": "발생특성 * 관목보다는 교목이나 아교목에서 주로발생 * 피해 부위는 줄기의 아래와 위쪽 모두 발생 가능 (수십 Cm ~ 10m 이상] * 침엽수보다는 활엽수, 특히 참나무 피해 * 온도가 상승하면 수분흡수하여 갈라진 부위가 닫힘, 스스로 상처를 치유, 봄에 수직방향 돌출하여 유합조직 발 * 다음 추위에 재발될 수 있음 * 온도차가 더 많은 남쪽과 남서쪽 수간에서 많이 발생함. * 남부수종을 북쪽지방에 이식했을 Aol 잘 발생함. ㆍ ㆍ 상렬은 재발하므로 가지치기를 적절한 방법으로 시행 * 간벌, 벌채, 집재 과정에서 상처받지 않도록 주의함 * 수목 식재 시, 겨울 건조에 적응수종, 산지의 종자로부터 생산된 묘목 선정 AG: 117-모두",
+      "choices": {
+        "4": "해빙염의 피해는 침엽수와 활엽수에서 서로 다른 수관 위치에서 나타날 수 있다.",
+        "5": "해빙염의 경우 상록수는 봄이 오기 전에 BO! 피해가 나타나고 낙엽수는 MMO] 생육한 후 나타난다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은? 해빙염의 피해는 낙엽수보다 상록수의 피해가 더 크다. 토양 내 염류 물질이 적을수록 전기전도도는 높아지며 식물피해도 줄어든다,",
+      "keywords": [
+        "느티나무",
+        "토양",
+        "생리",
+        "해충",
+        "진단",
+        "병충해",
+        "참나무",
+        "수목관리",
+        "궤양병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_183",
+      "exam_round": 7,
+      "number": 183,
+      "subject": "기타",
+      "question": "농약의 보조제에 관한 설명 중 Sz] 않은 AS? 증량제에는 활석, 납석, 규조토, 탄산칼슴 등이 있다.",
+      "choices": {
+        "3": "계면활성제는 음이온, 양이온, 비이온, 양성 계면활성제로 구분된다.",
+        "2": "전착제 (Hal)",
+        "1": "음이온성계면활성제"
+      },
+      "answer": 3,
+      "explanation": "중 Sz] 않은 AS? 증량제에는 활석, 납석, 규조토, 탄산칼슴 등이 있다.",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_184",
+      "exam_round": 7,
+      "number": 184,
+      "subject": "기타",
+      "question": "천연유기 살충제 - HSS, 유산니코틴, 로테논 등.",
+      "choices": {
+        "2": "탈피 = :피와 변태는 탈 fenozide, hal             되는데, 곤충 EL",
+        "3": "AANA    |은 복합체                on =.",
+        "4": "마크로아( 의존성 C| vies =20| 탈분 4 a",
+        "5": "IS 저해 키틴, 단백질                      riflumuron",
+        "6": "nereistoxin 계 살충제",
+        "7": "네오니코티노이드계 살충제                                                                   |",
+        "8": "마크로라이드계 항생제",
+        "9": "디아마이드계 살충제",
+        "1": "gos 클러스터: fenazaquin, te          > 기능을 저해.                    느솜성으로"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "토양",
+        "해충",
+        "병충해",
+        "살충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_185",
+      "exam_round": 7,
+      "number": 185,
+      "subject": "기타",
+      "question": "놈약판매상이 지켜야할 사항 * 정확한 처방과 판매 : 사용작물과 방제 병해충, 사용방법 등 농약안전사용기준을 확인하여 정확하게 처방하고 * 안전사용교육 실시 : 구매자에게 안전사용교육을 실시후 판매한다. * 과대광고 금지: 등록사항과 다르게 광고하거나 추천, 판매를 금지한다. * 판매가격 표시 : 소비자가 쉽게 볼 수 있는 곳에 부착한다. 농약안전정보시스템 [놈약의 만전사용기준 설정) * SAAT 노출허용량 : 농작업자에 노출 가능한 허용량(^&06Ｌ 을 정하게 되고, 실제로 농약살포시 노출되는 © 일일섭취허용량 : NOAELS 사람에 대한 안전성 평가의 지표로 삼는다.",
+      "choices": {
+        "9": "품목이 동일한 ste 같은 상표명을 갖는다.",
+        "0": "유축성분명을-계통으로 HEAL 것이다. (유효성분 화학구조에 따라서 붙여지는 명칭.)",
+        "5": "품목아 SCS: 농왁은 같은 상표명을 갖는다. (OFS 제품화 할때 놈약회사에서 붙인 고유이름)"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병해충",
+        "농약",
+        "소나무",
+        "병충해",
+        "수목관리",
+        "살충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_186",
+      "exam_round": 7,
+      "number": 186,
+      "subject": "기타",
+      "question": "호흠과정 저해와 관련된 농약의 작용기작 설명이 올지 않은 것은? 살충제 작용기작 분류기호 '20@와 관련된다. 전자전달을 교란하거나 ATP 억제한다. © 미토콘드리아 막단백질 복합제의 기능을 교란한다. 알라클로르는 잡초 발아 억제제 세포분열 저해제 [1 > HO3, 2 > 1235, KS & N > 115) - 세포분열과 세포신장 BBS 세포 SAD 유묘생장을 저해 - 토양 처리형으로 잡초 발생 전에 처리하여 일년챙 잡초 발생 억제",
+      "choices": {},
+      "answer": 1,
+      "explanation": "이 올지 않은 것은? 살충제 작용기작 분류기호 '20@와 관련된다. 전자전달을 교란하거나 ATP 억제한다. © 미토콘드리아 막단백질 복합제의 기능을 교란한다. 알라클로르는 잡초 발아 억제제 세포분열 저해제 [1 > HO3, 2 > 1235, KS & N > 115) - 세포분열과 세포신장 BBS 세포 SAD 유묘생장을 저해 - 토양 처리형으로 잡초 발생 전에 처리하여 일년챙 잡초 발생 억제",
+      "keywords": [
+        "살충",
+        "농약",
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_187",
+      "exam_round": 7,
+      "number": 187,
+      "subject": "기타",
+      "question": "1<2 그룹 : 세포의 유사분열 억제, 미소관 형성 저해제로 생장억제 - Carbamate 계 : chlorpropham (국내에서는 생장조절제로 사용]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_188",
+      "exam_round": 7,
+      "number": 188,
+      "subject": "기타",
+      "question": "$24, 424 기주식물을 중심으로 30본을 육안조사하여 약충과 성춤의 평균 마리수를 계산 [별표 4] 산림병해충별 발생밀도[피해도) 조사요령(제7조 관련)[산림병해충 방제규정).6아 파일 참고",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "산림병",
+        "병충해",
+        "해충",
+        "약충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_189",
+      "exam_round": 7,
+      "number": 189,
+      "subject": "기타",
+      "question": "지정해제 예정 보호수의 수종",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_190",
+      "exam_round": 7,
+      "number": 190,
+      "subject": "기타",
+      "question": "전자현미경 : 바이러스, 파이토플라스마[외부형태만 가능)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "깜부기병",
+        "진단",
+        "녹병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_191",
+      "exam_round": 7,
+      "number": 191,
+      "subject": "기타",
+      "question": "병징.병환 [반복감염성 무성포자) * 전 생육기에 발생하나 수종에 따라 발생시기가 다름. ＊ 보통 6~7월에 발생, 장마철 이후 급증 * 보통 잎에 발생하지만 수종에 따라 어린줄기와 멸매에도 발생 * 흰가루를 뿌려놓은 SS, 집단적 발생 분생포자경, 분생포자 * 늦가을에 작고 검은 색의 자낭과 Ba (EA) HENS 저해하고, 균사일부는 표피를 SD 흡기형성 -> 양분탈취",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "진단",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_192",
+      "exam_round": 7,
+      "number": 192,
+      "subject": "기타",
+      "question": "피해 - 광합성 방해, 관상가치 손상",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_193",
+      "exam_round": 7,
+      "number": 193,
+      "subject": "기타",
+      "question": "기주 : 주로 초본식물, [수목) 아까시나무, 싸리나무, 버드나무, 포플러",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_194",
+      "exam_round": 7,
+      "number": 194,
+      "subject": "기타",
+      "question": "매개중 - 마름무늬 매미충, 새삼 * (초기) 위황증상, 병세가 진전됨에 따라 생육이 억제되고, 가지의 마디 사이가 짧아짐 * 잎이나 줄기 조직이 건전한 식물보다 훨씬 가늘어짐. <느릅나무 시들음병> ¢ Ophiostoma novo-ulmi [자낭균류) “DANS : 유럽느릅나무좀, 미국느릅나무좀 * 유럽에서 발생 후 북미로 유입 (느릅나무의 치명적인 피해) * 좀류이 작은가지 가해 상처침입, Sol 감염",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "진단",
+        "시들음병",
+        "생리",
+        "매미충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_195",
+      "exam_round": 7,
+      "number": 195,
+      "subject": "기타",
+      "question": "방제법 * 저항성 품종육성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_196",
+      "exam_round": 7,
+      "number": 196,
+      "subject": "기타",
+      "question": "매개충 - 마름무늬 매미충 * 건전나무에 비해 잎이 작고 누런색, 출기도 신장이 부진하여 짧아짐(위축) © 병든나무에서는 BQ] Ato] 터서 잔가지가 SY, 꽃봉오리에서는 엽화증상 Me: 17-'3)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "매개충",
+        "진단",
+        "매미충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_197",
+      "exam_round": 7,
+      "number": 197,
+      "subject": "기타",
+      "question": "적용살균제 처리",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_198",
+      "exam_round": 7,
+      "number": 198,
+      "subject": "기타",
+      "question": "[4~5월) 줄기나 가지에 나타난 녹포자주머니가 터지기 전에 비닐로 감싸서 베어내 땅속에 묻는다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_199",
+      "exam_round": 7,
+      "number": 199,
+      "subject": "기타",
+      "question": "병징 : (잎, 열매) 흑갈색 반점, (가지, 줄기) 궤양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "진단"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_200",
+      "exam_round": 7,
+      "number": 200,
+      "subject": "기타",
+      "question": "한국에서 발생한 참나무 시들음병에 관한 설명으로 을지 않은 것은? Ase 천공성 해충인 광릉킨나무춤이다.",
+      "choices": {
+        "3": "병원균은 자낭균으로서 Rattaelea quercus-mongolicae 이다.",
+        "2": "주요 피해 수종은 몰참냐무와 졸삼냐무이다. 주 피해수종은신갈나무"
+      },
+      "answer": null,
+      "explanation": "으로 을지 않은 것은? Ase 천공성 해충인 광릉킨나무춤이다.",
+      "keywords": [
+        "참나무",
+        "시들음병",
+        "병충해",
+        "해충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_201",
+      "exam_round": 7,
+      "number": 201,
+      "subject": "기타",
+      "question": "병원균은 변재메서 생장[목재변색], 물관부 침입, 물관부 기능상실, 시들음증",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_202",
+      "exam_round": 7,
+      "number": 202,
+      "subject": "기타",
+      "question": "Serotonin : 기분, 불안, 식용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_203",
+      "exam_round": 7,
+      "number": 203,
+      "subject": "기타",
+      "question": "407 |에는 나무로 이동하여 추피와 목질부 표면을 고리모양으로 식해. * 목질부 중심부쪽으로 파고 들어가 갱도를 만든다. * 배출된 SAS 거미줄과 같은 실로 묶어 놓아서 흑같이 보인다. S7IL}+23 (Platypus koryoensis)                  | * 년1회 발생, 유중으로 월동 [참나무류 SO 기주) * UHM 등에 병원균포자를 6~8개 담을 수 있는 we 존재 * 수컷성충이 기주에 먼저 침입 후, 유인물질[페로몬)로 IAS 유인한다. * 갱도 끝에 산란하며 유충->번데기->성충에서 탈출(목재부스러기 발견) BIL} APSHSHS",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "유충",
+        "성충",
+        "병충해",
+        "수컷성충",
+        "참나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_204",
+      "exam_round": 7,
+      "number": 204,
+      "subject": "기타",
+      "question": "2차해충 수세가 약해지면 공격하는 해충 - 나무좀, SF, AMR, YAR 미소흠즘성해충",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "미소흠즘성해충",
+        "병충해",
+        "해충",
+        "차해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_205",
+      "exam_round": 7,
+      "number": 205,
+      "subject": "기타",
+      "question": "경제적 피해수준 (Economic Injury Level) - 해충에 의한 피해액과 방제비가 같은 수준의 밀도로 경제적 손실이 나타나는 최저밀도 - 인간에게 경제적 손실을 초래하는 해충활동을 억제하는 것 - 해충의 USS 밀정한 수준이하로 조절하는 것 - 어떤 해중밀도가 높아져 이들의 피해를 방치했을 경우 예상되는 손실액 > 방제에 소요될 제반비용 > 방제수단 적용 > 경제적 피해를 주는정도의 의미보다는 심각한 피해를 초래하는 \"해충의 개체수\"를 의미. “ 기주의 저항성과 환경저항은 해충의 밀도를 경제적피해수준 이하로 낮추는데 기여한다. ` 환경저항[= 자연적 방제요인)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_206",
+      "exam_round": 7,
+      "number": 206,
+      "subject": "기타",
+      "question": "수목해춤의 방제에 관한 설명으로 을지 않은 것은? 생활권 도시 인간과 환경을 동시에 고려한 방제방법이 더욱 요구된다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 을지 않은 것은? 생활권 도시 인간과 환경을 동시에 고려한 방제방법이 더욱 요구된다. 행동적 방제는 곤충의 환경자극에 대한 반응과 이에 따른 행동반응을 응용하여 방제하는 방법이다. * 기계적방제 암기법 : 포살법, 유살법, 박피법, 매몰법, 파쇄법, 소각법, 진동법, 차단법 + 물리적방제 : 온도, 습도, 색깔, 이온화에너지, 음파, 감압, 전기.",
+      "keywords": [
+        "곤충병",
+        "병충해",
+        "해충",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_207",
+      "exam_round": 7,
+      "number": 207,
+      "subject": "기타",
+      "question": "솔컵질팍지벌레",
+      "choices": {
+        "1": "전국 고정조사지 설치, 임의로 20본을 선정하여 각 조사목의 수관 상부와 하부에서 직경×길이가 100 cm?",
+        "2": "최근 3 이상 미발생지는 5월~?월에 임지를 순회답사, 50본 이상의 소나무를 중심으로 발생여부를 육안"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "유충",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_208",
+      "exam_round": 7,
+      "number": 208,
+      "subject": "기타",
+      "question": "수목의 조직에 관한 설명으로 Se 것은?",
+      "choices": {
+        "3": "줄기 횡단면에서 SS 쿠르크증보다 바깥쪽아-위처한다. (바깥쪽]표피층 - 코르크층 - 코르크형성층 - 코르",
+        "5": "관다발(유관속)형성층의 세포분열로그초-물관부와 Le 체관부가 형성된다, 유관속 조직에는 AP 목부, 2차 사"
+      },
+      "answer": null,
+      "explanation": "으로 Se 것은?",
+      "keywords": [
+        "코르크형성충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_209",
+      "exam_round": 7,
+      "number": 209,
+      "subject": "기타",
+      "question": "CsHi2Os + 602 + 6002 + 6120 + 686kcal > ATP 생산",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_210",
+      "exam_round": 7,
+      "number": 210,
+      "subject": "기타",
+      "question": "전자전달계 - 3단계 * NADH 로 전달된 전자(6-)와 수소[|1+ )가 최종적으로 산소에 전달되어 물로 환원되면서 추가로 효율적으 로 ATP 를 생산하는 과정 * 미토콘드리아에서 일어나는 기작 © 산소를 요구하는 단계이다.(호기성호흡)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_211",
+      "exam_round": 7,
+      "number": 211,
+      "subject": "기타",
+      "question": "수피 중에서 맨 바깥쪽에 있는 조피는 죽어 있는 조직이지만, 가스교환을 촉진하기 위하여 피목이 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_212",
+      "exam_round": 7,
+      "number": 212,
+      "subject": "기타",
+      "question": "수목의 지질메 관한 설명으로 Fe 것은? 카로티노이드는 휘발성으로 타감작용을 한다. t(wox)2t 수베린은 휘발성 화합물로 종자에 저장된다. 팔미트산(6010ㅁ14ㅇ 0ㅇㅇ0]은 불포화지방산에 속하며, 목본식물에 많이 존재한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 Fe 것은? 카로티노이드는 휘발성으로 타감작용을 한다. t(wox)2t 수베린은 휘발성 화합물로 종자에 저장된다. 팔미트산(6010ㅁ14ㅇ 0ㅇㅇ0]은 불포화지방산에 속하며, 목본식물에 많이 존재한다. 01 퀴로탁노아드는 휘발성으로 타감작용을 한다,",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_213",
+      "exam_round": 7,
+      "number": 213,
+      "subject": "기타",
+      "question": "뿌리의 생장 : 낮은 SoA 생장 및 발근 촉진, 높은 농도에서 생장억제 옥신에 의해 SAWS 촉진, 시토키닌에 의해 주근 생장 촉진",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_214",
+      "exam_round": 7,
+      "number": 214,
+      "subject": "기타",
+      "question": "나이가 들수록 질소의 함량이 감소한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_215",
+      "exam_round": 7,
+      "number": 215,
+      "subject": "기타",
+      "question": "회수된 질소는 목부와 사부의 방사유조직에 저장된다. (AAI 이동은 사부를 통해 이루어진다.)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_216",
+      "exam_round": 7,
+      "number": 216,
+      "subject": "기타",
+      "question": "세포막의 손상 : 지방절의 액화와 단백질 변성 [광합성 못함]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_217",
+      "exam_round": 7,
+      "number": 217,
+      "subject": "기타",
+      "question": "수용성 단백질의 증가 : 동결방지 단백질은 세포벽과 MESO 있는 얼음 결정의 물분자와 결합하며 얼음 결정이 커지는 것을 방지",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_218",
+      "exam_round": 7,
+      "number": 218,
+      "subject": "기타",
+      "question": "열탕처리 : 콩과식물의 WS 75~100도씨에 잠깐 담그는 처리방법 A, SEA 2 : 지베렐린을:처리하는 방법, 실제 응용은 어려움.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_219",
+      "exam_round": 7,
+      "number": 219,
+      "subject": "기타",
+      "question": "수목의 건조스트레스에 관한 설명으로 옮지 많은 것은?",
+      "choices": {
+        "1": "건조스트레스를 받으면 체내에 SH (proline)O| 축적된다.",
+        "3": "호두나무는 단품나무에 비해 화분의 생산량이 ACh 호두나무[풍매화)이고, 단풍나무[충매화]이다. 풍매화가 화분을"
+      },
+      "answer": 1,
+      "explanation": "으로 옮지 많은 것은?",
+      "keywords": [
+        "생리",
+        "소나무",
+        "참나무",
+        "수목관리",
+        "단풍나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_220",
+      "exam_round": 7,
+      "number": 220,
+      "subject": "기타",
+      "question": "개화~종자 성숙 소요시간에서도 가장 짧은 수종과 가장 긴 SSS ASC {이때는 '두송' 까지 암기한다.)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_221",
+      "exam_round": 7,
+      "number": 221,
+      "subject": "기타",
+      "question": "화산회토 화산에 의해 생긴 토양으로 유기물 함량이 많은 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_222",
+      "exam_round": 7,
+      "number": 222,
+      "subject": "기타",
+      "question": "2:443}3}-2 (braunification) : 화학적 풍화작용에 의하여 규산염광물이나 산화물광물으로부터 유리된 철이 온이 MAL} 물 등과 결합하여 가수산화철이 되어 갈색으로 착색시키는 과정",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_223",
+      "exam_round": 7,
+      "number": 223,
+      "subject": "기타",
+      "question": "AE 기계적 이동작용 : 점토가 물의 하방이동으로 하부토층으로 이동되어 &증보다 6층에 점토 증가",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_224",
+      "exam_round": 7,
+      "number": 224,
+      "subject": "기타",
+      "question": "홍적대지에 생성된 토양으로 야산에 주로 분포하며 퇴적상태가 치밀하고 토양의 물리적 성질이 불 Al Al EOF 2) 갈색산림토양 (3) 맘적색산림토양 4) 적활색산림토양 (5) 회갈색산림토양 토양군[8개) - 앞에 붙는 Bol 철자는 토양의 Hats 의미함",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_225",
+      "exam_round": 7,
+      "number": 225,
+      "subject": "기타",
+      "question": "DR 암적색산림토양(000<『60) : 석회암과 염기성암 SB 모재로 하는 SMA 주로 분포 약산성토양.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_226",
+      "exam_round": 7,
+      "number": 226,
+      "subject": "기타",
+      "question": "방선균 * 형태는 사상균과 비슷하지만 세포 내의 미세구조가 제균처럼 세포핵이 없는 뭔핵생물이다.[그램양성균) * 토양미생물의 10~508%를 구성하며, 대부분 유기물을 분해하고 생육하는 부생섬 생물이다. * SOA 나는 냄새는 방선균이 분비하는 geosmins 물질에 의한 것이다. * 경작지보다 목초지에 많으며 SAE (fallow 5011)보다는 경작지에 많다. (휴경토양 < 경작지 < 목초지) * 주요 방선균 : Micromo nspora,.N ecardia, Streptomyces, Streptosporangium, Thermoactinomyées 등. * 원핵생물인 세균은 생명체로서 가장 원시적인 형태이다, * 많은 종류의 유기물을 분해하고, 철/암모니아,/황 등과 같은 무기물을 산화시키거나 질소를 고정한다. * 탈질작용을 하여 토양 중의 질소이용률을 떨어뜨린다, * 구형, 막대형, 나선형의 형태를 지닌다. * 세균의 분류",
+      "choices": {
+        "1": "화학종속영양제균 : 탄소원과 에너지를 유기물의 분해로 얻는다.",
+        "2": "점토함량이 많을수록 포장용수량은 적어진다.",
+        "3": "토양의 미세공극에 존재하는 모세관수라고 한다.",
+        "0": "S6te 비유효수분이다."
+      },
+      "answer": 3,
+      "explanation": "으로 옮지 않은 것은?",
+      "keywords": [
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q7_227",
+      "exam_round": 7,
+      "number": 227,
+      "subject": "기타",
+      "question": "1~ -",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_228",
+      "exam_round": 7,
+      "number": 228,
+      "subject": "기타",
+      "question": "토양의 입단형성을 저해하는 것은? Al* @ Ca* (3) Fe* @ Nat © 부식 양이온 흡착의 세기 : Na < K = NH, < Mg = Ca < Al(OH), < H 순으로 증가한다. Not 은 수화반지름이 커서 점토입자의 분산효과를 가져와서 입단형성을 저해함",
+      "choices": {
+        "3": "vermiculite 가 문모와 다른 점은 2-1 층 사이의 공간에 \\때산-시프아존재환다는-것이다. K+2} Mg",
+        "69": "Chlorite 는 SASS 가지는 6「001\\6 SO] 위아래 음전하를 가지는 2:1 층과의 수소결합을 통하여"
+      },
+      "answer": 3,
+      "explanation": "으로 음지 많은 것은? illite 는 2:1 S 사이의 공간에 이 비교적 많아 습윤상태에서도 팽창이 불가능하다, kaolinite 는 다른 SA 규산염 광물에 비하여 음전하가 상당히 적고, 비표면적도 작다.",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_229",
+      "exam_round": 7,
+      "number": 229,
+      "subject": "기타",
+      "question": "식재 수목을 선정할 때, 우선적으로 고려할 사항이 마닌 것은?",
+      "choices": {
+        "0": "AAA (Biwi) S 고려한다.",
+        "3": "유전적인 SAS 이해하여야 한다."
+      },
+      "answer": 3,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_230",
+      "exam_round": 7,
+      "number": 230,
+      "subject": "기타",
+      "question": "표토가 유실되는 것을 막는다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_231",
+      "exam_round": 7,
+      "number": 231,
+      "subject": "기타",
+      "question": "목질부와 수피 사이에 있는 이물질이나 부서진 AAS 제거한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_232",
+      "exam_round": 7,
+      "number": 232,
+      "subject": "기타",
+      "question": "삼처부위 전체를 젖은 천, 부억용 종이수건 혹은 보습제[피트모스)로 패드를 만들어 습기가 유지되도록 덮는다. [마르지 BES 비닐로 패드 부분을 덮어서 한 바퀴 돌려 매고 끈으로 단단히 고정)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_233",
+      "exam_round": 7,
+      "number": 233,
+      "subject": "기타",
+      "question": "상처가 수평 방향으로 길게 이어져 있을 경우에는 이식하려는 수피를 약 Som 길이로 잘라서 연속적으로 밀착 하여 부착시킨 후, 작은 못으로 고정시킨다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_234",
+      "exam_round": 7,
+      "number": 234,
+      "subject": "기타",
+      "question": "나무 뿌리에 의한 배수관로의 막힘현상을 예방할 수 있는 방법으로 을지 않은 것은?",
+      "choices": {
+        "0": "CuSO,84S 배수관로 표면에 도포한다."
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_235",
+      "exam_round": 7,
+      "number": 235,
+      "subject": "기타",
+      "question": "살충제의 유효성분과 작용기작의 ABS 옮지 않은 것은? Bt 엔도톡신-해충의 중장 파괴 페니트로티온-아제틸콜린가수분해효소 저해 디플루벤주론-전자전달계 복합체 || 저 밀베멕틴-신경세포의 염소이온 통로 교란 카탑 하이드로클로라이드-아세틸콜린 수용체 통로차단",
+      "choices": {
+        "3": "디플루벤주론-전자전달계-복합체 저해 [작용기작 15 [OS 키틴합성 저해] 디플루벤주론, 클로르플루마주론,"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "살충",
+        "농약",
+        "병충해",
+        "해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_236",
+      "exam_round": 7,
+      "number": 236,
+      "subject": "기타",
+      "question": "적용대상 농작물과 병해충별로 정해진 사용방법.사용량을 지켜 사용할 것",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병해충",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_237",
+      "exam_round": 7,
+      "number": 237,
+      "subject": "기타",
+      "question": "3 6 | 그룹 : 세포막의 지질과 왁스 형성에 작용하여 긴사슬 지방산인 VLCFA 합성 억제 - 발아 중인 유야부에 주로 흡수되어 발아직후 유근과 유아의 생장 억제 - 흡수되어 체관부를 따라 다른 부위로 이 - Chloroacetamide Ail : alachlor, butachlor, metolachlor, pretilachlor - Thiocarbamate Al (N28) : thiobencarb, esprocarb, dimepiperate 살충제 ‘200’ - 전자전달계 복 합체 ||| 저해       .          : 살균제 ‘CH! - 복합체 | 의 NADH 기능저해                                 적토: TSO 1히6 18000) A, 만 그크차",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "살충",
+        "농약",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_238",
+      "exam_round": 7,
+      "number": 238,
+      "subject": "기타",
+      "question": "농약의 잔류허용기준 제도에 관한 설명 중 옮지 많은 것은?",
+      "choices": {
+        "0": "농약 및 식물 별로 잔류허용기준은 다르다.",
+        "3": "일본과 유럽, 대만 등은 PLS ALS 한국보다 SAA 운명하고 있다."
+      },
+      "answer": null,
+      "explanation": "중 옮지 많은 것은?",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_239",
+      "exam_round": 7,
+      "number": 239,
+      "subject": "기타",
+      "question": "6야 파일 참고)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_240",
+      "exam_round": 7,
+      "number": 240,
+      "subject": "기타",
+      "question": "수목병 진단 시 생물적 원인(기생성]과 비생물적 뭔인[비기생성)에 의한 병발생의 일반적인 특성 으로 옮지 않은 것은? 항목       생물적 비생물적",
+      "choices": {
+        "0": "병 진전도 Cre        유사",
+        "9": "발병부위 수목전체 수목 일부"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "발병",
+        "진단",
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_241",
+      "exam_round": 7,
+      "number": 241,
+      "subject": "기타",
+      "question": "병짐 : 땅가부분 송진누출, 잎이 작아지며 고사",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_242",
+      "exam_round": 7,
+      "number": 242,
+      "subject": "기타",
+      "question": "혐광현미경 : 파이토플라스마의 경우, BAA4A(DAPIS 이용하여 사관부 형광반응[형광현미경 관찰",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_243",
+      "exam_round": 7,
+      "number": 243,
+      "subject": "기타",
+      "question": "종자, 꽃가루 ㆍ 바이러스가 어미식물의 종자를 통해서 전염 : 배, 배유, 종피 ㆍ 종자의 이동 경로 : 1) 어미식물로부터 직접 종자로 이동, 2) 꽂가루 전염(수분) © 감염목 철저히 제거 : 주기적 묘목 감염검사[티15&,『ㅁ2 등] - (무감염 성목) 종자, 삽수 채취, virus-free 챙장점 배양",
+      "choices": {
+        "2": "광학현미경 관찰 시 일반적으로 저배율에서 고배율로 순차적으로 관찰한다.",
+        "69": "곰팡이 포자형성이 잘 되지 않는 경우 근자외선이나 형광등을 사용하여 포자형성을 유도한다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은? 표면살균에 차아염소산나트륨[602ㅇㄴ!) 또는 알코올을 주로 사용한다.",
+      "keywords": [
+        "농약",
+        "진단",
+        "병충해",
+        "수목병",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_244",
+      "exam_round": 7,
+      "number": 244,
+      "subject": "기타",
+      "question": "ASE - 병든 낙엽에서 월동, 이듬해 봄 자남포자 형성 (1차), 분생포자[반복감염, 확산)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_245",
+      "exam_round": 7,
+      "number": 245,
+      "subject": "기타",
+      "question": "월동 - 균사 또는 자낭각의 상태로 ASS 나고, 이듬해 전염원이",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_246",
+      "exam_round": 7,
+      "number": 246,
+      "subject": "기타",
+      "question": "병환 * 월동 종자 발아, 나무의 중기에 부축, 흡기를 내어 표피조직으로 침입 * 기주 수목의 유관속의 양분, 수분 흠수, 줄기로 다른 식물체로 옮겨가며, = 가을에 종자 형성 * 물리적으로 떼어내어 제거 * 제초제 사용 가능 aa: 1-@",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_247",
+      "exam_round": 7,
+      "number": 247,
+      "subject": "기타",
+      "question": "소나무 가지끝마름병의 설명으로 옮지 않은 것은? 피해를 입은 새 가지와 AAS 추지에 젖어 있고 수지가 흐른다.",
+      "choices": {
+        "2": "명나방류나 얼룩나방류의 유춤에 의해 고사하는 증상과 비슷하다.",
+        "4": "간염된 리기다소나무의 어린 침엽은 아래쪽 일부가 WA WOR 퇴색된다."
+      },
+      "answer": 4,
+      "explanation": "으로 옮지 않은 것은? 피해를 입은 새 가지와 AAS 추지에 젖어 있고 수지가 흐른다.",
+      "keywords": [
+        "카지끝마름병",
+        "소나무",
+        "진단",
+        "병충해",
+        "가지끝마름병",
+        "순마름병",
+        "수목관리",
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_248",
+      "exam_round": 7,
+      "number": 248,
+      "subject": "기타",
+      "question": "묘포에서는 밀식을 피하고 통풍에 유의한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_249",
+      "exam_round": 7,
+      "number": 249,
+      "subject": "기타",
+      "question": "병환 / 월동 / 침입 / 전반 [월동] 어린새가지의 세포간극에서 잠복월동 [침입] 잎이나 과실의 기공을 통해 침입, AAS 통하여 침입.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_250",
+      "exam_round": 7,
+      "number": 250,
+      "subject": "기타",
+      "question": "분포 : 중국, 인도, 미국 등 39개국 (일본발생보고 x)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_251",
+      "exam_round": 7,
+      "number": 251,
+      "subject": "기타",
+      "question": "목재부스러기 대량방출 함",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_252",
+      "exam_round": 7,
+      "number": 252,
+      "subject": "기타",
+      "question": "포플러 잎녹병에 관한 설명으로 Se 것은?",
+      "choices": {
+        "2": "봄부터 여름까지 병원균의 침입이 이루어지며 나무를 빠르게 고사시킨다."
+      },
+      "answer": 2,
+      "explanation": "으로 Se 것은?",
+      "keywords": [
+        "잎녹병",
+        "녹병",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_253",
+      "exam_round": 7,
+      "number": 253,
+      "subject": "기타",
+      "question": "병정 - 병든부위 수피 밑에 황색 균사매트, 노란색 자낭각 형성, 다습할때 분생포자각에서 실서첨 분생포자 누출",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_254",
+      "exam_round": 7,
+      "number": 254,
+      "subject": "기타",
+      "question": "GABA : 이완, 진정",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_255",
+      "exam_round": 7,
+      "number": 255,
+      "subject": "기타",
+      "question": "(Aromia bungii)       |",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "느티나무",
+        "유충",
+        "해충",
+        "소나무",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_256",
+      "exam_round": 7,
+      "number": 256,
+      "subject": "기타",
+      "question": "잠재해충(비경제해중) - 환경이 바뀌어 밀도가 증가할 수 있는 해충",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "해충",
+        "농약",
+        "병충해",
+        "잠재해충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_257",
+      "exam_round": 7,
+      "number": 257,
+      "subject": "기타",
+      "question": "종실 해춤의 생태와 피해에 관한 설명으로 Se 것은? 복숭아명나방은 밤의 주요 해충으로 알로 월동하며 밤송이를 가해한다. 밤바구미는 성중으로 월동하며 유충은 TSS 가해하므로 피해증상이 쉽게 발견된다. 백송애기잎말이나방은 AS 회 발생하고 번데기로 월동하며 FSS 구과나 새가지를 가해한다. 도토리거위벌레는 성충으로 땅 속에서 흙집을 짓고 월동하며 ASS 도토리에 주둥이로 구멍을 FT 산란한다.",
+      "choices": {
+        "2": "복숭마명나방은 밤의 주요 해충으로 eS Sony 밤송이를 가해한다. 유충월동, 년 2-55)."
+      },
+      "answer": 2,
+      "explanation": "으로 Se 것은? 복숭아명나방은 밤의 주요 해충으로 알로 월동하며 밤송이를 가해한다. 밤바구미는 성중으로 월동하며 유충은 TSS 가해하므로 피해증상이 쉽게 발견된다. 백송애기잎말이나방은 AS 회 발생하고 번데기로 월동하며 FSS 구과나 새가지를 가해한다. 도토리거위벌레는 성충으로 땅 속에서 흙집을 짓고 월동하며 ASS 도토리에 주둥이로 구멍을 FT 산란한다.",
+      "keywords": [
+        "유충",
+        "해충",
+        "소나무",
+        "성충",
+        "진단",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_258",
+      "exam_round": 7,
+      "number": 258,
+      "subject": "기타",
+      "question": "수목의 유세포에 관한 설명으로 율은 것을 모두 고른 것은? ㄱ., 원 형질 이 있으며, 세포벽 이 Sict. ㄷ. ㅣ 차 세포벽 안쪽에 리그닌이 함유된 2 차 세포벽이 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 율은 것을 모두 고른 것은? ㄱ., 원 형질 이 있으며, 세포벽 이 Sict. ㄷ. ㅣ 차 세포벽 안쪽에 리그닌이 함유된 2 차 세포벽이 있다.",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_259",
+      "exam_round": 7,
+      "number": 259,
+      "subject": "기타",
+      "question": "호흡작용은 해당작용, 618회로, 말단전자전달경로의 세 단계로 구분한다. AG: 58-(5), 59-@ 호릅작용의 기작",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_260",
+      "exam_round": 7,
+      "number": 260,
+      "subject": "기타",
+      "question": "뿌리에서 APE 유세포로 구성되고 [를 소모하기 때문에 호흡량이 많다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_261",
+      "exam_round": 7,
+      "number": 261,
+      "subject": "기타",
+      "question": "수목의 수분흡수에 관한 설명 중 옮지 않은 것은?",
+      "choices": {
+        "0": "대부분 수동흡수를 통해 이루어진다."
+      },
+      "answer": 0,
+      "explanation": "중 옮지 않은 것은?",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_262",
+      "exam_round": 7,
+      "number": 262,
+      "subject": "기타",
+      "question": "영양상태 : 무기명망 삼태가 악화 시에는 수꽃, 무기영양 상태가 양호하면 암꽂이 달린다. 특히, 칠소와 관련된 명양상태가 양호할 때 맘꽃이 생긴다.                7 초나무과의 경우에 간벌은 종자생산량을 증가시킨다,[광합성과 무기양분 상태가 양호해지므로)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_263",
+      "exam_round": 7,
+      "number": 263,
+      "subject": "기타",
+      "question": "수간의 질소 함량은 낮은 편이며, 심재는 질소 함량이 매우 낮다. 질소의 계절적 변화",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_264",
+      "exam_round": 7,
+      "number": 264,
+      "subject": "기타",
+      "question": "세포가 견디는 고온의 한계성 : 50~60도씨 > 45도씨 이상이면 대부분 치사, 30도씨 이상은 스트레스 - 추분이 적은 조직은 더 높은 온도에서 AS [마른종자는 120도씨까지 Aa)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_265",
+      "exam_round": 7,
+      "number": 265,
+      "subject": "기타",
+      "question": "[포플러의 경무) 소포체의 수가 즘가하고 액포의 크기가 작아지면서 지방질을 축적한다. * 풍해 : 연간 풍속이 24 107/'}\"[초속",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_266",
+      "exam_round": 7,
+      "number": 266,
+      "subject": "기타",
+      "question": "저장양분의 이용 : 종자의 크기가 발아속도에 SHS 줌, 종자 내 축적해 놓은 에너지원인 탄수화물, 지질,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_267",
+      "exam_round": 7,
+      "number": 267,
+      "subject": "기타",
+      "question": "회색삼림토(910 forest soil) 부식층의 하부에 암회색의 용탈증이 있고, 그 아래에 회갈색 토층이 존재하는 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_268",
+      "exam_round": 7,
+      "number": 268,
+      "subject": "기타",
+      "question": "5 무기성분의 변화에 의한 것 토양무기성분의 변화를 주로 하는 생성작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_269",
+      "exam_round": 7,
+      "number": 269,
+      "subject": "기타",
+      "question": "철,/알루미늄집적작용 : 비가 많이 오고 기온이 높은 기후조건에서 염기와 규산의 용탈이 강하게 일어나며 토 양의 [가가 수산알루미늄과 수산화철의 등전점에 가까우므로 이들 수산화물들은 불용성이 되어 침전. (aa 괴, 라테라이트) 유기물의 변화를 주로 하는 샘성작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_270",
+      "exam_round": 7,
+      "number": 270,
+      "subject": "기타",
+      "question": "포드졸화작용 : 습윤 한대지방 침엽수림은 미생물의 활동이 느리므로 표토에 유기물 집적하는 작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_271",
+      "exam_round": 7,
+      "number": 271,
+      "subject": "기타",
+      "question": "GrB 회갈색산림토양[(6「0ㅁ「ㅇ\\01) ; 퇴적암지대에서 이암*사암*셰일 등(미세입자]을 모재로 발달되어 투",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_272",
+      "exam_round": 7,
+      "number": 272,
+      "subject": "기타",
+      "question": "토양메서 일어나는 양이온교환 반응에 관한 설명으로 Se 것은? 이몬교환용량 30001010/69 은 3meq/100g 에 해당한다.",
+      "choices": {
+        "3": "양이온교환반응은 주변 환경의 변화에 SS 받지 않으며, 불가역적이다.",
+        "0": "양이온교환용량 300070016/19 2SmeeAO0g 에 해당한다. SOmeq/100g, 양이온교환용량이란? 건조"
+      },
+      "answer": null,
+      "explanation": "으로 Se 것은? 이몬교환용량 30001010/69 은 3meq/100g 에 해당한다.",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_273",
+      "exam_round": 7,
+      "number": 273,
+      "subject": "기타",
+      "question": "점토 EHO 음전하와 양이온과 유기물에 의한 입단화",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_274",
+      "exam_round": 7,
+      "number": 274,
+      "subject": "기타",
+      "question": "기후의 작용 - 토양의 건조함에 따라 젖음-마름이 반복되며 물리적인 입단을 형성.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_275",
+      "exam_round": 7,
+      "number": 275,
+      "subject": "기타",
+      "question": "토양의 입단화 형성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_276",
+      "exam_round": 7,
+      "number": 276,
+      "subject": "기타",
+      "question": "수종의 고유특성 (성목이 되었을 때의 크기 기준으로 ASMA, 예측 가능한 크기와 4H)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_277",
+      "exam_round": 7,
+      "number": 277,
+      "subject": "기타",
+      "question": "식재지 ESS SIS BAS 때의 단점이 아닌 것은? 설치류의 은신처를 제공할 수 있다. 토양의 총 공극률이 감소할 수 있다. 배수불량의 HOA 과습이 발생할 수 있다. 아밀라리아뿌리썩음병 등이 발생할 수 있다. 우드칩 AAS 수목에 질소 BHO 발샘할 수 있다.",
+      "choices": {
+        "2": "토양의 총 공극를아감수활수웠다. [공극률이 증가함, 멀칭의 목적 중 하나는 공극률을 즘가]"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "아밀라리아뿌리썩음병",
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_278",
+      "exam_round": 7,
+      "number": 278,
+      "subject": "기타",
+      "question": "여름철 토양몬도의 상승을 억제한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_279",
+      "exam_round": 7,
+      "number": 279,
+      "subject": "기타",
+      "question": "수피 중에서 들떠 있거나 말라 있는 부분만을 예리한 칼로 제거한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_280",
+      "exam_round": 7,
+      "number": 280,
+      "subject": "기타",
+      "question": "상처부위에 UO] 직접 비치지 않게 녹화마대나 AHA 있는 테이프로 가려준다,",
+      "choices": {
+        "3": "수피이식"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_281",
+      "exam_round": 7,
+      "number": 281,
+      "subject": "기타",
+      "question": "수피이식이 끝나면 젖은 천으로 HOS 만들어 덮은 다음 비닐로 덮어서 건조하지 않게 하고, 끈으로 압박한 후",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_282",
+      "exam_round": 7,
+      "number": 282,
+      "subject": "기타",
+      "question": "수목의 위험평가에 관한 설명 중 올지 않은 것은?",
+      "choices": {},
+      "answer": null,
+      "explanation": "중 올지 않은 것은? 매몰된 수피, 좁은 가지 부착 각도, 상처와 SSW) 등은 수목의 파손 가능성을 높이는 부정적 징후 정밀 평가 단계에서 정부수짐을 위하 els SA 등을-사용한다. (위험평가가 아닌, 기초 평가 항목임) 수목 위험성 평가방법",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_283",
+      "exam_round": 7,
+      "number": 283,
+      "subject": "기타",
+      "question": "기타 Heb 저해[25) >IA| Aes :  tetramat 등.    uy lanilipre _",
+      "choices": {
+        "1": "지질생합 구성성분인 인지 1651160, spiro!                            raniliprole, o",
+        "2": "라이 아노 느 oo | 우수한 ok _ 2 과도하게 기어 ces (30)",
+        "3": "broflanilid Cy, f"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_284",
+      "exam_round": 7,
+      "number": 284,
+      "subject": "기타",
+      "question": "농약 사용의 문제점과 관련된 내용으로 Sri 않은 것은?",
+      "choices": {
+        "0": "SOF 사용 증가로 인한 약제 저함성 증가"
+      },
+      "answer": 0,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "농약",
+        "병충해",
+        "종합적병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_285",
+      "exam_round": 7,
+      "number": 285,
+      "subject": "기타",
+      "question": "색소체     가코티노이드 생합성저해(005               | 저해제           - 카로티노이드 생합성저해(005)              Fi — (H12)                          Diflufenican a          - 카로티노미드 SeSACH(HPPD)             F2 — (H27)                       Benzobicyclon - 카로티노이드 Lycopene Cyclase               F3 — (H34)                              Amitrole - 카로티노미드 032 함성저해                    F4 — (H1S)                               Clomazone",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_286",
+      "exam_round": 7,
+      "number": 286,
+      "subject": "기타",
+      "question": "4-Db, MGCP, Fluroxypyr- SULA         옥신 작용 교란 (IAA 뮤사작음)               © — 다104                       다 Triclare        |",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_287",
+      "exam_round": 7,
+      "number": 287,
+      "subject": "기타",
+      "question": "적용대상 농작물에 대하여 사용시기 및 사용가능횟수가 정해진 농약등은 사용시기 및 사용가능횟수를 지켜 Ab 용할 것",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_288",
+      "exam_round": 7,
+      "number": 288,
+      "subject": "기타",
+      "question": "한국에서 시행중인 농약의 독성관리제도에 관한 설명으로 옮지 않은 것은? 동일성분의 경우 고체 제품보다는 액체 제품의 독성이 더 높게 구분되어 있다.",
+      "choices": {
+        "2": "&미[1 일 섭취허용량]는 농약잔류허용기준 설정의 근거가 된다.",
+        "1": "동일성분의 경우 Sey Ch Ole Ol AOL Seat 구분되어 있다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 동일성분의 경우 고체 제품보다는 액체 제품의 독성이 더 높게 구분되어 있다.",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_289",
+      "exam_round": 7,
+      "number": 289,
+      "subject": "기타",
+      "question": "지절해제 사유",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_290",
+      "exam_round": 7,
+      "number": 290,
+      "subject": "기타",
+      "question": "| ee ao     ㅣ   …                                                                                                                                    0 To! 자   7 a ae: oe ee if  |",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_291",
+      "exam_round": 7,
+      "number": 291,
+      "subject": "기타",
+      "question": "수목병에 관한 처방이 효과적이지 많은 것은? 버즘나무 탄저병- 감염된 낙엽과 가지 제거",
+      "choices": {
+        "3": "BLS 아밀라리아뿌리썩음병 -"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "소나무",
+        "탄저병",
+        "병충해",
+        "떡병",
+        "아밀라리아뿌리썩음병",
+        "시들음병",
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_292",
+      "exam_round": 7,
+      "number": 292,
+      "subject": "기타",
+      "question": "병환 및 발생특성 * 뿌리침입하여 감염, 뿌리접목에 의한 접촉감염 : 병든나무 주변으로 원형확산 ㆍ LEASES, HAS), 적지가 아닌곳에 식재되었을 경우 피해심!!",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_293",
+      "exam_round": 7,
+      "number": 293,
+      "subject": "기타",
+      "question": "방제 - 병든낙엽제거, 자낭과 부착 어린가지제거, 살균제살포 [발생초기에 적용살균제 수회 살포) * (참고) 가로수 중에는 유일하게 \"양버즘나무\" 흰가루병 만이 유일하게 문제가 되고 있음 <그을음병>",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "흰가루병",
+        "그을음병",
+        "농약",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_294",
+      "exam_round": 7,
+      "number": 294,
+      "subject": "기타",
+      "question": "방제 - 살충제 살포, (정원수) 발생초기에 스펀지 등으로 Hoey, 통풍, 채광 Ce    수목병리학",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목병",
+        "살충",
+        "농약",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_295",
+      "exam_round": 7,
+      "number": 295,
+      "subject": "기타",
+      "question": "방제 - 상습발생지역 : 일찍 봉지를 APA 재배 - 농용항생제 혼용살포, 수확후 항생제 나무주사 - 봄에 MLPA 석회보르도액, 석회유황합제 살포 참고) 석희황합제 (살균제 농약)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_296",
+      "exam_round": 7,
+      "number": 296,
+      "subject": "기타",
+      "question": "전파 : 빗방물, 화분, 곤충 ® 독일의 Robert Hartig 는 수목병의 아버지로 불린다.",
+      "choices": {
+        "3": "식물학의 원조로 불리는 Th eophrastus 가 올리브나무 기록하였다.",
+        "5": "한국 발생 소냐무-출가녹병은 10101 Goroku 가 경기도 가평군에서 처음으로 발견하여 보고하였다."
+      },
+      "answer": 3,
+      "explanation": "",
+      "keywords": [
+        "출가녹병",
+        "소나무",
+        "병충해",
+        "수목병",
+        "적성병",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_297",
+      "exam_round": 7,
+      "number": 297,
+      "subject": "기타",
+      "question": "서유구 (1764~1845) : 행포지 (암기 : 서유구는 불향배) * 배나무밭 주변에 향나무를 심는것은 위험 (붉은별무니병 경험적기록) * [해충연구] 솔나방, 솔잎혹파리, eed aal Sso|(SMoATS 묘목생산시 문제되어 필요) [암기 : 조선총독부 임업시험장에 바람이 솔솔불어오고(솔솔오궁)!!) * Takak Goroku (1936~1937) : 가평 유양군 ALPES 최초발견 [암기 : 구로구 가평 AIL 발견] * 선만임업편람 (1940) : 수목병해 92S, 버섯류 165종                                                -G",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목병",
+        "병충해",
+        "해충",
+        "붉은별무니병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_298",
+      "exam_round": 7,
+      "number": 298,
+      "subject": "기타",
+      "question": "Hiratsuka Nahohide 박사 [암7 | 1 희라! 추카, 녹별균 203) * 조선임업화보 (1922-1945): 녹병균 2035 동정기록.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "녹병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_299",
+      "exam_round": 7,
+      "number": 299,
+      "subject": "기타",
+      "question": "기주 : 참나무류[주 피해수종 신갈나무), 서어나무",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "참나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_300",
+      "exam_round": 7,
+      "number": 300,
+      "subject": "기타",
+      "question": "세계 3 대 수목병 중 하나인 밤나무줄기마름병에 관한 설명으로 올지 않은 것은?",
+      "choices": {
+        "0": "가지나 출기에 황갈색~적갈색의 병반을 형성한다.",
+        "3": "저병원성 BALE dsDNA 바이러스를 가지며 HSA 방제에 이용한다."
+      },
+      "answer": 3,
+      "explanation": "으로 올지 않은 것은?",
+      "keywords": [
+        "저병",
+        "밤나무줄기마름병",
+        "수목병",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_301",
+      "exam_round": 7,
+      "number": 301,
+      "subject": "기타",
+      "question": "월동 - 병든조직에서 균사 또는 죽은나무에서 자실체로 월동 [이름봄~늦가을까지 분생포자와 자낭포자에 의하여 감염) *  배수관리, 수제강화, 4 [지치기 후 도포제 처 리 * 질소질 비료 과용금지 * 병발생초기 : 병든부위, 가지 제거 후 페인트 도포 * 박줘나방 등 ASS 해중방제 (살충제 살포) * 저항성 품종 (이평, 은기) 식재, 감수성 품종 (SB) 식재금지                           BE 240 25-8 ＊ dsRNAO|S 생물적방제 유럽에서 실용화 진행중 —YQYOWOO— 수목해충학",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "토양",
+        "수목해충",
+        "병충해",
+        "살충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_302",
+      "exam_round": 7,
+      "number": 302,
+      "subject": "기타",
+      "question": "5 억년전]",
+      "choices": {
+        "2": "개미귀신은 뱀잠자라와-유춤으로 Lt Moko] 큰 턱을 이용하여 사냥한다. (명주잠자리의 유중)",
+        "3": "FS2UFS(SH0|)-5+qs}s4(M3)-SS}41 51S (HpolzA)",
+        "9": "CALF R(Zyo|)-S Sopa 1S (HOA AHL PAS HSA(M|z, 곰팡이)"
+      },
+      "answer": 2,
+      "explanation": "중 올은 것은? 08 장미등에잎벌의 번데기는 유충 탈피각을 가진 위용의 형태이다. 개미귀신은 뱀잠자리의 유충으로 OE 모양의 큰 YS 이용하여 사냥한다. 파리 유충은 구더기형으로, 성장하면 1 쌍의 맞날개를 가지며, 뒷날개는 평균곤으로 변형되어 있다. 부채벌레는 벌, 말벌의 기생자로, 암컷 성충의 맞날개는 평균곤으로 퇴화했고 뒷날개는 부채모양이다. 자이다. 장미등메잎벌의 번데기는 유충 탈피각을 가진 위용와-형태이다. [벌목 - 나용, 그 외 파리류는 위용, 나비+나 방류는 피용)",
+      "keywords": [
+        "유충",
+        "성충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_303",
+      "exam_round": 7,
+      "number": 303,
+      "subject": "기타",
+      "question": "곤충의 기주범위에 따라 구분할 때 단식성-협식성-광식성 해춤의 순서대로 바르게 나열한 AS?",
+      "choices": {
+        "2": "붉나무록응애-갈색날개매미충-밤바구미"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "검은베네줄면충",
+        "해충",
+        "소나무",
+        "병충해",
+        "갈색날개매미충",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_304",
+      "exam_round": 7,
+      "number": 304,
+      "subject": "기타",
+      "question": "Acetylcholine : 기억",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_305",
+      "exam_round": 7,
+      "number": 305,
+      "subject": "기타",
+      "question": "식엽성 해충에 관한 설명으로 을지 않은 컷은? 솔나방은 5 령 유층으로 월동하고 4 월경부터 활동하면서 SAS 먹고 자란다. 버들잎벌레는 연 ㅣ 회 발생하며 성충으로 월동하고, 잎 뒷면에 알덩어리를 낭는다. 회양목명나방은 연 2~3 회 발생하며, 유충이 AS 분비하여 YS 묶고 잎을 섭취한다. FEDS O|E A 1 회 발생하며, 주로 성중으로 월동하고 참나무 등의 잎을 Zfop 먹는다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 을지 않은 컷은? 솔나방은 5 령 유층으로 월동하고 4 월경부터 활동하면서 SAS 먹고 자란다. 버들잎벌레는 연 ㅣ 회 발생하며 성충으로 월동하고, 잎 뒷면에 알덩어리를 낭는다. 회양목명나방은 연 2~3 회 발생하며, 유충이 AS 분비하여 YS 묶고 잎을 섭취한다. FEDS O|E A 1 회 발생하며, 주로 성중으로 월동하고 참나무 등의 잎을 Zfop 먹는다. 솔나방(0ㅁ6ㅁ00『60111045 spectabilis)                        |                          |              | * Ais) 발생, 5령 충으로 수피나 지피물 밑에서 월동하고, 4월경부터 솔잎을 식해한다. * 소나무의 대표적인 해충 * 1970년대 중반까지 전국적 피해가 심했으나,1080년대부터는 BEI} Sopa, C2 e...",
+      "keywords": [
+        "유충",
+        "해충",
+        "소나무",
+        "성충",
+        "병충해",
+        "참나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_306",
+      "exam_round": 7,
+      "number": 306,
+      "subject": "기타",
+      "question": "오리나무잎별레",
+      "choices": {
+        "1": "5월, 7월에 전국의 고정조사지에서 30본 BAS 선정하여 각 조사목의 수관을 상/하부로 구분하고, 상부"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_307",
+      "exam_round": 7,
+      "number": 307,
+      "subject": "기타",
+      "question": "광수용체에 관한 설명으로 Se 것은? 포토트로핀은 굴광성과 굴지성을 유도하고, YO] 확장과 어린 식물의 생장을 조절한다.",
+      "choices": {
+        "2": "크립토크롭은 식물웨만-존재하는 광수용체로 야간에 YO] 접히는 일주기 현상을 조절한다. 동물에도 존재함",
+        "5": "피토크롬은 ...",
+        "4": "피토크롬은 암흑 AoA 기른 식물체내에는 거의 존재하자 않으며, 햇빛을 받으면 합성이 촉진된다. 존재하며"
+      },
+      "answer": 2,
+      "explanation": "으로 Se 것은? 포토트로핀은 굴광성과 굴지성을 유도하고, YO] 확장과 어린 식물의 생장을 조절한다.",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_308",
+      "exam_round": 7,
+      "number": 308,
+      "subject": "기타",
+      "question": "과실의 SSS 결실 직후에 가장 높다. 과실이 익으면서 최소치를 나타내다가 완전히 성숙하기 직전에 다시 호 흘량이 일시적으로 증가한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_309",
+      "exam_round": 7,
+      "number": 309,
+      "subject": "기타",
+      "question": "설탕으로 축적되어 빙점을 낮춰 겨울에 세포가 어는 것을 방지한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_310",
+      "exam_round": 7,
+      "number": 310,
+      "subject": "기타",
+      "question": "수목의 꽃에 관한 설명으로 옮지 않은 것은?",
+      "choices": {
+        "3": "잡성화는 물푸레나무에서 볼 수 있다.",
+        "2": "가래나무과 FS 웃과화이다. 1가화"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은?",
+      "keywords": [
+        "소나무",
+        "은행나무",
+        "참나무",
+        "수목관리",
+        "단풍나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_311",
+      "exam_round": 7,
+      "number": 311,
+      "subject": "기타",
+      "question": "제초제 효과 : 합성옥신[2-4-ㅁ)을 고농도로 사용함 농약)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_312",
+      "exam_round": 7,
+      "number": 312,
+      "subject": "기타",
+      "question": "기후 : 전년도 생육기간 Sot 아래의 RAS 만족해야 함,",
+      "choices": {
+        "1": "태양복사량이 많아야 함. 2] 봄부터 이른 여름까지 강우량이 풍부해야 함."
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_313",
+      "exam_round": 7,
+      "number": 313,
+      "subject": "기타",
+      "question": "고온과 더불어 과다한 증산작용으로 인한 탈수현상 op la.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "열충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_314",
+      "exam_round": 7,
+      "number": 314,
+      "subject": "기타",
+      "question": "NAGE : 종피휴면이 있는 수종일 경우 진한 황산으로 처리하여 종피를 부드럽게 하는 방법",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_315",
+      "exam_round": 7,
+      "number": 315,
+      "subject": "기타",
+      "question": "1년형, 348, 4년형을 모두 말고 계신분들은 2년형도 맘기하시면 좋습니다. [저는 2년형까지는 못외웠었어요] 소요시간        수종          ny oy gn en      0 개 |      oe    aA Raa |         _장미",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "참나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_316",
+      "exam_round": 7,
+      "number": 316,
+      "subject": "기타",
+      "question": "수분 및 무기염의 흡수와 이동에 관한 설명으로 을지 많은 것은? © 카스페리안대는 무기염을 선택적으로 흡수할 수 있도록 한다.",
+      "choices": {
+        "3": "수맥의 이동 속도는 HEAP SSP AS eat eolcy. 환공재>반환공재>산공재>침엽수재"
+      },
+      "answer": 3,
+      "explanation": "으로 을지 많은 것은? © 카스페리안대는 무기염을 선택적으로 흡수할 수 있도록 한다. 뿌리의 무기염 흡수는 원형질막의 문반체에 의해 선택적이며 비가역적으로 이루어진다. 토양 비옥도와 인산 함량이 낮을 때에는 균근균을 통하여 무기염을 SAG 수 있다.",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_317",
+      "exam_round": 7,
+      "number": 317,
+      "subject": "기타",
+      "question": "BY (chestnut soil) 저위도 부근인 대륙 내부 몬대의 건조한 지역에 분포하는 ES SASS 체르노잼보다 gh 맘갈색 Eetola, Cc 층에는 백색의 CaCO,°| 침전물 존재하고, 하층메는 지하수 상슴에 의해 침전된 염류집적층이 보이는 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_318",
+      "exam_round": 7,
+      "number": 318,
+      "subject": "기타",
+      "question": "BEE solonchak) 지하수위가 높은 배수 불량한 곳에 분포, 토양내 또는 지표에 침전 및 집적",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_319",
+      "exam_round": 7,
+      "number": 319,
+      "subject": "기타",
+      "question": "염류화작용과 탈염류화작용 : 증발량이 강수량보다 많은 건조기후 조건에서 모세관을 따라 지하수위",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_320",
+      "exam_round": 7,
+      "number": 320,
+      "subject": "기타",
+      "question": "Va 화산회산림토양(46!00ㅁㅁ10ㅇ ash) : 화산 분화구나 산정 부근에 주로 분포하는 토양, AS 발달미약, 조립질",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_321",
+      "exam_round": 7,
+      "number": 321,
+      "subject": "기타",
+      "question": "한국 비료공정규격에 따라 비료를 보통비료와 부산물비료로 구분할 때 나머지 넷과 다른 하나는?",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_322",
+      "exam_round": 7,
+      "number": 322,
+      "subject": "기타",
+      "question": "5-산화효소의 구성요소 ©. 1ㅠ-광합성반응에서 산소방출",
+      "choices": {
+        "0": "ㄱ,ㄴ ,c T0,2@0L ,C,2 (4)L,2,0 ㄷ, 2,ㅁ"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_323",
+      "exam_round": 7,
+      "number": 323,
+      "subject": "기타",
+      "question": "토양개량제의 작용 - 토양 무게의 OF",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_324",
+      "exam_round": 7,
+      "number": 324,
+      "subject": "기타",
+      "question": "암모늄태 질소의 흡수",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_325",
+      "exam_round": 7,
+      "number": 325,
+      "subject": "기타",
+      "question": "8% 함유한다. * 부식은 부식물질과 비부식물질로 LtSICh.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_326",
+      "exam_round": 7,
+      "number": 326,
+      "subject": "기타",
+      "question": "부식물질                      | * ES7|Z2| 60-80% 차지한다. * 리그닌과 단백질의 중합 및 축합 등의 반응에 의해 생성된다. * 무정형으로 분자량이 다양하고, 갈색~검은색을 띠고 있다. *＊ 분해에 저항성이 강한 물질이다, * 부식산, 풀브산, 부식회 등으로 이루어져 있다.",
+      "choices": {
+        "1": "부식산 : 알칼리[40(21]에는 용해되지만 At(pH 1~2)에는 침전되는 물질로서 무정형.",
+        "2": "풀브산 : 알칼리(10(2|1]용액으로 추출한 후 pH 1~2로 산성화시켰을 때 침전되지 않고 용액으로 남아 있는",
+        "3": "부식회 : 알칼리(16@21)용액으로 추출되지 않고 남아 있는 화합물"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_327",
+      "exam_round": 7,
+      "number": 327,
+      "subject": "기타",
+      "question": "1460ㅇ 이하의 퍼텐셜 * 토양입자와 SEA 간의 정전기적 결합에 의하여 토망입자 표면에 3개 정도의 물분자층으로 흠착된다. * BASAL",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_328",
+      "exam_round": 7,
+      "number": 328,
+      "subject": "기타",
+      "question": "토양 pH 를 높이는데 필요한 석회 요구량에 SHS 주는 많는 요인은? 모재 @ 부식함량 3) 수분함량 © 점토함량 © 목재 pH",
+      "choices": {
+        "3": "수분황량 수분함량과는 무관함"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_329",
+      "exam_round": 7,
+      "number": 329,
+      "subject": "기타",
+      "question": "겨울철 토양이 동결되는 것을 완화한다,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_330",
+      "exam_round": 7,
+      "number": 330,
+      "subject": "기타",
+      "question": "상처의 가장자리를 둥글게 혹은 AMOS 가다듬는 것은 상처의 BS 넓히기 때문에 해서는 안된다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_331",
+      "exam_round": 7,
+      "number": 331,
+      "subject": "기타",
+      "question": "0+",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_332",
+      "exam_round": 7,
+      "number": 332,
+      "subject": "기타",
+      "question": "5% HAS 만드는 목적에 관한 설명으로 Sri 않은 것은? 농약 살포자의 편의성을 향상시킨다. 소량의 유효성분을 넓은 지역에 균일하게 살포한다. 유효성분 부착량 감소를 위한 다양한 보조제를 작용한다.",
+      "choices": {
+        "9": "Fade Stes Hel ee 부주제들 작용한다."
+      },
+      "answer": null,
+      "explanation": "으로 Sri 않은 것은? 농약 살포자의 편의성을 향상시킨다. 소량의 유효성분을 넓은 지역에 균일하게 살포한다. 유효성분 부착량 감소를 위한 다양한 보조제를 작용한다.",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_333",
+      "exam_round": 7,
+      "number": 333,
+      "subject": "기타",
+      "question": "엽산 저해제             엽산 생합성효조 저해                      I = 1181                             Asulam 미소관 조할 처해 (PALES)             KA — (HO3)          Pendimethalin, aryzalin",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_334",
+      "exam_round": 7,
+      "number": 334,
+      "subject": "기타",
+      "question": "농축된 상태의 액제 제형으로 항공방제에 사용되는 특수제형이며, 원제의 용해도에 따라 액체나 고체 상태의 원제를 소량의 기름이나 Sol] 녹인 형태의 제형은? 분의제 (3) 분산성액제 © 수면전개제 @ HSA © 미량살포액제 분의제(25) : 가루형태의 농약 분산성액제 분산정액제) : 물에 용해되기 어려운 원제를 수용성 유기용매 등을 사용하여 용해시킨 균질화된 제제 * 물에 희석하였을 때 뭔제가 점차적으로 석출되면서 OAS 분산되는 특서이 있음 수면전캐제 [5 0) ㆍ비수용성 용제 + 원제녹임 + 수면확산제 캡숄현탁제 캡슬현탁제(ㅇ5) : AAS 미세한 Be 형태에 봉입한 후 Wes 물 등에 분산시킨 제형",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_335",
+      "exam_round": 7,
+      "number": 335,
+      "subject": "기타",
+      "question": "지정해제에 관한 이의신청 기간",
+      "choices": {
+        "3": "시-도지사 또는 지방산림청장은 제2항에 따른 이의신청을 받은 날부터 20일 이내에 그 이의신청에 대한 결과"
+      },
+      "answer": 3,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_336",
+      "exam_round": 7,
+      "number": 336,
+      "subject": "기타",
+      "question": "| - =     q ee -  UL ie  |    니  i \"| 때 i   | 티    - 구지으 Apaloz ~ 디 | 4      )- 때    rice 빈  = 그      7      A;                                                                                                                             :",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_337",
+      "exam_round": 7,
+      "number": 337,
+      "subject": "기타",
+      "question": "방제 : 전염뭔제거, SAS, 전파차단(도랑파기), 산성화방지(석회), 저항성수종식재, 그루터기 제거 정탑 : 4-(5), 5-(3)",
+      "choices": {
+        "0": "대추나무 빗자루병 파미토플라스마"
+      },
+      "answer": 0,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "소나무",
+        "병충해",
+        "빗자루병",
+        "노균병",
+        "피목가지마름병",
+        "모자이크병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_338",
+      "exam_round": 7,
+      "number": 338,
+      "subject": "기타",
+      "question": "송이풀은 6월 ~ 8월 초순까지 제거[겨울포자 형성되기 이전)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_339",
+      "exam_round": 7,
+      "number": 339,
+      "subject": "기타",
+      "question": "조선임업시험장 (1945), 중앙임업시험장[1049), 임업연구원[1087), 국립산림과학원 [2004~현재) [맘기 : 북한 대포동 Bt, 그래도 참소) © BSc SSS, SLPS SS 대추나무.오동나무 빗자루병, 소나무재선충병, 소나무가지마름병, 참나무 시들 을벽           -",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "소나무",
+        "소나무가지마름병",
+        "빗자루병",
+        "참나무",
+        "소나무재선충병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_340",
+      "exam_round": 7,
+      "number": 340,
+      "subject": "기타",
+      "question": "피해 : 주로 가슴높이 20~ㅎ060가 넘는 큰 나무에서 주로 발생 <목재부스러기 형태> - ALAS Im? 으로 집재 -> oA 25% (1리터) Im\") => 비닐로 완전히 밀봉하여 훈증처리 별채훈증방제          - 춘기에 훈증처리 할때 약제는 반량 - 4월 말까지 처리완료.{매개중 우화시기 전까지] - 벌근목의 뿌리가 노출된 경우는 흙으로 덮어서 완전히 밀폐. - £2 3()일.이전까지 ~ 끈끈이롤트랩          -오과: Sls - 작업부위 repel 섬부로 빛붙이 들어오지 못하게 한다. 지상약제 플포          - 페티트리온 유제 500배액 - 우화최첨기 [6월 중순) AS 10 간격 3회 나무졸기에 살포 - hath LOANS 규인목 절치  - ha 절단, PES - 99 aH, iL os, 자",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_341",
+      "exam_round": 7,
+      "number": 341,
+      "subject": "기타",
+      "question": "곤중의 외골격에 관한 설명으로 옮지 많은 것은?",
+      "choices": {
+        "2": "외표피, 원표피, 진피, 기저막으로 이루어진다.",
+        "3": "외표피의 시멘트층과 왁스증은 방수 및 이물질 차단과 보호역할을 한다.",
+        "9": "HEUSE 다당류와 단백질이 Sel 키틴질로 구성되며 Be 경화를 통해 강화된다,"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은?",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_342",
+      "exam_round": 7,
+      "number": 342,
+      "subject": "기타",
+      "question": "곤충의 신경연접과 신경전달물질에 관한 설명으로 옮지 않은 것은? D 신경세포와 신경셰포가 만나는 신경연접이라 한다. Gamma-aminobutyric acid(GABA)E 먹제성 신경전달물질이다.. 전기적 신경연접은 신경세포 사이에 간극없이 활동전위를 빠르게 전달한다. Acetylcholine 은 SEA 신경전달물질로 606\\!아이1065『6「056 에 의해서 가수분해된다..",
+      "choices": {
+        "5": "화학적 신경연접은 ASME 사이에 간극이 있어 신경전달물질을 이용하여 휴지막전위를 전달한다,"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? D 신경세포와 신경셰포가 만나는 신경연접이라 한다. Gamma-aminobutyric acid(GABA)E 먹제성 신경전달물질이다.. 전기적 신경연접은 신경세포 사이에 간극없이 활동전위를 빠르게 전달한다. Acetylcholine 은 SEA 신경전달물질로 606\\!아이1065『6「056 에 의해서 가수분해된다..",
+      "keywords": [
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_343",
+      "exam_round": 7,
+      "number": 343,
+      "subject": "기타",
+      "question": "Endorphine : 행복, 만족",
+      "choices": {
+        "4": "매미아목에는 매미, 잎벌레, ALS, Ar] Beal 등이 있으며, 찌르고 빠는 잎틀을 가졌다.."
+      },
+      "answer": 4,
+      "explanation": "으로 옮은 것은? 노린재아목의 등판에는 사각형 소순판이 있으며 날개는 반초시다. 육서종 노린재류는 식물을 흡즘하지만, 포유동물을 SH5H| 못한다. 매미의 소화계는 여러 개의 식도가 있어서 Volo] Sa} 감로를 빠르게 배설한다.",
+      "keywords": [
+        "성충",
+        "부화약충",
+        "샤가스병",
+        "매미충",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_344",
+      "exam_round": 7,
+      "number": 344,
+      "subject": "기타",
+      "question": "[ㄱ)과[ㄴ)에 해당하는 방제법은?",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "유충",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_345",
+      "exam_round": 7,
+      "number": 345,
+      "subject": "기타",
+      "question": "참나무시들음병",
+      "choices": {
+        "1": "매년 4월 15일까지 조사지에 유인목을 설치, 끈끈이롤트랩 부착하고, 4월 중순~8월까지 유인된 광릉긴나무"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "참나무",
+        "참나무시들음병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_346",
+      "exam_round": 7,
+      "number": 346,
+      "subject": "기타",
+      "question": "광합성 기작에 관한 설명으로 S2 것은?",
+      "choices": {
+        "1": "암반응은 엽록소가 없는 스트로마에서 와간예만윌여난다, 햇빚이 없어도 가능하다는 얘기이지 꼭 야간이라는",
+        "2": "명반응에서 SE ATP 는 캘빈회로에서 3-PGA 에 완산가를 하나 다 붙여주는과정예만수무된다. RuBP 재생",
+        "3": "맘반응에서 RuBP 는 루비스코에 의해 공기 중에 CO, SHAS 흡수하여, 3-ㅁ<>& 환 분자..."
+      },
+      "answer": 1,
+      "explanation": "으로 S2 것은?",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_347",
+      "exam_round": 7,
+      "number": 347,
+      "subject": "기타",
+      "question": "종자의 SSS 성숙하고 있는 기간에는 높지만, 일단 성숙하면 감소한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_348",
+      "exam_round": 7,
+      "number": 348,
+      "subject": "기타",
+      "question": "호흡 과정에서 산화되어 에너지를 발생시키는 주요 기본 물질 |포도당) - 설탕의 합성은 세포질에서 이루어지며 ZSA(UTP)7} OLAS 공급하며, 각 단계마다 효소가 촉매 역 - 탄추화물의 운반은.사부조직을 통해 이루어진다. - 비환원당이 효소에 의해 잘 분해되지 않고 화학반응을 일으키지 않기 때문에 먼거리 이동이 가능. - [사부수액] 당류가 보톰 고0%가량 되어 있어 | 진한용액0 다 -설 탕이 잎의 엽육세포에서 유 관속에 있는 사부요소까지 운반되는",
+      "choices": {
+        "1": "원형질면락사 통해 세포질만 통해 설탕이 적재 [심플라스트 사부적재 - 세포질 이동]",
+        "2": "원형질연락사 연결이 되어 있지 않은 경우에는 세포벽 통과(아포플라스트 사부적재 - 세포벽이동)"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_349",
+      "exam_round": 7,
+      "number": 349,
+      "subject": "기타",
+      "question": "하루 주기로 볼 때 야간의 호흡작용에 이용되며, 1년 주기로 볼 때 낙엽수의 경우 ASS 호흡에 이용된다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_350",
+      "exam_round": 7,
+      "number": 350,
+      "subject": "기타",
+      "question": "다음 중 다당류에 관한 설명으로 옮은 것을 모두 고른 것은? ㄱ. FAA (mucilage)S 뿌리가 토양을 Hi 들어갈 때 윤활제 JSS 한다. ㄴ. 펙틴은 중엽층에서 이웃세포를 결합시키는 ABS 하지만, 2차 세포벽에는 거의 존재하지 않는다. ㄷ. 전분은 세포 간 이동이 안되기 때문에 세포 내에 축적되는데, 잎의 경우 엽록체에 직접 축적된다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮은 것을 모두 고른 것은? ㄱ. FAA (mucilage)S 뿌리가 토양을 Hi 들어갈 때 윤활제 JSS 한다. ㄴ. 펙틴은 중엽층에서 이웃세포를 결합시키는 ABS 하지만, 2차 세포벽에는 거의 존재하지 않는다. ㄷ. 전분은 세포 간 이동이 안되기 때문에 세포 내에 축적되는데, 잎의 경우 엽록체에 직접 축적된다.",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_351",
+      "exam_round": 7,
+      "number": 351,
+      "subject": "기타",
+      "question": "천면목신 : AZ 먼저 발견된 천연 호르몬), 4-chloro-lAA, IBA, PAA 인공합성옥신 : IAN,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_352",
+      "exam_round": 7,
+      "number": 352,
+      "subject": "기타",
+      "question": "6m) 정도 될 때 심!!!, 수목한계선에서 기형(짓발형)으로 유도 ㆍ 생장 : 바람에 자주 노출[초살도 증가) +> 수고생장 감소, 직경생장 촉진, 뿌리생장 촉진 ` 지주세움 : 계속 매어두면 근계발달 저조해짐, 이식목은 2년 후 지주제거 권장 * 나미테의 편심생장 - 바람이 불어오는 쪽의 나이테가 거의 자라지 않음 : 바람과 경사로 기울머진 나무에 생긴 목부조직 > 압축이상재 - 침엽수, 경사지의 아래쪽, 바람의 반대방향에 이상재가 생김, 나이테가 넓어짐 [아래쪽으로 옥신 농도 증가) p> 신장이상재 - 활엽수, 경사지 위쪽, 바람이 불어오는 쪽에 생김",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_353",
+      "exam_round": 7,
+      "number": 353,
+      "subject": "기타",
+      "question": "기후와 영향을 받으면서 다른 토양생성인자의 SS 받아 국지적으로 분포하는 간대성 토 양은? 갈색토양 (2) 테라로사 (3) 툰드라토양 (4) ROBE (5) ASL AES 모두 암기할 필요는 없고, 종류만 알아두시면 됩니다. 성대성 토양: 토양생성인자 중에서 특히 기후와 식생대의 영향을 크게 받는 토양 시베리아, 알래스카, 캐나다 북부 등 북극권의 영구동토지대에 뭔시적인 이끼를 주로 하는 식생. 부식층의 발달이 나쁘고, APSE! 의해 배수불량하여 글레이화 되는 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_354",
+      "exam_round": 7,
+      "number": 354,
+      "subject": "기타",
+      "question": "ZAHE (brown soil) 대륙 내부의 온대 반사막지에서 생성되는 토양으로 ASS 회갈색을 띠고, BSS CaCO, C8 포화되어 회색 띠는 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_355",
+      "exam_round": 7,
+      "number": 355,
+      "subject": "기타",
+      "question": "알칼리토양(56100612) 염류토양이 기후의 습윤화로 인해 염분이 용탈되면 4020(23으로 포화되어 가수분해에 의하여 강알칼리성을",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_356",
+      "exam_round": 7,
+      "number": 356,
+      "subject": "기타",
+      "question": "알칼리화작용 : 가용성 SH7] 집적된 토양에서 교질복합체가 점차 NaH 포화되는 작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_357",
+      "exam_round": 7,
+      "number": 357,
+      "subject": "기타",
+      "question": "Er 침식토양(6『0060 soils) : 산복지형에 주로분포, 성숙한 토양이 강우에 의해 유실된 토양.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_358",
+      "exam_round": 7,
+      "number": 358,
+      "subject": "기타",
+      "question": "수목의 뿌리에 영향을 주는 토양의 물리적 특성에 관한 설명으로 올지 않은 것은? 대공극이 많으면 뿌리 생장에 좋다. 토심이 맡으면 뿌리가 깊게 발달하지 못해 건조 피해를 받기 쉽다.",
+      "choices": {
+        "4": "온대 지방에서 뿌리의 샘잠은 토양 온도가 높아지는 여름에 가장 왕 성하다,"
+      },
+      "answer": null,
+      "explanation": "으로 올지 않은 것은? 대공극이 많으면 뿌리 생장에 좋다. 토심이 맡으면 뿌리가 깊게 발달하지 못해 건조 피해를 받기 쉽다.",
+      "keywords": [
+        "소나무",
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_359",
+      "exam_round": 7,
+      "number": 359,
+      "subject": "기타",
+      "question": "토양 산도에 관한 설명으로 옮지 않은 것은? 토양 산도는 계절에 따라 달라진다. 같은 토양이라도 각 SSS 사이에서 산도는 상당한 차이가 있다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 토양 산도는 계절에 따라 달라진다. 같은 토양이라도 각 SSS 사이에서 산도는 상당한 차이가 있다. 잔류산도는 토양 콜로이드에 흡착되어 있는 과 Al*Ol] 의한 산도이다. OtHHHEE 토양 콜로이드에 흡착되어 있는 [과 41ㅎ+에 의한 산도이다. (잠산도 설명임) * 활산도 : 토양용액에서 Ho] 활동도를 측정한 값으로 토양용액에 해리되어 있는 HOE, 시이몬에 의한 산도 이다. 활산도는 식물의 뿌리나 미생물 활동의 중요한 영향을 준다. * 잠산도 : 토양입자에 흠착되어 있는 교환성 수소(|) 및 교환성 알루미늄[^1')에 의한 산도 * 잔류산도 : 비완충성 염용맥으로는 침출되지 않지만 석회물질 또는 특정 pHs] 완충용액으로 중화되는 토 토양 산성화의 중요한 과정 및 원인 * 우리나라의 토양의 DoS 주로 산성암인 화강암과 화강편마암이다. * 염기의 용탈에 의한 산성화 * 토양 ...",
+      "keywords": [
+        "비완충",
+        "농약",
+        "토양",
+        "완충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_360",
+      "exam_round": 7,
+      "number": 360,
+      "subject": "기타",
+      "question": "토양이 다져지는 것을 방지한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_361",
+      "exam_round": 7,
+      "number": 361,
+      "subject": "기타",
+      "question": "삼처부위를 깨끗하게 손질한 후 표면을 보호하기 위해 상처도포제를 바른다.",
+      "choices": {
+        "2": "SE 수피의 고정"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_362",
+      "exam_round": 7,
+      "number": 362,
+      "subject": "기타",
+      "question": "5% 제형에 관한 설명으로 Sx 않은 것은?",
+      "choices": {
+        "9": "훈증제-낮은 증기압을 가진 농약 뭔제를 액상, 고상, 또는 압축가스상으로 용기 내에 충진한 제형."
+      },
+      "answer": null,
+      "explanation": "으로 Sx 않은 것은? 03 맥상수화제-물과 유기용매에 난용성인 원제를 이용한 액상형태. 액제-원제가 수용성이며 가수분해의 우려가 없는 원제를 물 또는 메탄올에 녹인 제형. 캡슬제-농약원제를 고분자 물질로 피복하여 고형으로 만들거나 As 내에 SHS 주입한 제형.",
+      "keywords": [
+        "병해충",
+        "농약",
+        "토양",
+        "해충",
+        "토양병",
+        "병충해",
+        "저곡해충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_363",
+      "exam_round": 7,
+      "number": 363,
+      "subject": "기타",
+      "question": "-사용지역이 제한되는 농약은 사용제한지역에서 사용하지 말 것 ㅁ16(농약허용기준강화제도)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_364",
+      "exam_round": 7,
+      "number": 364,
+      "subject": "기타",
+      "question": "[2022 년도 산림병해충 예찰,방제 계획]내 외래, 돌발 산림병해충 적기 대응에 관한 설명으로 옮지 않은 것은? G) 지역별 적기 나무주사를 실행하여 방제효과 제고 및 안전관리를 강화한다. 붉은불개미 등 위해 Hoyo] 유입 차단을 위한 협력체계를 구축한다.",
+      "choices": {
+        "3": "농림지 동시발생 병해중에 대한 공동협력 방제 강화로 피해를 최소화한다,",
+        "2": "장기 OBL SEAS 보호수 등 보존 가치가 높은 수목에 한하여 사용한다.",
+        "4": "예방나무주사+윤순위-대상저는 최단작선거리-5\\-아내에 소나무재선중병이 발생하였을 때 시행한다,"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? G) 지역별 적기 나무주사를 실행하여 방제효과 제고 및 안전관리를 강화한다. 붉은불개미 등 위해 Hoyo] 유입 차단을 위한 협력체계를 구축한다.",
+      "keywords": [
+        "돌발병",
+        "농약",
+        "해충",
+        "소나무",
+        "병충해",
+        "산림병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_365",
+      "exam_round": 7,
+      "number": 365,
+      "subject": "기타",
+      "question": "전자현미경으로만 병원체의 형태를 관찰할 수 있는 수목병들을 바르게 나열한 것은?",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목병",
+        "오갈병",
+        "탄저병",
+        "모자이크병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_366",
+      "exam_round": 7,
+      "number": 366,
+      "subject": "기타",
+      "question": "곤중의 성충 입틀[구기]에 관한 설명으로 옮지 않은 것은? 노린재 입틀은 전체적으로 빨대(구침) PAS 하고 있다.",
+      "choices": {
+        "3": "총채벌레 입틀은 큰 턱과 작은 턱이 좌우 비대칭이다.",
+        "0": "나비 입틀은 긴 관으로 된 빨대주둥이를 형성하고 있다."
+      },
+      "answer": 0,
+      "explanation": "으로 옮지 않은 것은? 노린재 입틀은 전체적으로 빨대(구침) PAS 하고 있다.",
+      "keywords": [
+        "미소곤충",
+        "성충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_367",
+      "exam_round": 7,
+      "number": 367,
+      "subject": "기타",
+      "question": "수목 해춤의 예찰 이론에 관한 설명으로 옮지 않은 것은? 예찰이란 So] 분포상황, 발생시기, 발생량을 사전에 예측하는 VS 말한다. 온도와 2S Pee 선형관계를 이용한 적산몬도모형으로 발생시기를 예측한다.",
+      "choices": {
+        "3": "축차조사법은 해충의 밀도를 순차적으로 조사, 누적하면서 방제여부를 판단하는 방법이다.",
+        "4": "원령생팡표는 어떤 시점에 존재하는 개체군의 연령 별 사망률을 추정한 것이지만 취약 발육단계를 구분하기는"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 예찰이란 So] 분포상황, 발생시기, 발생량을 사전에 예측하는 VS 말한다. 온도와 2S Pee 선형관계를 이용한 적산몬도모형으로 발생시기를 예측한다.",
+      "keywords": [
+        "병충해",
+        "해충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_368",
+      "exam_round": 7,
+      "number": 368,
+      "subject": "기타",
+      "question": "BELL ES et Spo) eH (SEL St ey Ql)",
+      "choices": {
+        "1": "5월경 고정조사지에서"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_369",
+      "exam_round": 7,
+      "number": 369,
+      "subject": "기타",
+      "question": "QE 몬도가 10도씨 상승함에 따라 나타나는 호흡량 증가율이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_370",
+      "exam_round": 7,
+      "number": 370,
+      "subject": "기타",
+      "question": "이른 봄 개열이 시작되기 전에 뿌리의 세포분열시에 이용된다. 탄수화물의 계절적 변화",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_371",
+      "exam_round": 7,
+      "number": 371,
+      "subject": "기타",
+      "question": "옥신에 관한 설명으로 을지 않은 것은? 뿌리에서 생산되어 목부조직을 따라 운반된다. IAA 는 수목 내 천면호르몬이며, NAA 는 합성호르몬이다. 목신의 운반은 수목의 ATP 생산을 억제하면 중단된다. 줄기에서는 유세포를 통해 구기적([60516하이)으로 이동한다.",
+      "choices": {
+        "5": "부정근을 유발하며, 측아의 생장을 억제 또는 둔화시킨다,"
+      },
+      "answer": null,
+      "explanation": "으로 을지 않은 것은? 뿌리에서 생산되어 목부조직을 따라 운반된다. IAA 는 수목 내 천면호르몬이며, NAA 는 합성호르몬이다. 목신의 운반은 수목의 ATP 생산을 억제하면 중단된다. 줄기에서는 유세포를 통해 구기적([60516하이)으로 이동한다.",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_372",
+      "exam_round": 7,
+      "number": 372,
+      "subject": "기타",
+      "question": "옥신의 생합성",
+      "choices": {
+        "1": "목부나 사부로 이동하지 많고, 유관속 주변의 유세포를 이용함",
+        "2": "매우 느리게 이동 : 1시간에"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_373",
+      "exam_round": 7,
+      "number": 373,
+      "subject": "기타",
+      "question": "식물호르몬",
+      "choices": {
+        "1": "목신 : 목신은 정아우세와도 관련되지만, 개화와도 연관되는 호르몬",
+        "2": "지베텔린 : [피자식물) 지베렐린 처리는 개화억제, (나자식물) 지베렐린 처리는 개화에 긍정적으로 작용함",
+        "8": "시토키닌 : 목부조직을 통해 잎으로 문반되어 개화를 촉진한다고 알려져 있지만,"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "수목관리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_374",
+      "exam_round": 7,
+      "number": 374,
+      "subject": "기타",
+      "question": "질소비료를 주면 다른 질소화합물보다도 아르기닌의 함량이 가장 많이 증가한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_375",
+      "exam_round": 7,
+      "number": 375,
+      "subject": "기타",
+      "question": "사막토[4656다501 ' *회색토[& erozem) ASO WES 빈약하고, ES 전체가 SAS 띠며, 염분으로 포화되어 있는 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_376",
+      "exam_round": 7,
+      "number": 376,
+      "subject": "기타",
+      "question": "At=(regur)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_377",
+      "exam_round": 7,
+      "number": 377,
+      "subject": "기타",
+      "question": "석회화작용 : 건조 또는 반건조지대의 <0ㅇ:미나 MgCO,; 토양에 축적되는 작용",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_378",
+      "exam_round": 7,
+      "number": 378,
+      "subject": "기타",
+      "question": "10 0|9(immature soils) : 산록하부에 분포, 토양생성기간이 짧아 층위의 분화와 발달이 불완전한 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_379",
+      "exam_round": 7,
+      "number": 379,
+      "subject": "기타",
+      "question": "식물의 필수영양소와 식물체 내에서의 주요 기능을 바르게 SAS 것은?",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_380",
+      "exam_round": 7,
+      "number": 380,
+      "subject": "기타",
+      "question": "양이온교환용량이 Z0cmolc/kg 인 토양의 교환성 양이온 농도가 다음과 같을 때 이 Beko 염기 포화도는?",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_381",
+      "exam_round": 7,
+      "number": 381,
+      "subject": "기타",
+      "question": "병해충 공격에 대한 저항성",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병해충",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_382",
+      "exam_round": 7,
+      "number": 382,
+      "subject": "기타",
+      "question": "토양의 입단화를 촉진하고, 공극률을 높인다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_383",
+      "exam_round": 7,
+      "number": 383,
+      "subject": "기타",
+      "question": "AS (FAX)O| 피해에 대한 설명으로 SS 것은? 추위가 심한 북서쪽 줄기 표면에 잘 일어난다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 SS 것은? 추위가 심한 북서쪽 줄기 표면에 잘 일어난다. 피해는 활엽수보다 수간이 곧은 침엽수에서 더 많이 관찰된다. 초겨울 또는 초봄에 습기가 많은 묘포장에서 발생하기 쉽다. 북쪽지방이 원산지인 수종을 남쪽지방으로 이식했을 경우 피해를 입는다. 모두 정답처리 됨. (M2) © 겨울철 영하의 날씨에서 나무줄기나 가지가 안쪽에서부터 수피까지 방사 - 종축방향으로 갈라지는 현상 * 줄기의 온도구배에 따른 열수축의 불균형 (변재부위가 심재부위보다 더 심하게 수축) * 물의 동결팽창",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_384",
+      "exam_round": 7,
+      "number": 384,
+      "subject": "기타",
+      "question": "0 정도임 [마",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_385",
+      "exam_round": 7,
+      "number": 385,
+      "subject": "기타",
+      "question": "2이상되면 양분흡수 장애발생) - 염류물질이 많을수록 전기전도도가 높마짐. [증상] - 피해 부위와 건전부위의 경계선이 FH, 성숙잎이 어린및보다 피해가 큼. - Bol 끝쪽에서 수분이 빠져나가 황화현상을 보임. [방제] - 염분을 물로 NCU 줌. - 활성탄을 이용하여 염분을 흠착하도록 함 - 내염성 수종의 식재 - 토양을 AES,                                                                ：        ~",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "느티나무",
+        "토양",
+        "생리",
+        "진단",
+        "병충해",
+        "단풍나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_386",
+      "exam_round": 7,
+      "number": 386,
+      "subject": "기타",
+      "question": "디페노코나졸에 관한 설명으로 옮은 것은?",
+      "choices": {
+        "1": "인지질 생합성을 저해한다.",
+        "2": "명반응을 교란한다.",
+        "5": "유기인계 농약으로 함균활성을 갖는다,"
+      },
+      "answer": null,
+      "explanation": "으로 옮은 것은?",
+      "keywords": [
+        "농약"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_387",
+      "exam_round": 7,
+      "number": 387,
+      "subject": "기타",
+      "question": "세포벽저해제        EAP SSO) 합성 저해                 L— (129)               Dichlebenil, isoxaben, indaziflam AN KLR FAT         1, 56a 그가 vAA OLLzZLe,                ~              Dicamba,",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_388",
+      "exam_round": 7,
+      "number": 388,
+      "subject": "기타",
+      "question": "2] [시행일 2",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_389",
+      "exam_round": 7,
+      "number": 389,
+      "subject": "기타",
+      "question": "9]]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_390",
+      "exam_round": 7,
+      "number": 390,
+      "subject": "기타",
+      "question": "식물에 기생하는 바이러스의 일반적인 특성으로 옮지 $2 것은? 감염 후 새로운 바이러스 입자가 만들어지는데는 대략 10 시간이 소요된다. 바이러스 입자는 인접세포와 체관에서 빠르게 이동한 후 물관에 존재한다. 세포 내 침입 바이러스는 외피메서 핵산이 분리되어 상보 RNA 가닥을 만든다. 바이러스의 종류와 기주에 따라서 얼룩, 줄무늬, 엽맥투명, 위축, 오갈, 황화 등의 SAO] 나타난다. 바이러스의 종류에 따라 영양번식기관, 종자, 꽃가루, 새삼, 곤충, 음애, AS, 균류 등에 의하여 전염 될 수있다.",
+      "choices": {
+        "2": "바이러스 입자는 인접세포와 체관에서 빠르게 이동한 후-물관예-존재한다. 바이러스는 사부에 존재함"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_391",
+      "exam_round": 7,
+      "number": 391,
+      "subject": "기타",
+      "question": "칠엽수 얼룩무늬병에 관한 설명으로 옮지 많은 것은? 봄부터 장마철까지 지속되나, 8~?9 월에 병세가 가장 심하다.",
+      "choices": {
+        "2": "진균병으로 병원균은 자낭균문에 속하며, 자낭포자와 분생포자를 형성한다.",
+        "5": "어린 잎에 물집 모양의 반점이 생기고 진전되면 병반의 크기가 일정하고 뚜렸해진다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은? 봄부터 장마철까지 지속되나, 8~?9 월에 병세가 가장 심하다.",
+      "keywords": [
+        "얼룩무늬병",
+        "병충해",
+        "진균병"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_392",
+      "exam_round": 7,
+      "number": 392,
+      "subject": "기타",
+      "question": "곤충의 특성에 관한 설명으로 옮지 않은 것은?",
+      "choices": {
+        "0": "곤충의 SS 머리, 가슴, 배로 구분된다."
+      },
+      "answer": 0,
+      "explanation": "으로 옮지 않은 것은?",
+      "keywords": [
+        "생리",
+        "곤충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_393",
+      "exam_round": 7,
+      "number": 393,
+      "subject": "기타",
+      "question": "진덧물류의 SEL} 피해에 관한 설명으로 옮지 많은 것은 복숨아가루진덧물의 여를 기주는 대나무이다",
+      "choices": {
+        "5": "BAQGLEZ|Cl]So| 겨울 기즈는 볼수아나므 Bola OFA AH A 기 따의새시을 하디",
+        "2": "박쥐나방의 머린 유춤은 초본류의 줄기 속을 가해한다.",
+        "1": "복숭야유리나방의 어린 FSS 암브로시아균을 먹고 자란다, USSR, 오리나무좀이 암브로시아균을 먹음"
+      },
+      "answer": 1,
+      "explanation": "으로 옮지 많은 것은 복숨아가루진덧물의 여를 기주는 대나무이다 즈파| 므지디무으 기즈의 시즈 | OLS 가체하디 i, 소나무 =: 친 se & 나무 : i 지 = 가해 하며 7 | ㅜ 전환 = 하지 는다,",
+      "keywords": [
+        "유충",
+        "해충",
+        "소나무",
+        "은행나무",
+        "카해해충",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_394",
+      "exam_round": 7,
+      "number": 394,
+      "subject": "기타",
+      "question": "천적의 특성에 관한 설명을 옮지 많은 것은? 개미침벌은 솔수염하늘소의 내부 기생성천적이다. 애꽃노린재는 총채벌레를 포식하는 천적이다. fa, 7|새서 ao OFS 키즈 SH we Ce 이브이 다느『",
+      "choices": {
+        "3": "기생성 ARS SS 기주 몸체 내부 또는 외부에 낳는다."
+      },
+      "answer": null,
+      "explanation": "을 옮지 많은 것은? 개미침벌은 솔수염하늘소의 내부 기생성천적이다. 애꽃노린재는 총채벌레를 포식하는 천적이다. fa, 7|새서 ao OFS 키즈 SH we Ce 이브이 다느『",
+      "keywords": [
+        "성충",
+        "집시알짱충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_395",
+      "exam_round": 7,
+      "number": 395,
+      "subject": "기타",
+      "question": "미국흰불나방",
+      "choices": {
+        "1": "발생량 조사 : 6월, 8월, 전국[29개소) 설치된 고정조사지에서 각 50본 AALS 대상 > 피해율과 본당 충소",
+        "2": "발생시기 조사 : 5~9월, 전국 9개 AISA 유아등 또는 페로몬[[[.6『010ㅇㅁ6ㅎ) 트랩에 MVE 성충 수 조사"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "성충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_396",
+      "exam_round": 7,
+      "number": 396,
+      "subject": "기타",
+      "question": "수목의 개화생리에 관한 설명으로 옮지 않은 것은? 과습하고 추운 SME HSS 촉진한다, 가지치기, 단근, 이식은 개화를 족진한다. 옥신은 수목의 개화에서 SS 결정하는데 관여하는 호르몬이다, 불규칙한 개화의 원인은 주로 화아원기 형성이 불량하기 때문이다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은? 과습하고 추운 SME HSS 촉진한다, 가지치기, 단근, 이식은 개화를 족진한다. 옥신은 수목의 개화에서 SS 결정하는데 관여하는 호르몬이다, 불규칙한 개화의 원인은 주로 화아원기 형성이 불량하기 때문이다. 도가 높으면서 강우량이 적어야 함.",
+      "keywords": [
+        "수목관리",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_397",
+      "exam_round": 7,
+      "number": 397,
+      "subject": "기타",
+      "question": "낙엽 전 질소이동 : 이동가능한 무기양분을 회수하여 몸통에 저장함 (잎에 포함되어 있는 질소 50% 내외가 낙엽 전 회수됨) 낙엽 전 질소이동",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_398",
+      "exam_round": 7,
+      "number": 398,
+      "subject": "기타",
+      "question": "생리적휴면 : 배 SS 배 주변의 조직이 생장억제제(아브시스산)를 분비하여 발아를 억제하는 경우. [단풍나무, 물푸레나무, 소나무류,.사과나무 등)                 | ㆍ 위 세가지 원인들 중에서 두가지 이상의 원인으로 나타나는 중복류면이 많이 관찰됨. * 종자 채취 후 크기가 작아서 2년이 지나야 발아하는 경우가 US (FES TALS) 휴면타파",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "단풍나무",
+        "생리",
+        "소나무"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_399",
+      "exam_round": 7,
+      "number": 399,
+      "subject": "기타",
+      "question": "암토[000 osol) 온대~아열대에 화산회에서 유래하는 초원 하의 부식질토양이다. 공극이 많고, 부식은 활성 시과 결합하여 안정적",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_400",
+      "exam_round": 7,
+      "number": 400,
+      "subject": "기타",
+      "question": "수섬표백화작용 : 토양 표층이 물로 포화되어 철과 망간 화합물이 가용성인 『6*이나 Mn*= 변하고 아래층 으로 용탈되며, 표층이 sos 표백되는 작용 AE: 81-3), 82-2) <)      산림토양학",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_401",
+      "exam_round": 7,
+      "number": 401,
+      "subject": "기타",
+      "question": "Li 맘쇄토양[\\105015 : Li) : 산정, 경사가 급한 산복사면의 계곡에 주로 분포, A-C SUS 가지는 토양",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_402",
+      "exam_round": 7,
+      "number": 402,
+      "subject": "기타",
+      "question": "모셰관공극량[소공극량]은 수분의 통로 역할을 담당 균근균 효과",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_403",
+      "exam_round": 7,
+      "number": 403,
+      "subject": "기타",
+      "question": "산불로 인한 토양 특성 변화에 관한 설명으로 옮지 많은 것은?",
+      "choices": {
+        "0": "양분유효도는 일시적으로 증가한다.",
+        "2": "염기포화도는 유기물 AAO| 따른 염기 방출로 증가한다.",
+        "3": "유기물 SA 토양 내 광물질의 변화로 왕아온규환용량아-감수한다. (알칼리화되면서 양이온교환용량이 증가",
+        "9": "토양 1 는 일반적으로 산불 발생 즉시 증가하고 수 개월~수십년의 기간을 거쳐 발생 이전 수준으로"
+      },
+      "answer": 3,
+      "explanation": "으로 옮지 많은 것은?",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q7_404",
+      "exam_round": 7,
+      "number": 404,
+      "subject": "기타",
+      "question": "환경 조컨메 대한 폭 넓은 내성 [키몬, 강우, 토양)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_405",
+      "exam_round": 7,
+      "number": 405,
+      "subject": "기타",
+      "question": "유익한 토양미생물의 생장을 촉진한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_406",
+      "exam_round": 7,
+      "number": 406,
+      "subject": "기타",
+      "question": "식재 수목을 선정할 때 고려사항으로 Zl 나열한 것은? ㄱ.수목의 크기와 수종, 인력, 예산 등을 모두 고려하여야 한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_407",
+      "exam_round": 7,
+      "number": 407,
+      "subject": "기타",
+      "question": "지방산 생합성 억제 작용기작을 갖는 제초제의 설명으로 옮지 않는 것은? Cyclohexanedione Al 성분이 있다. Aryloxyphenoxy-propinate A] 성분이 있다.",
+      "choices": {
+        "3": "Glufosinate 는 지방산 생합성 억제제이다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않는 것은? Cyclohexanedione Al 성분이 있다. Aryloxyphenoxy-propinate A] 성분이 있다.",
+      "keywords": [
+        "토양",
+        "진단",
+        "병충해",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_408",
+      "exam_round": 7,
+      "number": 408,
+      "subject": "기타",
+      "question": "생장소절제       APS 교란 (IAA 뮤사작음)         J — (04)       meptyl, Triclopyr-TEA",
+      "choices": {
+        "0": "작물, 방제 대상, 살포 방법, 희석 배수 등이 표시되어 있다.",
+        "3": "안전사용기준 ABS 병해충 발생시기와 잔류허용기준을 동시에 고려해 설정한다.",
+        "9": "Sof 판매엽자가 농약 안전차용기준을 다르게 추천하거나 판매하는 경우에는 500 만원 이하의 과태"
+      },
+      "answer": 9,
+      "explanation": "",
+      "keywords": [
+        "병해충",
+        "농약",
+        "병충해",
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_409",
+      "exam_round": 7,
+      "number": 409,
+      "subject": "기타",
+      "question": "[산림병해충 방제규정] 제 7 조 산림병해충 발생밀도(피해도)조사 요령 중 병해충명과 구분방법의 연",
+      "choices": {
+        "1": "칼색날개매미중-약, 성충 수",
+        "3": "미국선녀벌레-수관부와 피해 면적"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병해충",
+        "해충",
+        "진단",
+        "병충해",
+        "산림병"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_410",
+      "exam_round": 7,
+      "number": 410,
+      "subject": "기타",
+      "question": "수목병의 Helo] 관한 설명으로 옮은 것은?",
+      "choices": {
+        "3": "나무주사는 이미 발생한 병의 Ae 목적으로만 사용된다. 예방목적으로도 가능",
+        "9": "공동 내의 부후부를 제거할 때는 BA AP ee Bee 도려내만만 된다. 변색부, 건전부 둘 다 도려내"
+      },
+      "answer": 3,
+      "explanation": "으로 옮은 것은? (2 나무주사는 이미 발생한 병의 치료목적으로만 사용된다.",
+      "keywords": [
+        "수목병",
+        "농약",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_411",
+      "exam_round": 7,
+      "number": 411,
+      "subject": "기타",
+      "question": "|산림보호법|에 의거 실시하는 산림해충 모니터링 방법으로 올지 많는 것은?",
+      "choices": {
+        "0": "소나무재선충 매개춤은 우화목을 설치하여 우화시기를 조사한다.",
+        "3": "오리나무잎벌레는 오리나무 50 주에서 성페로몬을 이용하여 암컷 포획수를 조사한다.",
+        "5": "솔잎혹파리는 고정 조사지에서 우화상을 설치하여 우화시기를 조사하고 신초에서 충영혐성률을 조사한다.",
+        "1": "소나무재선충을 매개하는 솔수염하늘소, 북방수염하늘소 우화상황 조사하기 위하여"
+      },
+      "answer": 3,
+      "explanation": "",
+      "keywords": [
+        "유충",
+        "소나무",
+        "산림해충",
+        "수목해충",
+        "병충해",
+        "소나무재선충"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q7_412",
+      "exam_round": 7,
+      "number": 412,
+      "subject": "기타",
+      "question": "버즘나무방패벌레",
+      "choices": {
+        "1": "밤나무 주 재배지 도별 7~9월에 각 도별 밤 재배지 5개군에 3개 조사구 설치 조사",
+        "2": "조사목 중 평균 피해도를 나타내는 1개의 가지에서 10개 잎 채취하여 잎당 약충/성충수 조사, 밀도 조사"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "약충",
+        "병충해",
+        "해충",
+        "성충"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_413",
+      "exam_round": 7,
+      "number": 413,
+      "subject": "기타",
+      "question": "수목의 호흠기작에 관한 설명으로 옮은 것은? 포도당이 완전히 분해되면, 각각 2 개의 COW AS} 물분자를 생성시킨다.",
+      "choices": {
+        "3": "AWA 회로는 기질 수준의 인산화과정으로 CO,, ATP, NADPH, FADH27} 생성된다."
+      },
+      "answer": null,
+      "explanation": "으로 옮은 것은? 포도당이 완전히 분해되면, 각각 2 개의 COW AS} 물분자를 생성시킨다. (3 해당작용은 포도당이 2 분자의 피루브산으로 분해되는 과정으로 세포질에서 일어난다.",
+      "keywords": [
+        "생리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_414",
+      "exam_round": 7,
+      "number": 414,
+      "subject": "기타",
+      "question": "수목의 뿌리에서 SAS 감지하는 조직 또는 기관은?",
+      "choices": {
+        "1": "근관 @ 피증 (3) 신장대 @ 뿌리털 단분열조직"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_415",
+      "exam_round": 7,
+      "number": 415,
+      "subject": "기타",
+      "question": "라테라이트(!016「1[6) 염기와 규산이 용탈되고 남은 성분이 산화되어 형성된 붉은색 토양층(적색토)",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_416",
+      "exam_round": 7,
+      "number": 416,
+      "subject": "기타",
+      "question": "식물영양소의 공급기작에 관한 설명으로 ge 것은? 인산과 칼륨은 집단류에 의해 공급된다. 뿌리가 발달할수록 뿌리차단에 의한 영양소 공급은 많아진다. 확산에 의한 영양소의 공급은 온도가 높을 때 많이 일어난다.",
+      "choices": {
+        "1": "인산과 칼륨은 잠단류야 의해 공급된다. 확산"
+      },
+      "answer": 1,
+      "explanation": "으로 ge 것은? 인산과 칼륨은 집단류에 의해 공급된다. 뿌리가 발달할수록 뿌리차단에 의한 영양소 공급은 많아진다. 확산에 의한 영양소의 공급은 온도가 높을 때 많이 일어난다. 확산에 의하여 식물이 흡수할 수 있는 영양소의 양은 토양 줌 유효태 영양소의 1%미만이다.",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_417",
+      "exam_round": 7,
+      "number": 417,
+      "subject": "기타",
+      "question": "한국 [토양환경보전법|에 따른 토양 OF BAO] 아닌 것은? FES, 2-디클로로에탄, 비소, 수은, 납, 불소, 구리, 아연, 니켈, 유기인화합물, 다이옥신 벤젠, 벤조피렌, 에틸벤젠, 크실렌, 6가크롬, 암기법 : 카 디[드) 비 수 납, 불구 아 니 유 다 벤 : 벤젠, 벤조피렌, 에틸벤젠 크 : 크실렌, 6가크롬 폴 : 폴리클로리네이티드비페닐",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "low"
+    },
+    {
+      "id": "q7_418",
+      "exam_round": 7,
+      "number": 418,
+      "subject": "기타",
+      "question": "산림토양에서 낙엽 분해에 관한 설명으로 옮은 것은?",
+      "choices": {
+        "0": "침엽에 비해 활엽이 분해가 느리다.",
+        "2": "분해 초기에는 진행이 느리지만 점차 빨라진다.",
+        "3": "온대지방에 비해 열대지방에서 느리게 진행된다."
+      },
+      "answer": 3,
+      "explanation": "으로 옮은 것은?",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_419",
+      "exam_round": 7,
+      "number": 419,
+      "subject": "기타",
+      "question": "썩어서 무기양분을 공급하여 토양비목도를 높인다. 멀칭 재료 BAS 재료는 다양하며, 유기질, 광물질 혹은 합성재료를 사용할 수 있다. 값이 비싸지 많고, 다루기 쉬워야 하며, 투수성(가장 중요한 필수 조건)이 있어야 한다. - 입자가 너무 작지 않은 재료를 사용한다. - 수피와 우드칩도 길이 2007 이상 되는 것을 사용하는 것이 좋다. - 모래도 왕모래가 좋다. - 펄프는 주로 묘포장의 파좀상이나 절개지의 파종공법에서 사용한다. - 합성재료는 SAMS 유지하기 위하여 구멍이 있거나 직조하여 만든다. - 바크나 SEAS 사용할 때에는 107 철망으로 걸러서 밑으로 빠진 것을 사용하지 않는다.",
+      "choices": {
+        "0": "근계가-다퀴저가쉽다. (지주목의 단점은 근계를 약화시킴)",
+        "2": "결속이 풀리면 똑바로 서지 못할 수도 있다.",
+        "3": "수간 초살도가 낮아지커나 역전되기도 한다,"
+      },
+      "answer": null,
+      "explanation": "으로 옮지 않은 것은?",
+      "keywords": [
+        "토양"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_420",
+      "exam_round": 7,
+      "number": 420,
+      "subject": "기타",
+      "question": "44 시기에 대한 설명으로 So 것은? ㄷ. 목련류, 철쪽류는 꽃이 진 직후 전정하면, 다음 해 꽃눈의 수가 감소한다.",
+      "choices": {},
+      "answer": null,
+      "explanation": "으로 So 것은? ㄷ. 목련류, 철쪽류는 꽃이 진 직후 전정하면, 다음 해 꽃눈의 수가 감소한다.",
+      "keywords": [
+        "수목관리"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q7_421",
+      "exam_round": 7,
+      "number": 421,
+      "subject": "기타",
+      "question": "「찬림보호법시행령」제 56 조 과태료 부과기준에 관한 설명으로 옮지 많은 것은? 나무의사가 보수교육을 받지 않은 경우 1 차 위반 시 과태료 SHE 50 만뭔이다,",
+      "choices": {
+        "2": "'H 위반상태의 기간이 12 개월 이상인 과태료 금액의 1/2 범위에서 그 SHS 가중할 수 있다.",
+        "9": "나무의사가 정당한 사유없이 처방전 등 발금을 겨부환 경우 차 위반 시 과태료 금액은 76 -만원이다."
+      },
+      "answer": null,
+      "explanation": "으로 옮지 많은 것은? 나무의사가 보수교육을 받지 않은 경우 1 차 위반 시 과태료 SHE 50 만뭔이다,",
+      "keywords": [],
+      "difficulty": "",
+      "quality": "low"
+    }
+  ]
+}

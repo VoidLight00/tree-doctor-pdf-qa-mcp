@@ -1,0 +1,1470 @@
+{
+  "exam_year": "7회",
+  "total_questions": 150,
+  "complete_questions": 150,
+  "missing_questions": [],
+  "questions": [
+    {
+      "number": 1,
+      "subject": "수목병리학",
+      "question": "**문제**: 수목병 감염 시 나타나는 생리기능 장매증상이 바르게 연결되지 않는 AES? 0)-물과 무기양분의 이동 장애 DELLS 흰가루병-양분의 져장종야 흰가루로 인해 광합성을 저해하거나 흰가루병은 절대기생체므로 양분을 탈쉬함. 그을음병 ; 광합성 장애 (ARS, Az}Hel 등) 흰가루병 : 광합성 장애, 절대기생체[양분탈취] SASS : 망분의 저장, 증식 장애 뿌리썩음병 : 영양분흠수 장애, 그로 인한 생장저하 및 ASaw 소나무재선충병 : 물과 무기양분 이동 장애 **키워드**: 흰가루병, 토양, 생리, 소나무, 진단, 열매썩음병, 안노섬뿌리썩음병, 시들음병, 수목병 --- ##",
+      "choices": {
+        "1": "조팝나무 흰가루병-양분의 저장 장애 (",
+        "2": "감나무 열매썩음병-양분의 저장, 증식 장애",
+        "3": "소나무 안노섬뿌리썩음병-물과 무기양분의 흡수 장애 GALLS 시들음병(소나무재선충병"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "GALLS",
+        "선충",
+        "AES",
+        "감염",
+        "시들음병"
+      ]
+    },
+    {
+      "number": 2,
+      "subject": "수목병리학",
+      "question": "**문제**: 병원체의 유전물질이 식물에 전이되는 형질전환 현상에 의해 이상비대나 이상증식이 나타나는 으? 은 23 떡병 () © 오동나무 뿌리혹선중병 (선충] 뿌리혹병을 뮤발하는 Agrobacterium Tumefaciens = 식물의 HAMAS 일으킴, 5번의 뿌리혹선중병도 피해즘상이 S(gall)o] 있어서 혼동이 될 수 있으나, 선충병의 의한 혹은 비대해진 암컷 몸체로 인한 록으로 비대해지는 것으로 형질전환 현상에 의한 이상비대나 이상증식과는 차이가 있음 > 세균 ? 단세포, 유전물질 DNA 막으로 둘러싸여 있지 않은 원핵생물, 이분법 증식 - 세균은 기본적으로 부생성 분해자 - 세포벽의 구성성분 Hel SSeS '크리스탈 바이올렛으로 Bay 그람양성세균 : (외막없음) 보라색으로 염색되는 세균 그람음성세균 : [외막있음) 붉은색[분홍색)으로 염색되는 세균->대부분 요것임 주요 세균 병해 - 뿌리혹병근두암종병] : Agrobacterium Tumefaciens - 불마름병[화상병] : Erwinia amylovora - 체균성구멍병 : Xanthomonas arboricola py. pruni - 호두나무 갈색썩음병 : Xanthomonas arboricola pv. juglandis - 감글궤양병 : Xanthomonas axonopodis - BIOS S [국내미발생, 물관국재성 세균) : Xylella fastidiosa **키워드**: 출기녹병, 소나무, 진단, 소나무록병, 병충해, 떡병, 뿌리록선충병, 뿌리혹병 --- ##",
+      "choices": {
+        "1": "소나무록병 (",
+        "2": "밤나무 뿌리혹병 © 소나무 출기녹병 © 오동나무 뿌리록선충병 (",
+        "3": "소나무록병 [녹병"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병원체",
+        "HAMAS",
+        "선충",
+        "Erwinia amylovora",
+        "녹병",
+        "DNA",
+        "세균"
+      ]
+    },
+    {
+      "number": 3,
+      "subject": "수목병리학",
+      "question": "**문제**: 전자현미경 : 바이러스, 파이토플라스마[외부형태만 가능) 8-3-56\\/) : [녹병균, 버섯,세균, 깜부기병 진단) 전자빔을 시료에 주사하여 반사된 ars 형성하여 진균, 세균, 식물의 표면 을때 **키워드**: 깜부기병, 진단, 녹병 --- ##",
+      "choices": {
+        "1": "투과전자현미경[[ㄷ",
+        "2": ": 전자빔의 투과정도 명암대비로 세균의 부속사, 바이러스 입자 관찰",
+        "3": "주사전자현미경("
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "진균",
+        "바이러스",
+        "세균",
+        "녹병"
+      ]
+    },
+    {
+      "number": 4,
+      "subject": "수목병리학",
+      "question": "**문제**: 수목병 진단 시 생물적 원인(기생성]과 비생물적 뭔인[비기생성)에 의한 병발생의 일반적인 특성 으로 옮지 않은 것은? 항목 생물적 비생물적 07 발병면적 제한적 넓음 ) 수목일부, (비생물적) 수목전체 **키워드**: 발병, 진단, 수목병 --- ##",
+      "choices": {
+        "1": "병 진전도 Cre 유사 (",
+        "2": "발병부위 수목전체 수목 일부 발병부위 ASMA 수목 일부 -> (MEA"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "MEA",
+        "ASMA"
+      ]
+    },
+    {
+      "number": 5,
+      "subject": "수목병리학",
+      "question": "**문제**: 교환성양이온 K⁺ Na²⁺ Ca²⁺ Cd²⁺ Mg²⁺ Al³⁺ 농 (cmolc/kg) 2 2 3 2 3 3 수 목 관 리 학 저항성 침엽수 활엽수 단풍나무류 은단풍 네군도 루부룸 물푸레나무 미국느릅 ( , , ), , 높음 낙우송 나무 버드나무류 버즘나무류 단풍 서양 오리나무류 주 , , ( , ), , 엽나무 페칸 포플러류 히코리 , , , 가문비나무 서양측백나무 소나 단풍나무류 설탕 노르웨이 벚나무류 사시나무 아까시나 , , ( , ), , , 낮음 무 곰솔 전나무 주목 향나무 무 자작나무류 층층나무 , , , , , , **키워드**: 전나무, 가문비나무, 단풍나무, 측백나무, 벚나무, 버드나무, 향나무 --- ##",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "저항성"
+      ]
+    },
+    {
+      "number": 6,
+      "subject": "수목병리학",
+      "question": "**문제**: | - = q ee - UL ie | 니 i \"| 때 i | 티 - 구지으 Apaloz ~ 디 | 4 )- 때 rice 빈 = 그 7 A; : 22 코그 벼 ‘| 고 [들 nil \\- ' Mia ， Nl a - om 7 ah ee - 00 그 | Jl — =  | e : ㅠ,…,,Ｌ, 로 대 eS ° ㅡ | a c _ - 는 : = ——— As i | - 고 | —  | — Z 7 - . ! | , | ' 5 | | | 도 본 7 5 i — - l | | 12 - mae ; m ll | - ie, 내 에 | 빼 _— cei 0 g , \" ! as 기 - 1 그 다 20 | | 7 | | | 6 고 더더 별 = ~ i ㅣ | ly  때 | | tg 7 he ㅣ \" | 더 { J a { — 내 — - | | ㅣ 때 개 ' | 10000 = ' ' 002 별 00 2 두 때 ㅣ 그 = au i [= 72 = ja = d-] , te fl i ' 7 = 0 i Rs Re .0 i : | \" Se, Fe 대 = Soy - | | oAPEIDIA | ， 때 | ot a _ mI 1 4 h Jig =_ =~! if. L |  ‘4 Lo creme 다 | fm : Y, 오디 ㅣ \" Ll F 병 oe ee @ c 기\" ' aia \\ ar es i a axe SJ oO | N\\ eo o — 된 ' ㅣ | a: | ! | wa g 7 떨 4 | 7 더 7 ㅣ “a 개 i a on a i [ - 내 7 i 개 이 , ul 개 이 ㅣ ql . a | i 7 때 —YQYOWOO— 수목병리학 22 **키워드**: 수목병 --- ##",
+      "choices": {
+        "1": "복숭아가루진딧물의 여름 기주는 대나무이다 중간기주 여름기주 는 억새 갈대 . ( ) , 해충명 기주 유입국가 발견년도 암기법 ( ) 이세리아깍지벌레 귤나무 미국 타이완 이 야 야 , 1910 ( XX , 10XX ) 솔잎혹파리 소나무 일본 솔잎혹파 요 1929 ( 29 ) 미국흰불나방 활엽수류 미국 일본 미흰밤홀 팔 , 1958 ( [5] ) 밤나무혹벌 밤나무 일본 미흰밤홀 팔 1958 ( [5] ) 솔껍질깍지벌레 곰솔 불명 ( ) 1963 버즘나무방패벌레 버즘나무 미국 1995 아까시잎혹파리 아까시나무 미국추정 아 ( ) 2002 [ ] 주홍날개꽃매미 활엽수류 중국 주 2006 [ ] 미국선녀벌레 활엽수류 미국 유럽 미 , 2009 [ ] 갈색날개매미충 활엽수류 중국 갈 2010 [ ] 소나무허리노린재 소나무류 북미 소 2012 [ ] **키워드**: 나방, 하늘소, 바구미 ---"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "SJ",
+        "Lo creme",
+        "Nl a",
+        "As i",
+        "UL"
+      ]
+    },
+    {
+      "number": 7,
+      "subject": "수목병리학",
+      "question": "**문제**: 전자현미경으로만 병원체의 형태를 관찰할 수 있는 수목병들을 바르게 나열한 것은? 9 BLES 오갈병",
+      "choices": {
+        "1": "버즘나무 탄저병",
+        "2": "장미 모자이크병 **키워드**: 수목병, 오갈병, 탄저병, 모자이크병 --- ##"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "병원체",
+        "탄저병",
+        "BLES"
+      ]
+    },
+    {
+      "number": 8,
+      "subject": "수목병리학",
+      "question": "**문제**: 식물에 기생하는 바이러스의 일반적인 특성으로 옮지 $2 것은? 감염 후 새로운 바이러스 입자가 만들어지는데는 대략 10 시간이 소요된가닥을 만든라서 얼룩, 줄무늬, 엽맥투명, 위축, 오갈, 황화 등의 SAO] 나타난라 영양번식기관, 종자, 꽃가루, 새삼, 곤충, 음애, AS, 균류 등에 의하여 전염 될 수있",
+      "choices": {
+        "1": "바이러스 입자는 인접세포와 체관에서 빠르게 이동한 후 물관에 존재한",
+        "2": "세포 내 침입 바이러스는 외피메서 핵산이 분리되어 상보 RNA",
+        "3": "바이러스의 종류와 기주에 따",
+        "4": "바이러스의 종류에 따",
+        "5": "2) 바이러스 입자는 인접세포와 체관에서 빠르게 이동한 후-물관예-존재한",
+        "6": "바이러스는 사부에 존재함 바이러스의 구조, 형태 (세포",
+        "7": ") **키워드**: 토양, 곤충 --- ##"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "RNA",
+        "바이러스",
+        "전염",
+        "SAO",
+        "감염",
+        "기주"
+      ]
+    },
+    {
+      "number": 9,
+      "subject": "수목병리학",
+      "question": "**문제**: 수목병의 Helo] 관한 설명으로 옮은 것은? @ 티오파네이트메틸은 상처도포제로 사용된나무주사는 이미 발생한 병의 치료목적으로만 사용된나무주사는 이미 발생한 병의 치료목적으로만 사용된",
+      "choices": {
+        "1": "(2",
+        "2": "(3) ALPHSY 방제를 위해 매발톱",
+        "3": "@ 보르도액은 방제효과의 지속시간이 짧으",
+        "4": "© 공동 내의 부후부를 제거할 때는 변색부만 제거하되 건전부는 도려내면 안된",
+        "5": "(3)",
+        "6": "예방목적으로도",
+        "7": "송이풀, 까치밥",
+        "8": "지속시간이 길고, 보호살균제 (9) 공동 내의 부후부를 제거할 때는 BA AP ee Bee 도려내만만 된",
+        "9": "변색부, 건전부 둘",
+        "10": "(2",
+        "11": "(3) ALPHSY 방제를 위해 매발톱",
+        "12": "@ 보르도액은 방제효과의 지속시간이 짧으",
+        "13": "© 공동 내의 부후부를 제거할 때는 변색부만 제거하되 건전부는 도려내면 안된",
+        "14": "(3)",
+        "15": "예방목적으로도",
+        "16": "송이풀, 까치밥",
+        "17": "지속시간이 길고, 보호살균제 (9) 공동 내의 부후부를 제거할 때는 BA AP ee Bee 도려내만만 된",
+        "18": "변색부, 건전부 둘"
+      },
+      "answer": null,
+      "explanation": "**: 으로 옮은 것은? @ 티오파네이트메틸은 상처도포제로 사용된다. (2 나무주사는 이미 발생한 병의 치료목적으로만 사용된다. (3) ALPHSY 방제를 위해 매발톱 나무를 제거한다. @ 보르도액은 방제효과의 지속시간이 짧으나 침투이행성이 뛰어나다. © 공동 내의 부후부를 제거할 때는 변색부만 제거하되 건전부는 도려내면 안된다. (3) 나무주사는 이미 발생한 병의 Ae 목적으로만 사용된다. 예방목적으로도 가능 OAUSasS SAS 위해-매발톱나무를제겨한다. 송이풀, 까치밥나무를 제거 @ 보르도액은 방제효과의 자속사간아짧으나-침투아행성이-뛰여나다. 지속시간이 길고, 보호살균제 (9) 공동 내의 부후부를 제거할 때는 BA AP ee Bee 도려내만만 된다. 변색부, 건전부 둘 다 도려내 면만 됨 ALP a SS 방제 **키워드**: 수목병, 농약, 병충해 --- ##",
+      "keywords": [
+        "SAS",
+        "방제",
+        "ALPHSY"
+      ]
+    },
+    {
+      "number": 10,
+      "subject": "수목병리학",
+      "question": "[문제 10 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 11,
+      "subject": "수목병리학",
+      "question": "[문제 11 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 12,
+      "subject": "수목병리학",
+      "question": "[문제 12 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 13,
+      "subject": "수목병리학",
+      "question": "[문제 13 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 14,
+      "subject": "수목병리학",
+      "question": "[문제 14 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 15,
+      "subject": "수목병리학",
+      "question": "[문제 15 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 16,
+      "subject": "수목병리학",
+      "question": "[문제 16 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 17,
+      "subject": "수목병리학",
+      "question": "[문제 17 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 18,
+      "subject": "수목병리학",
+      "question": "[문제 18 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 19,
+      "subject": "수목병리학",
+      "question": "[문제 19 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 20,
+      "subject": "수목병리학",
+      "question": "[문제 20 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 21,
+      "subject": "수목병리학",
+      "question": "[문제 21 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 22,
+      "subject": "수목병리학",
+      "question": "[문제 22 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 23,
+      "subject": "수목병리학",
+      "question": "[문제 23 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 24,
+      "subject": "수목병리학",
+      "question": "[문제 24 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 25,
+      "subject": "수목병리학",
+      "question": "[문제 25 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 26,
+      "subject": "수목병리학",
+      "question": "[문제 26 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 27,
+      "subject": "수목병리학",
+      "question": "[문제 27 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 28,
+      "subject": "수목병리학",
+      "question": "[문제 28 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 29,
+      "subject": "수목병리학",
+      "question": "[문제 29 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 30,
+      "subject": "수목병리학",
+      "question": "[문제 30 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 31,
+      "subject": "수목해충학",
+      "question": "[문제 31 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 32,
+      "subject": "수목해충학",
+      "question": "[문제 32 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 33,
+      "subject": "수목해충학",
+      "question": "[문제 33 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 34,
+      "subject": "수목해충학",
+      "question": "[문제 34 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 35,
+      "subject": "수목해충학",
+      "question": "[문제 35 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 36,
+      "subject": "수목해충학",
+      "question": "[문제 36 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 37,
+      "subject": "수목해충학",
+      "question": "[문제 37 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 38,
+      "subject": "수목해충학",
+      "question": "[문제 38 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 39,
+      "subject": "수목해충학",
+      "question": "[문제 39 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 40,
+      "subject": "수목해충학",
+      "question": "번의 22té}=4(Anoplophora chinensis) 에 대해 * 년1회 발생, 유충으로 월동 (SUS, 가래나무류를 포함한 많은 활엽수종들) *유충이 목질부 속으로 파먹어 들어가며, 목설을 weet 해충명 기주 유입국가 발견년도 (암기법) 이세리아깍지벌레 귤나무 미국, 타이완 1910 (이 XX야, 10XX야) 솔잎혹파리 소나무 일본 1929 (솔잎혹파29요) 미국흰불나방 활엽수류 미국, 일본 1958 (미흰밤홀[5]팔) 밤나무혹벌 밤나무 일본 1958 (미흰밤홀[5]팔) 솔껍질깍지벌레 곰솔 (불명) 1963 버즘나무방패벌레 버즘나무 미국 1995 아까시잎혹파리 아까시나무 (미국추정) 2002 [아] 주홍날개꽃매미 활엽수류 중국 2006 [주] 미국선녀벌레 활엽수류 미국, 유럽 2009 [미] 갈색날개매미충 활엽수류 중국 2010 [갈] 소나무허리노린재 소나무류 북미 2012 [소] **키워드**: 느티나무, 유충, 해충, 소나무, 병충해 --- ##",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "깍지벌레",
+        "유충",
+        "나방",
+        "발생",
+        "Anoplophora chinensis",
+        "월동",
+        "SUS"
+      ]
+    },
+    {
+      "number": 41,
+      "subject": "수목해충학",
+      "question": "[문제 41 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 42,
+      "subject": "수목해충학",
+      "question": "[문제 42 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 43,
+      "subject": "수목해충학",
+      "question": "[문제 43 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 44,
+      "subject": "수목해충학",
+      "question": "[문제 44 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 45,
+      "subject": "수목해충학",
+      "question": "[문제 45 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 46,
+      "subject": "수목해충학",
+      "question": "[문제 46 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 47,
+      "subject": "수목해충학",
+      "question": "[문제 47 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 48,
+      "subject": "수목해충학",
+      "question": "[문제 48 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 49,
+      "subject": "수목해충학",
+      "question": "[문제 49 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 50,
+      "subject": "수목해충학",
+      "question": "[문제 50 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 51,
+      "subject": "수목해충학",
+      "question": "[문제 51 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 52,
+      "subject": "수목해충학",
+      "question": "[문제 52 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 53,
+      "subject": "수목해충학",
+      "question": "[문제 53 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 54,
+      "subject": "수목해충학",
+      "question": "[문제 54 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 55,
+      "subject": "수목해충학",
+      "question": "[문제 55 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 56,
+      "subject": "수목해충학",
+      "question": "[문제 56 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 57,
+      "subject": "수목해충학",
+      "question": "[문제 57 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 58,
+      "subject": "수목해충학",
+      "question": "[문제 58 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 59,
+      "subject": "수목해충학",
+      "question": "[문제 59 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 60,
+      "subject": "수목해충학",
+      "question": "[문제 60 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 61,
+      "subject": "수목생리학",
+      "question": "[문제 61 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 62,
+      "subject": "수목생리학",
+      "question": "[문제 62 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 63,
+      "subject": "수목생리학",
+      "question": "[문제 63 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 64,
+      "subject": "수목생리학",
+      "question": "[문제 64 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 65,
+      "subject": "수목생리학",
+      "question": "[문제 65 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 66,
+      "subject": "수목생리학",
+      "question": "[문제 66 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 67,
+      "subject": "수목생리학",
+      "question": "[문제 67 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 68,
+      "subject": "수목생리학",
+      "question": "[문제 68 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 69,
+      "subject": "수목생리학",
+      "question": "[문제 69 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 70,
+      "subject": "수목생리학",
+      "question": "[문제 70 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 71,
+      "subject": "수목생리학",
+      "question": "[문제 71 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 72,
+      "subject": "수목생리학",
+      "question": "[문제 72 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 73,
+      "subject": "수목생리학",
+      "question": "[문제 73 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 74,
+      "subject": "수목생리학",
+      "question": "[문제 74 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 75,
+      "subject": "수목생리학",
+      "question": "[문제 75 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 76,
+      "subject": "수목생리학",
+      "question": "[문제 76 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 77,
+      "subject": "수목생리학",
+      "question": ".. **키워드**: 토양 --- ## 문제 9 **문제**: 44 시기에 대한 설명으로 So 것은?",
+      "choices": {
+        "1": "**해설**: 으로 So 것은? ㄷ. 목련류, 철쪽류는 꽃이 진 직후 전정하면,",
+        "2": "**키워드**: 수목관리 --- ## 문제 9 **문제**: 찬림보호법시행령제 56 조 과태료 부과기준에 관한 설명으로 옮지 많은 것은?",
+        "3": "위반행위",
+        "4": "(9)",
+        "5": "[별표 4] 과태료의 부과기준[제36조 관련)[산림보호법 AS) pdf 파일 참고 **해설**: 으로 옮지 많은 것은?",
+        "6": "위반행위",
+        "7": "(9)",
+        "8": "[별표 4] 과태료의 부과기준[제36조 관련)[산림보호법 AS) pdf 파일 참고 정답: 137-@, 138-@, 159-(6) OF 수목관리학 140, 산림보호법 시행령제 7 조의 3 에 따"
+      },
+      "answer": 1,
+      "explanation": "**: 으로 So 것은? ㄷ. 목련류, 철쪽류는 꽃이 진 직후 전정하면, 다음 해 꽃눈의 수가 감소한다. **키워드**: 수목관리 --- ##",
+      "keywords": [
+        "SHE",
+        "SHS"
+      ]
+    },
+    {
+      "number": 78,
+      "subject": "수목생리학",
+      "question": "[문제 78 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 79,
+      "subject": "수목생리학",
+      "question": "[문제 79 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 80,
+      "subject": "수목생리학",
+      "question": "[문제 80 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 81,
+      "subject": "수목생리학",
+      "question": "[문제 81 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 82,
+      "subject": "수목생리학",
+      "question": "[문제 82 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 83,
+      "subject": "수목생리학",
+      "question": "[문제 83 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 84,
+      "subject": "수목생리학",
+      "question": "[문제 84 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 85,
+      "subject": "수목생리학",
+      "question": "[문제 85 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 86,
+      "subject": "수목생리학",
+      "question": "[문제 86 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 87,
+      "subject": "수목생리학",
+      "question": "[문제 87 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 88,
+      "subject": "수목생리학",
+      "question": "[문제 88 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 89,
+      "subject": "수목생리학",
+      "question": "[문제 89 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 90,
+      "subject": "수목생리학",
+      "question": "[문제 90 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 91,
+      "subject": "산림토양학",
+      "question": "[문제 91 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 92,
+      "subject": "산림토양학",
+      "question": "[문제 92 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 93,
+      "subject": "산림토양학",
+      "question": "[문제 93 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 94,
+      "subject": "산림토양학",
+      "question": "[문제 94 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 95,
+      "subject": "산림토양학",
+      "question": "[문제 95 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 96,
+      "subject": "산림토양학",
+      "question": "[문제 96 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 97,
+      "subject": "산림토양학",
+      "question": "[문제 97 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 98,
+      "subject": "산림토양학",
+      "question": "[문제 98 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 99,
+      "subject": "산림토양학",
+      "question": "[문제 99 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 100,
+      "subject": "산림토양학",
+      "question": "[문제 100 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 101,
+      "subject": "산림토양학",
+      "question": "[문제 101 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 102,
+      "subject": "산림토양학",
+      "question": "[문제 102 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 103,
+      "subject": "산림토양학",
+      "question": "[문제 103 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 104,
+      "subject": "산림토양학",
+      "question": "[문제 104 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 105,
+      "subject": "산림토양학",
+      "question": "[문제 105 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 106,
+      "subject": "산림토양학",
+      "question": "[문제 106 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 107,
+      "subject": "산림토양학",
+      "question": "[문제 107 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 108,
+      "subject": "산림토양학",
+      "question": "[문제 108 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 109,
+      "subject": "산림토양학",
+      "question": "[문제 109 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 110,
+      "subject": "산림토양학",
+      "question": "[문제 110 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 111,
+      "subject": "산림토양학",
+      "question": "[문제 111 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 112,
+      "subject": "산림토양학",
+      "question": "[문제 112 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 113,
+      "subject": "산림토양학",
+      "question": "[문제 113 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 114,
+      "subject": "산림토양학",
+      "question": "[문제 114 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 115,
+      "subject": "산림토양학",
+      "question": "[문제 115 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 116,
+      "subject": "산림토양학",
+      "question": "[문제 116 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 117,
+      "subject": "산림토양학",
+      "question": "[문제 117 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 118,
+      "subject": "산림토양학",
+      "question": "[문제 118 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 119,
+      "subject": "산림토양학",
+      "question": "[문제 119 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 120,
+      "subject": "산림토양학",
+      "question": "[문제 120 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 121,
+      "subject": "정책 및 법규",
+      "question": "[문제 121 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 122,
+      "subject": "정책 및 법규",
+      "question": "[문제 122 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 123,
+      "subject": "정책 및 법규",
+      "question": "[문제 123 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 124,
+      "subject": "정책 및 법규",
+      "question": "[문제 124 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 125,
+      "subject": "정책 및 법규",
+      "question": "[문제 125 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 126,
+      "subject": "정책 및 법규",
+      "question": "[문제 126 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 127,
+      "subject": "정책 및 법규",
+      "question": "[문제 127 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 128,
+      "subject": "정책 및 법규",
+      "question": "[문제 128 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 129,
+      "subject": "정책 및 법규",
+      "question": "[문제 129 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 130,
+      "subject": "정책 및 법규",
+      "question": "[문제 130 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 131,
+      "subject": "정책 및 법규",
+      "question": "[문제 131 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 132,
+      "subject": "정책 및 법규",
+      "question": "[문제 132 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 133,
+      "subject": "정책 및 법규",
+      "question": "[문제 133 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 134,
+      "subject": "정책 및 법규",
+      "question": "[문제 134 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 135,
+      "subject": "정책 및 법규",
+      "question": "[문제 135 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 136,
+      "subject": "정책 및 법규",
+      "question": "[문제 136 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 137,
+      "subject": "정책 및 법규",
+      "question": "[문제 137 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 138,
+      "subject": "정책 및 법규",
+      "question": "[문제 138 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 139,
+      "subject": "정책 및 법규",
+      "question": "[문제 139 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 140,
+      "subject": "정책 및 법규",
+      "question": "[문제 140 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 141,
+      "subject": "정책 및 법규",
+      "question": "[문제 141 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 142,
+      "subject": "정책 및 법규",
+      "question": "[문제 142 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 143,
+      "subject": "정책 및 법규",
+      "question": "[문제 143 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 144,
+      "subject": "정책 및 법규",
+      "question": "[문제 144 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 145,
+      "subject": "정책 및 법규",
+      "question": "[문제 145 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 146,
+      "subject": "정책 및 법규",
+      "question": "[문제 146 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 147,
+      "subject": "정책 및 법규",
+      "question": "[문제 147 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 148,
+      "subject": "정책 및 법규",
+      "question": "[문제 148 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 149,
+      "subject": "정책 및 법규",
+      "question": "[문제 149 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    },
+    {
+      "number": 150,
+      "subject": "정책 및 법규",
+      "question": "[문제 150 데이터 누락]",
+      "choices": {},
+      "answer": null,
+      "explanation": "",
+      "keywords": []
+    }
+  ]
+}

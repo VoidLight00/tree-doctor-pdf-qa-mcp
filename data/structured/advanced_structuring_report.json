@@ -1,0 +1,110 @@
+{
+  "processing_date": "2025-07-28T16:39:34.735361",
+  "processor": "AdvancedExamStructurer v2.0",
+  "exams_processed": [
+    {
+      "exam_year": "5회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 0,
+        "with_answers": 0,
+        "with_explanations": 1,
+        "with_keywords": 2
+      }
+    },
+    {
+      "exam_year": "6회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 0,
+        "with_answers": 0,
+        "with_explanations": 0,
+        "with_keywords": 5
+      }
+    },
+    {
+      "exam_year": "7회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 3,
+        "with_answers": 1,
+        "with_explanations": 2,
+        "with_keywords": 11
+      }
+    },
+    {
+      "exam_year": "8회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 83,
+        "with_answers": 4,
+        "with_explanations": 3,
+        "with_keywords": 65
+      }
+    },
+    {
+      "exam_year": "9회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 82,
+        "with_answers": 3,
+        "with_explanations": 1,
+        "with_keywords": 65
+      }
+    },
+    {
+      "exam_year": "10회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 89,
+        "with_answers": 7,
+        "with_explanations": 5,
+        "with_keywords": 71
+      }
+    },
+    {
+      "exam_year": "11회",
+      "total_questions": 150,
+      "complete_questions": 150,
+      "missing_questions": 0,
+      "missing_question_numbers": [],
+      "quality_metrics": {
+        "with_choices": 117,
+        "with_answers": 0,
+        "with_explanations": 0,
+        "with_keywords": 98
+      }
+    }
+  ],
+  "overall_statistics": {
+    "total_questions_expected": 1050,
+    "total_questions_found": 1050,
+    "total_complete_questions": 1050,
+    "total_missing": 0,
+    "subject_distribution": {},
+    "quality_metrics": {
+      "with_choices": 374,
+      "with_answers": 15,
+      "with_explanations": 12,
+      "with_keywords": 317
+    }
+  }
+}

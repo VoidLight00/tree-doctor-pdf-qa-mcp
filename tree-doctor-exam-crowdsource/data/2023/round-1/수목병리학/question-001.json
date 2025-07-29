@@ -1,0 +1,22 @@
+{
+  "id": "2023-1-001",
+  "year": 2023,
+  "round": 1,
+  "subject": "수목병리학",
+  "questionNumber": 1,
+  "question": "다음 중 수목병원균의 분류가 올바른 것은?",
+  "options": [
+    "① 세균 - Agrobacterium tumefaciens",
+    "② 바이러스 - Phytophthora cinnamomi",
+    "③ 진균 - Tobacco mosaic virus",
+    "④ 파이토플라스마 - Armillaria mellea"
+  ],
+  "answer": 1,
+  "explanation": "Agrobacterium tumefaciens는 세균성 병원균으로 근두암종병(Crown gall)을 일으킵니다. Phytophthora cinnamomi는 진균(난균류), Tobacco mosaic virus는 바이러스, Armillaria mellea는 진균입니다.",
+  "image": null,
+  "difficulty": "중",
+  "tags": ["병원균", "분류", "세균", "근두암종병"],
+  "contributor": "voidlight",
+  "verifiedBy": ["user1", "user2"],
+  "source": "2023년 제1회 나무의사 자격시험"
+}

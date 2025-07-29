@@ -1,0 +1,151 @@
+name: 새 문제 입력
+description: 나무의사 기출문제를 입력해주세요
+title: "[문제입력] "
+labels: ["새문제", "검증필요"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 나무의사 기출문제 입력
+        아래 양식에 따라 문제를 입력해주세요. 정확한 입력이 다른 수험생들에게 도움이 됩니다.
+
+  - type: dropdown
+    id: year
+    attributes:
+      label: 시험 연도
+      description: 해당 문제가 출제된 연도를 선택해주세요
+      options:
+        - 2024년
+        - 2023년
+        - 2022년
+        - 2021년
+        - 2020년
+        - 2019년
+        - 2018년
+        - 기타
+    validations:
+      required: true
+
+  - type: dropdown
+    id: round
+    attributes:
+      label: 시험 회차
+      description: 해당 연도의 몇 회차 시험인지 선택해주세요
+      options:
+        - 1회차
+        - 2회차
+        - 3회차
+        - 기타/불명
+    validations:
+      required: true
+
+  - type: dropdown
+    id: subject
+    attributes:
+      label: 과목
+      description: 문제가 속한 과목을 선택해주세요
+      options:
+        - 수목병리학
+        - 수목해충학
+        - 수목생리학
+        - 산림토양학
+        - 수목관리학
+        - 나무의사 관련 법규
+        - 기타/불명
+    validations:
+      required: true
+
+  - type: input
+    id: question_number
+    attributes:
+      label: 문제 번호
+      description: 원본 시험지의 문제 번호 (예: 1, 2, 3...)
+      placeholder: "1"
+    validations:
+      required: true
+
+  - type: textarea
+    id: question_text
+    attributes:
+      label: 문제
+      description: 문제 전문을 정확히 입력해주세요
+      placeholder: |
+        다음 중 소나무재선충병의 매개충에 대한 설명으로 옳은 것은?
+    validations:
+      required: true
+
+  - type: textarea
+    id: options
+    attributes:
+      label: 보기
+      description: 객관식 문제의 경우 모든 보기를 입력해주세요 (각 보기는 새 줄로 구분)
+      placeholder: |
+        ① 솔수염하늘소는 건전한 소나무를 가해한다
+        ② 북방수염하늘소는 고사목에만 산란한다
+        ③ 솔수염하늘소 성충은 신초를 갉아먹는다
+        ④ 북방수염하늘소는 남부지방에만 분포한다
+    validations:
+      required: false
+
+  - type: input
+    id: answer
+    attributes:
+      label: 정답
+      description: 정답 번호 또는 답안을 입력해주세요
+      placeholder: "③"
+    validations:
+      required: true
+
+  - type: textarea
+    id: explanation
+    attributes:
+      label: 해설
+      description: 문제 해설이 있다면 입력해주세요 (선택사항)
+      placeholder: |
+        솔수염하늘소 성충은 소나무의 신초(새로 자란 가지)를 갉아먹으면서 
+        재선충을 건전한 소나무에 전파시킵니다.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: 난이도
+      description: 체감 난이도를 선택해주세요 (선택사항)
+      options:
+        - 상
+        - 중
+        - 하
+    validations:
+      required: false
+
+  - type: textarea
+    id: keywords
+    attributes:
+      label: 키워드
+      description: 문제와 관련된 키워드를 입력해주세요 (쉼표로 구분)
+      placeholder: "소나무재선충병, 매개충, 솔수염하늘소, 북방수염하늘소"
+    validations:
+      required: false
+
+  - type: textarea
+    id: source
+    attributes:
+      label: 출처
+      description: 문제 출처나 참고사항이 있다면 입력해주세요
+      placeholder: "2023년도 제2회 나무의사 자격시험"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: 확인사항
+      description: 제출 전 아래 사항을 확인해주세요
+      options:
+        - label: 문제와 보기를 정확히 입력했습니다
+          required: true
+        - label: 정답이 맞는지 다시 한 번 확인했습니다
+          required: true
+        - label: 중복된 문제가 아닌지 검색해보았습니다
+          required: false

@@ -1,0 +1,43 @@
+{
+  "created_date": "2025-07-28T16:41:16.335399",
+  "total_exams": 7,
+  "total_questions": 1050,
+  "input_status": {
+    "5회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    },
+    "6회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    },
+    "7회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    },
+    "8회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    },
+    "9회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    },
+    "10회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    },
+    "11회": {
+      "total": 150,
+      "completed": 0,
+      "verified": 0
+    }
+  },
+  "notes": "OCR 품질 문제로 인해 수동 입력이 필요합니다. 원본 PDF를 참조하여 정확히 입력해주세요."
+}

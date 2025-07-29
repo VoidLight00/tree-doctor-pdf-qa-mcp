@@ -1,0 +1,24 @@
+{
+  "name": "tree-doctor-exam-crowdsource",
+  "version": "1.0.0",
+  "description": "나무의사 기출문제 크라우드소싱 플랫폼",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/test.js",
+    "validate": "node scripts/validate.js",
+    "stats": "node scripts/update-stats.js"
+  },
+  "keywords": [
+    "tree-doctor",
+    "exam",
+    "crowdsourcing"
+  ],
+  "author": "VoidLight",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "ajv": "^8.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  }
+}

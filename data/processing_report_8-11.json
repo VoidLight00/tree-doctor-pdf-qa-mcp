@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-07-28T14:37:39.228404",
+  "total_time": 181.385203,
+  "results": [
+    {
+      "exam_round": "8",
+      "total_questions": 268,
+      "total_pages": 67,
+      "output_file": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-8th-ocr.md",
+      "process_time": 146.065171,
+      "success": true
+    },
+    {
+      "exam_round": "11",
+      "total_questions": 150,
+      "total_pages": 40,
+      "output_file": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-11th-ocr.md",
+      "process_time": 3.548181,
+      "success": true
+    },
+    {
+      "exam_round": "9",
+      "total_questions": 344,
+      "total_pages": 72,
+      "output_file": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-9th-ocr.md",
+      "process_time": 162.002438,
+      "success": true
+    },
+    {
+      "exam_round": "10",
+      "total_questions": 287,
+      "total_pages": 84,
+      "output_file": "/Users/voidlight/tree-doctor-pdf-qa-mcp/data/exam-10th-ocr.md",
+      "process_time": 181.374446,
+      "success": true
+    }
+  ]
+}

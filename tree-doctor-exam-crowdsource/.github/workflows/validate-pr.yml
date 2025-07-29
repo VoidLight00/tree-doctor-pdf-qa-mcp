@@ -1,0 +1,187 @@
+name: Validate PR
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    paths:
+      - 'data/**/*.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install ajv
+    
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v40
+      with:
+        files: |
+          data/**/*.json
+    
+    - name: Validate JSON files
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const Ajv = require('ajv');
+          const fs = require('fs');
+          const path = require('path');
+          
+          const ajv = new Ajv();
+          
+          // JSON Schema
+          const schema = {
+            type: "object",
+            required: ["id", "year", "round", "subject", "questionNumber", "question", "options", "answer", "contributor", "source"],
+            properties: {
+              id: { type: "string", pattern: "^\\d{4}-\\d+-\\d{3}$" },
+              year: { type: "integer", minimum: 2020, maximum: 2030 },
+              round: { type: "integer", minimum: 1, maximum: 10 },
+              subject: { type: "string", enum: ["수목생리학", "수목병리학", "수목해충학", "수목관리학", "나무보호법"] },
+              questionNumber: { type: "integer", minimum: 1, maximum: 200 },
+              question: { type: "string", minLength: 10 },
+              options: {
+                type: "array",
+                items: { type: "string" },
+                minItems: 4,
+                maxItems: 4
+              },
+              answer: { type: "integer", minimum: 1, maximum: 4 },
+              explanation: { type: ["string", "null"] },
+              image: { type: ["string", "null"] },
+              difficulty: { type: "string", enum: ["상", "중", "하"] },
+              tags: {
+                type: "array",
+                items: { type: "string" }
+              },
+              contributor: { type: "string" },
+              verifiedBy: {
+                type: "array",
+                items: { type: "string" }
+              },
+              source: { type: "string" }
+            }
+          };
+          
+          const validate = ajv.compile(schema);
+          const errors = [];
+          const warnings = [];
+          
+          // Changed files from previous step
+          const changedFiles = '${{ steps.changed-files.outputs.all_changed_files }}'.split(' ');
+          
+          for (const file of changedFiles) {
+            if (!file.endsWith('.json')) continue;
+            
+            try {
+              const content = fs.readFileSync(file, 'utf8');
+              const data = JSON.parse(content);
+              
+              // Validate schema
+              if (!validate(data)) {
+                errors.push(`❌ ${file}: ${JSON.stringify(validate.errors)}`);
+                continue;
+              }
+              
+              // Additional validations
+              
+              // Check file path matches data
+              const expectedPath = `data/${data.year}/round-${data.round}/${data.subject}/question-${String(data.questionNumber).padStart(3, '0')}.json`;
+              if (file !== expectedPath) {
+                warnings.push(`⚠️ ${file}: 파일 경로가 데이터와 일치하지 않습니다. 예상: ${expectedPath}`);
+              }
+              
+              // Check for duplicates
+              const idPath = path.dirname(file);
+              const files = fs.readdirSync(idPath).filter(f => f.endsWith('.json') && f !== path.basename(file));
+              
+              for (const otherFile of files) {
+                const otherContent = fs.readFileSync(path.join(idPath, otherFile), 'utf8');
+                const otherData = JSON.parse(otherContent);
+                
+                if (otherData.id === data.id) {
+                  errors.push(`❌ 중복 ID: ${data.id} (${file} & ${otherFile})`);
+                }
+                
+                if (otherData.question === data.question) {
+                  warnings.push(`⚠️ 중복 문제 가능성: ${file} & ${otherFile}`);
+                }
+              }
+              
+              // Check options format
+              const optionPattern = /^[①②③④]\s+.+/;
+              for (let i = 0; i < data.options.length; i++) {
+                if (!optionPattern.test(data.options[i])) {
+                  warnings.push(`⚠️ ${file}: 선택지 ${i+1} 형식 확인 필요`);
+                }
+              }
+              
+            } catch (e) {
+              errors.push(`❌ ${file}: ${e.message}`);
+            }
+          }
+          
+          // Post comment
+          const comment = [];
+          
+          if (errors.length === 0 && warnings.length === 0) {
+            comment.push('### ✅ 검증 통과!');
+            comment.push('모든 JSON 파일이 유효합니다.');
+          } else {
+            if (errors.length > 0) {
+              comment.push('### ❌ 검증 실패');
+              comment.push('다음 오류를 수정해주세요:');
+              comment.push(...errors);
+            }
+            
+            if (warnings.length > 0) {
+              comment.push('');
+              comment.push('### ⚠️ 경고');
+              comment.push(...warnings);
+            }
+          }
+          
+          // Find existing comment
+          const { data: comments } = await github.rest.issues.listComments({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number
+          });
+          
+          const botComment = comments.find(comment => 
+            comment.user.type === 'Bot' && comment.body.includes('검증')
+          );
+          
+          if (botComment) {
+            await github.rest.issues.updateComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              comment_id: botComment.id,
+              body: comment.join('\n')
+            });
+          } else {
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: comment.join('\n')
+            });
+          }
+          
+          // Fail if errors
+          if (errors.length > 0) {
+            core.setFailed('JSON validation failed');
+          }

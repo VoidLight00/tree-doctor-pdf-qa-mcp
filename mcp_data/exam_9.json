@@ -1,0 +1,512 @@
+{
+  "round": 9,
+  "title": "제9회 나무의사 자격시험",
+  "question_count": 25,
+  "questions": [
+    {
+      "id": "q9_1",
+      "exam_round": 9,
+      "number": 1,
+      "subject": "수목병리학",
+      "question": "해충과 방제 방법의 연결이 옳지 않은 것은?",
+      "choices": {
+        "①": "솔나방 - 기생성 천적을 보호",
+        "②": "말매미 - 산란한 가지를 잘라서 소각",
+        "③": "매미나방 - 성충 우화시기에 유아등으로 포획",
+        "④": "이세리아깍지벌레 - 가지나 줄기에 산란한 알덩어리를 제거",
+        "⑤": "솔잎혹파리 - 지표면에 비닐을 피복하여 성충이 월동처로 이동하는 것을 차단"
+      },
+      "answer": "⑤",
+      "explanation": "",
+      "keywords": [
+        "해충",
+        "방제",
+        "병충해"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_2",
+      "exam_round": 9,
+      "number": 2,
+      "subject": "수목병리학",
+      "question": "한국의 산림토양 특성에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "토양의 분류 체계는 토양군, 토양아군, 토양형 순이다.",
+        "②": "주로 모래 함량이 많은 사양토이며 산성토양이다.",
+        "③": "수분 상태는 건조, 약건, 적윤, 약습, 습으로 구분한다.",
+        "④": "토양 pH는 대부분 5.0~6.0 범위에 있다.",
+        "⑤": "유기물 함량이 높아 비옥한 토양이 대부분이다."
+      },
+      "answer": "⑤",
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "산림토양"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_3",
+      "exam_round": 9,
+      "number": 3,
+      "subject": "수목병리학",
+      "question": "수목의 질산환원에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "질산환원효소는 잎에서 주로 활성을 나타낸다.",
+        "②": "질산환원효소는 몰리브덴을 포함하는 효소이다.",
+        "③": "아질산환원효소는 엽록체에 존재한다.",
+        "④": "질산환원은 광합성과 밀접한 관계가 있다.",
+        "⑤": "질산환원효소는 세포질에 존재한다."
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "생리",
+        "질산환원"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_4",
+      "exam_round": 9,
+      "number": 4,
+      "subject": "수목병리학",
+      "question": "토양유기물 분해에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "토양 온도가 높을수록 분해가 빨라진다.",
+        "②": "토양 수분이 적절할 때 분해가 활발하다.",
+        "③": "C/N비가 낮을수록 분해가 빨라진다.",
+        "④": "pH가 중성일 때 분해가 가장 활발하다.",
+        "⑤": "혐기 조건에서도 분해가 활발하게 일어난다."
+      },
+      "answer": "⑤",
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "유기물"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_5",
+      "exam_round": 9,
+      "number": 5,
+      "subject": "수목병리학",
+      "question": "수목 이식에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "이식 전 뿌리돌림을 실시하면 세근 발달에 도움이 된다.",
+        "②": "이식 적기는 수목의 생장이 정지된 시기이다.",
+        "③": "상록수는 장마철에 이식하는 것이 가장 좋다.",
+        "④": "이식 후 충분한 관수가 필요하다.",
+        "⑤": "뿌리분의 크기는 근원직경의 3~4배가 적당하다."
+      },
+      "answer": "③",
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "이식"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_6",
+      "exam_round": 9,
+      "number": 6,
+      "subject": "수목병리학",
+      "question": "아바멕틴 미탁제에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "소나무재선충 방제에 사용된다.",
+        "②": "나무주사 방법으로 시용한다.",
+        "③": "예방 효과가 있다.",
+        "④": "잔효성이 짧다.",
+        "⑤": "4월경에 주로 시용한다."
+      },
+      "answer": "④",
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "소나무재선충",
+        "아바멕틴"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_7",
+      "exam_round": 9,
+      "number": 7,
+      "subject": "수목병리학",
+      "question": "곤충 생식기관 부속샘의 분비물에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "정자를 보호하는 역할을 한다.",
+        "②": "교미 후 암컷의 재교미를 억제한다.",
+        "③": "난각 형성에 관여한다.",
+        "④": "페로몬 생산에 관여한다.",
+        "⑤": "소화효소를 분비한다."
+      },
+      "answer": "⑤",
+      "explanation": "",
+      "keywords": [
+        "해충",
+        "곤충생리"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_8",
+      "exam_round": 9,
+      "number": 8,
+      "subject": "수목병리학",
+      "question": "수목의 페놀화합물에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "병원균에 대한 방어물질로 작용한다.",
+        "②": "리그닌의 전구체가 된다.",
+        "③": "탄닌은 대표적인 페놀화합물이다.",
+        "④": "주로 뿌리에서 합성된다.",
+        "⑤": "UV 차단 효과가 있다."
+      },
+      "answer": "④",
+      "explanation": "",
+      "keywords": [
+        "생리",
+        "페놀화합물"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_9",
+      "exam_round": 9,
+      "number": 9,
+      "subject": "수목병리학",
+      "question": "가로수에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "내병충성과 강한 구획화 능력이 요구된다.",
+        "②": "보도 포장의 융기와 훼손을 예방하려고 천근성 수종을 선정한다.",
+        "③": "식재지역의 역사와 문화에 적합하고 향토성을 지닌 나무를 선정한다.",
+        "④": "난대지역에 적합한 수종으로는 팽나무, 녹나무, 먼나무, 후박나무 등이 있다.",
+        "⑤": "심근성 수종이 바람직하다."
+      },
+      "answer": "②",
+      "explanation": "",
+      "keywords": [
+        "수목관리",
+        "가로수"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_10",
+      "exam_round": 9,
+      "number": 10,
+      "subject": "수목병리학",
+      "question": "식물체 내에서 영양소와 생리적 기능의 연결로 옳지 않은 것은?",
+      "choices": {
+        "①": "질소 - 단백질 합성",
+        "②": "인 - 에너지 대사",
+        "③": "칼륨 - 기공 개폐",
+        "④": "칼슘 - 세포벽 구성",
+        "⑤": "마그네슘 - 질소 고정"
+      },
+      "answer": "⑤",
+      "explanation": "",
+      "keywords": [
+        "생리",
+        "영양소"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_11",
+      "exam_round": 9,
+      "number": 11,
+      "subject": "수목병리학",
+      "question": "수목병의 관리방법으로 옳지 않은 것은?",
+      "choices": {
+        "①": "저항성 품종 식재",
+        "②": "적절한 전정으로 통풍 개선",
+        "③": "이병지 제거 및 소각",
+        "④": "질소질 비료의 과다 시용",
+        "⑤": "적기 방제"
+      },
+      "answer": "④",
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "수목병",
+        "방제"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_12",
+      "exam_round": 9,
+      "number": 12,
+      "subject": "수목병리학",
+      "question": "편백·화백 가지마름병에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "Seiridium 속 균이 원인균이다.",
+        "②": "가지 끝부터 마르기 시작한다.",
+        "③": "수지가 흘러나온다.",
+        "④": "주로 뿌리에서 감염이 시작된다.",
+        "⑤": "전정 상처를 통해 감염될 수 있다."
+      },
+      "answer": "④",
+      "explanation": "",
+      "keywords": [
+        "병충해",
+        "가지마름병",
+        "편백",
+        "화백"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_13",
+      "exam_round": 9,
+      "number": 13,
+      "subject": "수목병리학",
+      "question": "테부코나졸 유탁제에 관한 설명으로 옳지 않은 것은?",
+      "choices": {
+        "①": "스트로빌루린계 살균제이다.",
+        "②": "작용기작은 G1으로 표기한다.",
+        "③": "침투이행성이 뛰어나 치료 효과가 우수하다.",
+        "④": "세포막 스테롤 생합성 저해제이다.",
+        "⑤": "리기다소나무 푸사리움가지마름병 방제에 사용한다."
+      },
+      "answer": "①",
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "살균제",
+        "테부코나졸"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_14",
+      "exam_round": 9,
+      "number": 14,
+      "subject": "수목병리학",
+      "question": "한국에 적용 살균제가 등록되어 있는 수목병은?",
+      "choices": {
+        "①": "사철나무 탄저병",
+        "②": "느릅나무 잎마름병",
+        "③": "팽나무 점무늬병",
+        "④": "동백나무 갈색잎마름병",
+        "⑤": "모두 등록되어 있다"
+      },
+      "answer": null,
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "수목병",
+        "살균제"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_15",
+      "exam_round": 9,
+      "number": 15,
+      "subject": "수목병리학",
+      "question": "소나무재선충병의 매개충은?",
+      "choices": {
+        "①": "솔수염하늘소",
+        "②": "북방수염하늘소",
+        "③": "솔나방",
+        "④": "솔껍질깍지벌레",
+        "⑤": "솔잎혹파리"
+      },
+      "answer": "①",
+      "explanation": "",
+      "keywords": [
+        "소나무재선충",
+        "매개충",
+        "하늘소"
+      ],
+      "difficulty": "",
+      "quality": "high"
+    },
+    {
+      "id": "q9_16",
+      "exam_round": 9,
+      "number": 16,
+      "subject": "수목병리학",
+      "question": "봉입체를 통한 바이러스 진단 방법 중 전자현미경을 이용한 방법 2가지를 쓰시오.",
+      "choices": {},
+      "answer": "1) Dip method(침지법): 감염식물의 수액 내의 바이러스를 투과전자현미경을 이용하여 관찰\n2) 면역전자현미경법: 침지법에 특정바이러스의 항혈청반응을 조합시켜 전자현미경으로 관찰",
+      "explanation": "",
+      "keywords": [
+        "진단",
+        "바이러스",
+        "전자현미경"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_17",
+      "exam_round": 9,
+      "number": 17,
+      "subject": "수목병리학",
+      "question": "포플러 모자이크병의 병원체를 쓰시오.",
+      "choices": {},
+      "answer": "Poplar mosaic virus (PopMV)",
+      "explanation": "",
+      "keywords": [
+        "병원체",
+        "모자이크병",
+        "바이러스"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_18",
+      "exam_round": 9,
+      "number": 18,
+      "subject": "수목병리학",
+      "question": "배롱나무 흰가루병의 병원균 학명을 쓰시오.",
+      "choices": {},
+      "answer": "Erysiphe australiana",
+      "explanation": "",
+      "keywords": [
+        "흰가루병",
+        "병원균",
+        "배롱나무"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_19",
+      "exam_round": 9,
+      "number": 19,
+      "subject": "수목병리학",
+      "question": "대추나무 빗자루병의 매개곤충을 쓰시오.",
+      "choices": {},
+      "answer": "마름무늬매미충 (Hishimonus sellatus)",
+      "explanation": "",
+      "keywords": [
+        "매개곤충",
+        "빗자루병",
+        "대추나무",
+        "매미충"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_20",
+      "exam_round": 9,
+      "number": 20,
+      "subject": "수목병리학",
+      "question": "자주빛날개무늬병의 병원균 학명을 쓰시오.",
+      "choices": {},
+      "answer": "Helicobasidium mompa",
+      "explanation": "",
+      "keywords": [
+        "날개무늬병",
+        "병원균"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_21",
+      "exam_round": 9,
+      "number": 21,
+      "subject": "수목병리학",
+      "question": "집단류(mass flow)에 의한 영양소 이동에 대해 설명하시오.",
+      "choices": {},
+      "answer": "물의 대류현상으로 확산과 대비되는 개념. 식물의 증산작용으로 잎, 줄기, 뿌리 및 토양 사이에 연속적인 수분퍼텐셜의 기울기 형성에 따라 일어남. 식물의 물 이용량에 영향을 끼칠 수 있는 환경요인인 온도, 바람, 습도, 토양수분함량 등에 의해 결정됨.",
+      "explanation": "",
+      "keywords": [
+        "토양",
+        "영양소",
+        "집단류"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_22",
+      "exam_round": 9,
+      "number": 22,
+      "subject": "수목병리학",
+      "question": "잎그을음(leaf scorch)이 발생하는 원인과 증상을 설명하시오.",
+      "choices": {},
+      "answer": "원인: 여름철 강한 햇빛과 증발산량의 과다로 인해 물공급이 충분하지 못함으로써 잎이 타는 현상. 토양에서 공급되는 물의 양보다 잎에서 더 빨리 손실될 때 발생.\n증상: 잎의 엽맥 사이와 잎 가장자리를 따라 황화현상을 보이거나 갈변함. 엽육조직의 피해로 광합성 장애 발생.",
+      "explanation": "",
+      "keywords": [
+        "생리장해",
+        "잎그을음"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_23",
+      "exam_round": 9,
+      "number": 23,
+      "subject": "수목병리학",
+      "question": "토양잔류성 농약의 정의에서 토양 중 농약의 반감기간은 며칠 이상인가?",
+      "choices": {},
+      "answer": "180일",
+      "explanation": "",
+      "keywords": [
+        "농약",
+        "토양잔류성"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_24",
+      "exam_round": 9,
+      "number": 24,
+      "subject": "수목병리학",
+      "question": "생장추와 저항기록드릴의 용도를 각각 쓰시오.",
+      "choices": {},
+      "answer": "생장추: 나이테 간격 측정, 생장량 조사\n저항기록드릴: 목재 부후 정도 측정, 공동 탐지",
+      "explanation": "",
+      "keywords": [
+        "생장추",
+        "저항기록드릴",
+        "진단"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    },
+    {
+      "id": "q9_25",
+      "exam_round": 9,
+      "number": 25,
+      "subject": "수목병리학",
+      "question": "화상병의 병원균 학명과 특징을 쓰시오.",
+      "choices": {},
+      "answer": "병원균: Erwinia amylovora\n특징: 그람음성균, 막대모양(간균), 최적온도 30°C, 기공·수공·상처로 침입, 물관부 내 침입 후 급속 이동",
+      "explanation": "",
+      "keywords": [
+        "화상병",
+        "병원균"
+      ],
+      "difficulty": "",
+      "quality": "medium"
+    }
+  ]
+}

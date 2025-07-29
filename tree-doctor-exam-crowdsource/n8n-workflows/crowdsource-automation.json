@@ -1,0 +1,170 @@
+{
+  "name": "나무의사 기출문제 크라우드소싱 자동화",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "github-webhook",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-1",
+      "name": "GitHub Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Parse GitHub webhook payload\nconst event = $input.item.json;\nconst eventType = $input.item.json.headers['x-github-event'];\n\nif (eventType === 'issues' && event.body.action === 'opened') {\n  const issue = event.body.issue;\n  const labels = issue.labels.map(l => l.name);\n  \n  if (labels.includes('new-question')) {\n    // Parse issue body to extract question data\n    const body = issue.body;\n    const questionData = {\n      issueNumber: issue.number,\n      title: issue.title,\n      body: body,\n      user: issue.user.login,\n      repository: event.body.repository.full_name\n    };\n    \n    return questionData;\n  }\n}\n\nreturn null;"
+      },
+      "id": "code-1",
+      "name": "Parse GitHub Event",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "boolean": [
+            {
+              "value1": "={{ $json.issueNumber }}",
+              "operation": "isNotEmpty"
+            }
+          ]
+        }
+      },
+      "id": "if-1",
+      "name": "Is New Question?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Extract question data from issue body\nconst body = $input.item.json.body;\n\nconst extractField = (pattern, isNumber = false) => {\n  const match = body.match(pattern);\n  if (match) {\n    return isNumber ? parseInt(match[1]) : match[1].trim();\n  }\n  return null;\n};\n\nconst extractOptions = () => {\n  const optionsMatch = body.match(/### 선택지\\s*([\\s\\S]+?)### 정답/);\n  if (optionsMatch) {\n    const optionLines = optionsMatch[1].match(/[①②③④]\\s*[^\\n]+/g);\n    return optionLines ? optionLines.map(opt => opt.trim()) : [];\n  }\n  return [];\n};\n\nconst data = {\n  year: extractField(/년도\\**:\\s*(\\d{4})/, true),\n  round: extractField(/회차\\**:\\s*(\\d+)/, true),\n  subject: extractField(/과목\\**:\\s*([^\\n]+)/),\n  questionNumber: extractField(/문제번호\\**:\\s*(\\d+)/, true),\n  question: extractField(/### 문제 내용\\s*```\\s*([^`]+)\\s*```/),\n  options: extractOptions(),\n  answer: extractField(/정답 번호\\**:\\s*(\\d)/, true),\n  explanation: extractField(/정답 설명\\**[^:]*:\\s*([^\\n]+)/),\n  difficulty: extractField(/난이도\\**:\\s*([상중하])/),\n  image: extractField(/이미지 URL\\**[^:]*:\\s*([^\\n]+)/),\n  tags: extractField(/태그\\**:\\s*([^\\n]+)/)?.split(',').map(t => t.trim()) || [],\n  contributor: $input.item.json.user,\n  verifiedBy: [],\n  issueNumber: $input.item.json.issueNumber\n};\n\n// Generate ID\nif (data.year && data.round && data.questionNumber) {\n  data.id = `${data.year}-${data.round}-${String(data.questionNumber).padStart(3, '0')}`;\n  data.source = `${data.year}년 제${data.round}회 나무의사 자격시험`;\n}\n\nreturn data;"
+      },
+      "id": "code-2",
+      "name": "Extract Question Data",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [850, 250]
+    },
+    {
+      "parameters": {
+        "content": "=## 검증 필요\\n\\n새로운 기출문제가 입력되었습니다:\\n\\n**문제 ID**: {{ $json.id }}\\n**과목**: {{ $json.subject }}\\n**문제**: {{ $json.question }}\\n\\n**Issue**: #{{ $json.issueNumber }}\\n\\n검증이 필요합니다! 원본 PDF와 대조하여 정확성을 확인해주세요.",
+        "options": {}
+      },
+      "id": "slack-1",
+      "name": "Slack Notification",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.1,
+      "position": [1050, 250],
+      "credentials": {
+        "slackApi": {
+          "id": "1",
+          "name": "Slack API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "path": "/tree-doctor-exam-crowdsource/data/{{ $json.year }}/round-{{ $json.round }}/{{ $json.subject }}/question-{{ $json.questionNumber.toString().padStart(3, '0') }}.json",
+        "options": {
+          "fileName": "question-{{ $json.questionNumber.toString().padStart(3, '0') }}.json"
+        }
+      },
+      "id": "github-1",
+      "name": "Create JSON File",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [1050, 100],
+      "credentials": {
+        "githubApi": {
+          "id": "2",
+          "name": "GitHub API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({ success: true, message: 'Webhook received' }) }}",
+        "options": {}
+      },
+      "id": "respond-1",
+      "name": "Respond to Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [850, 450]
+    }
+  ],
+  "connections": {
+    "GitHub Webhook": {
+      "main": [
+        [
+          {
+            "node": "Parse GitHub Event",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse GitHub Event": {
+      "main": [
+        [
+          {
+            "node": "Is New Question?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Is New Question?": {
+      "main": [
+        [
+          {
+            "node": "Extract Question Data",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Extract Question Data": {
+      "main": [
+        [
+          {
+            "node": "Create JSON File",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Slack Notification",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner",
+    "executionTimeout": 300
+  },
+  "versionId": "1"
+}
