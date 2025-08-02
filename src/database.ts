@@ -58,7 +58,8 @@ export class DatabaseManager {
   private dbPath: string;
 
   constructor() {
-    this.dbPath = path.join(__dirname, "..", "tree-doctor-pdf-qa.db");
+    // Windows와 Unix 모두에서 작동하도록 경로 처리
+    this.dbPath = path.resolve(__dirname, "..", "tree-doctor-pdf-qa.db");
   }
 
   async initialize(): Promise<void> {
