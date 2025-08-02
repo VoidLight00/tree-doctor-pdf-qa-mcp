@@ -6,11 +6,15 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
+    "postbuild": "ln -sf ../tree-doctor-pdf-qa.db dist/tree-doctor-pdf-qa.db 2>/dev/null || true",
     "dev": "tsc --watch",
     "start": "node dist/index.js",
     "test": "node --test",
     "setup-claude": "node scripts/setup-claude-desktop.js",
-    "import-exams": "npm run build && node dist/scripts/import-exams.js"
+    "import-exams": "npm run build && node dist/scripts/import-exams.js",
+    "setup": "npm run convert-markdown && npm run setup-data",
+    "convert-markdown": "node scripts/convert-markdown-to-json.js",
+    "setup-data": "node scripts/setup-complete-data.js"
   },
   "keywords": [
     "mcp",
