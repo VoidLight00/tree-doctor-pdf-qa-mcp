@@ -1,0 +1,17 @@
+{
+  "agentId": "large-textbooks-agent",
+  "processed": 2,
+  "successful": 0,
+  "results": [
+    {
+      "textbook": "(용지2) 식물병리학 - 제5판_3c_r5_2d.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "(용지2) 일반식물학 - 제2판_3c_r5_2d.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "agentId": "small-textbooks-agent",
+  "processed": 8,
+  "successful": 0,
+  "results": [
+    {
+      "textbook": "나무쌤의 나무의사 2차 서술형_3c_r5_2d (2).pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "[4+6] 신고 수목병리학 - 제4판_3c_r5_2d (1).pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "수목생리학 - 전면개정판_3c_r5_2d (1).pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "(용지2) [ㅁㅋ] 기초 수목 생리학_3c_r5_2d.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "나무의사 2차 서술고사_3c_r5_2d.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "(용지2) 알기 쉬운 생활 속 수목 병해충_3c_r5_2d.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "[ㅁㅋ] 사례로 보는 수목진단 이야기_3c_r5_2d.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    },
+    {
+      "textbook": "나무쌤필기.압축.pdf",
+      "success": false,
+      "error": "Traceback (most recent call last):\n  File \"<string>\", line 3, in <module>\nImportError: cannot import name 'MarkItDown' from 'markitdown' (/Users/voidlight/Library/Python/3.9/lib/python/site-packages/markitdown/__init__.py)\n"
+    }
+  ]
+}
