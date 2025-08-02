@@ -1,0 +1,67 @@
+{
+  "agentId": "ocr-correction-agent",
+  "processed": 650,
+  "improved": 10,
+  "improvements": [
+    {
+      "questionId": 5,
+      "originalText": "수목의 이식 적기가 아닌 것은것은?",
+      "correctedText": "수목의 이식 적기가 아닌 것은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 6,
+      "originalText": "소나무재선충병의 매개충은것은?",
+      "correctedText": "소나무재선충병의 매개충은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 7,
+      "originalText": "완전변태를 하는 곤충은것은?",
+      "correctedText": "완전변태를 하는 곤충은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 8,
+      "originalText": "C4 식물의 특징이 아닌 것은것은?",
+      "correctedText": "C4 식물의 특징이 아닌 것은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 10,
+      "originalText": "천연갱신 방법이 아닌 것은것은?",
+      "correctedText": "천연갱신 방법이 아닌 것은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 16,
+      "originalText": "진균병의 표징이 아닌 것은것은?",
+      "correctedText": "진균병의 표징이 아닌 것은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 18,
+      "originalText": "수분퍼텐셜이 가장 낮은 곳은것은?",
+      "correctedText": "수분퍼텐셜이 가장 낮은 곳은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 22,
+      "originalText": "월동 형태가 다른 해충은것은?",
+      "correctedText": "월동 형태가 다른 해충은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 23,
+      "originalText": "기공 개폐에 관여하는 이온은것은?",
+      "correctedText": "기공 개폐에 관여하는 이온은것은것은?",
+      "corrections": []
+    },
+    {
+      "questionId": 720,
+      "originalText": "다음 특징을 나타내는 뿌리병은것은?",
+      "correctedText": "다음 특징을 나타내는 뿌리병은것은것은?",
+      "corrections": []
+    }
+  ]
+}

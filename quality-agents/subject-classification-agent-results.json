@@ -1,0 +1,1087 @@
+{
+  "agentId": "subject-classification-agent",
+  "processed": 244,
+  "improved": 117,
+  "improvements": [
+    {
+      "questionId": 26,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 28,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 30,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 31,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병원균"
+      ]
+    },
+    {
+      "questionId": 32,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병원균"
+      ]
+    },
+    {
+      "questionId": 35,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 36,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 41,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "감염"
+      ]
+    },
+    {
+      "questionId": 46,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "세균"
+      ]
+    },
+    {
+      "questionId": 57,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 60,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "감염"
+      ]
+    },
+    {
+      "questionId": 62,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "살균제"
+      ]
+    },
+    {
+      "questionId": 64,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 65,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "관리"
+      ]
+    },
+    {
+      "questionId": 67,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 74,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 76,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 77,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "천적",
+        "나방"
+      ]
+    },
+    {
+      "questionId": 82,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 84,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 85,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.3,
+      "keywords": [
+        "토양",
+        "유기물",
+        "배수"
+      ]
+    },
+    {
+      "questionId": 86,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "곰팡이"
+      ]
+    },
+    {
+      "questionId": 87,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "해충"
+      ]
+    },
+    {
+      "questionId": 90,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병원체"
+      ]
+    },
+    {
+      "questionId": 91,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "바이러스"
+      ]
+    },
+    {
+      "questionId": 94,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "진단"
+      ]
+    },
+    {
+      "questionId": 95,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "관리"
+      ]
+    },
+    {
+      "questionId": 97,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병원균"
+      ]
+    },
+    {
+      "questionId": 98,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "곰팡이"
+      ]
+    },
+    {
+      "questionId": 100,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병원균"
+      ]
+    },
+    {
+      "questionId": 106,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 107,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "곤충",
+        "성충"
+      ]
+    },
+    {
+      "questionId": 109,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 110,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 111,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 112,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 113,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 114,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 115,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 116,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 117,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 118,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "곤충",
+        "천적"
+      ]
+    },
+    {
+      "questionId": 119,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "천공"
+      ]
+    },
+    {
+      "questionId": 120,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.3,
+      "keywords": [
+        "해충",
+        "유충",
+        "가해"
+      ]
+    },
+    {
+      "questionId": 121,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "해충",
+        "나방"
+      ]
+    },
+    {
+      "questionId": 122,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "해충",
+        "가해"
+      ]
+    },
+    {
+      "questionId": 123,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "해충",
+        "가해"
+      ]
+    },
+    {
+      "questionId": 124,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.3,
+      "keywords": [
+        "해충",
+        "성충",
+        "가해"
+      ]
+    },
+    {
+      "questionId": 125,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "가해"
+      ]
+    },
+    {
+      "questionId": 126,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "해충"
+      ]
+    },
+    {
+      "questionId": 127,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 128,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "해충",
+        "천적"
+      ]
+    },
+    {
+      "questionId": 129,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "해충"
+      ]
+    },
+    {
+      "questionId": 131,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "해충"
+      ]
+    },
+    {
+      "questionId": 132,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "호흡"
+      ]
+    },
+    {
+      "questionId": 133,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 134,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 136,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 137,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 138,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 140,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 144,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "호흡"
+      ]
+    },
+    {
+      "questionId": 146,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "양분"
+      ]
+    },
+    {
+      "questionId": 148,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "광합성"
+      ]
+    },
+    {
+      "questionId": 152,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "식물호르몬"
+      ]
+    },
+    {
+      "questionId": 153,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 154,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.2,
+      "keywords": [
+        "광합성",
+        "식물호르몬"
+      ]
+    },
+    {
+      "questionId": 156,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 157,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "식물호르몬"
+      ]
+    },
+    {
+      "questionId": 158,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 159,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 160,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 161,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "통기성"
+      ]
+    },
+    {
+      "questionId": 162,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 163,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 164,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "비료"
+      ]
+    },
+    {
+      "questionId": 165,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 166,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 167,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 168,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 169,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 170,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 171,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 172,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "양분",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 173,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "양분"
+      ]
+    },
+    {
+      "questionId": 174,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 175,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    },
+    {
+      "questionId": 176,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 178,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "양분"
+      ]
+    },
+    {
+      "questionId": 179,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 184,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "전정"
+      ]
+    },
+    {
+      "questionId": 185,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "전정"
+      ]
+    },
+    {
+      "questionId": 186,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 188,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "양분"
+      ]
+    },
+    {
+      "questionId": 192,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 193,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 198,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "살균제"
+      ]
+    },
+    {
+      "questionId": 199,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "살충제"
+      ]
+    },
+    {
+      "questionId": 202,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "관리"
+      ]
+    },
+    {
+      "questionId": 203,
+      "originalSubject": "미분류",
+      "newSubject": "임업일반",
+      "confidence": 0.1,
+      "keywords": [
+        "산림"
+      ]
+    },
+    {
+      "questionId": 204,
+      "originalSubject": "미분류",
+      "newSubject": "임업일반",
+      "confidence": 0.1,
+      "keywords": [
+        "산림"
+      ]
+    },
+    {
+      "questionId": 205,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병해"
+      ]
+    },
+    {
+      "questionId": 206,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.1,
+      "keywords": [
+        "곤충"
+      ]
+    },
+    {
+      "questionId": 207,
+      "originalSubject": "미분류",
+      "newSubject": "수목관리학",
+      "confidence": 0.1,
+      "keywords": [
+        "관리"
+      ]
+    },
+    {
+      "questionId": 208,
+      "originalSubject": "미분류",
+      "newSubject": "임업일반",
+      "confidence": 0.1,
+      "keywords": [
+        "산림"
+      ]
+    },
+    {
+      "questionId": 209,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "증산"
+      ]
+    },
+    {
+      "questionId": 211,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 214,
+      "originalSubject": "미분류",
+      "newSubject": "수목해충학",
+      "confidence": 0.2,
+      "keywords": [
+        "해충",
+        "천적"
+      ]
+    },
+    {
+      "questionId": 215,
+      "originalSubject": "미분류",
+      "newSubject": "임업일반",
+      "confidence": 0.1,
+      "keywords": [
+        "산림"
+      ]
+    },
+    {
+      "questionId": 216,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "영양"
+      ]
+    },
+    {
+      "questionId": 217,
+      "originalSubject": "미분류",
+      "newSubject": "수목병리학",
+      "confidence": 0.1,
+      "keywords": [
+        "병해"
+      ]
+    },
+    {
+      "questionId": 219,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.1,
+      "keywords": [
+        "토양"
+      ]
+    },
+    {
+      "questionId": 221,
+      "originalSubject": "미분류",
+      "newSubject": "임업일반",
+      "confidence": 0.1,
+      "keywords": [
+        "산림"
+      ]
+    },
+    {
+      "questionId": 222,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.1,
+      "keywords": [
+        "생장"
+      ]
+    },
+    {
+      "questionId": 223,
+      "originalSubject": "미분류",
+      "newSubject": "임업일반",
+      "confidence": 0.1,
+      "keywords": [
+        "산림"
+      ]
+    },
+    {
+      "questionId": 471,
+      "originalSubject": "미분류",
+      "newSubject": "수목생리학",
+      "confidence": 0.3,
+      "keywords": [
+        "생장",
+        "굴광성",
+        "굴지성"
+      ]
+    },
+    {
+      "questionId": 714,
+      "originalSubject": "미분류",
+      "newSubject": "토양학",
+      "confidence": 0.2,
+      "keywords": [
+        "토양",
+        "유기물"
+      ]
+    }
+  ]
+}
