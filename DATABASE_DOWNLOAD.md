@@ -2,11 +2,18 @@
 
 Tree Doctor PDF Q&A MCP의 데이터베이스는 크기(120MB) 때문에 Git에 포함되지 않습니다.
 
-## 다운로드 방법
+## 자동 다운로드
 
-### 옵션 1: Google Drive (권장)
-데이터베이스 파일을 다음 링크에서 다운로드하세요:
-- [추후 업로드 예정]
+```bash
+npm run install-all
+```
+위 명령어를 실행하면 자동으로 다운로드됩니다.
+
+## 수동 다운로드
+
+### 옵션 1: 직접 다운로드 링크
+- [Google Drive 링크](https://drive.google.com/file/d/YOUR_FILE_ID) (준비 중)
+- [GitHub Release](https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp/releases/latest) (준비 중)
 
 ### 옵션 2: 직접 생성
 1. 기출문제와 교재 PDF 파일 준비

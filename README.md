@@ -48,24 +48,30 @@
 
 > ⚠️ **중요**: 데이터베이스 파일(120MB)은 크기 제한으로 Git에 포함되지 않습니다. [DATABASE_DOWNLOAD.md](DATABASE_DOWNLOAD.md)를 참조하여 다운로드하세요.
 
-## 🚀 설치 및 사용법
+## 🚀 설치 방법
 
-### 1. 프로젝트 클론 및 패키지 설치
+### 방법 1: 원클릭 자동 설치 (권장) 🎯
 ```bash
+npx tree-doctor-pdf-qa-mcp
+```
+이 명령어 하나로 모든 설치가 자동으로 진행됩니다!
+
+### 방법 2: 수동 설치
+```bash
+# 1. 프로젝트 클론
 git clone https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp.git
 cd tree-doctor-pdf-qa-mcp
+
+# 2. 자동 설치 실행
+npm run install-all
+
+# 또는 개별 단계 실행:
 npm install
-```
-
-### 2. 데이터베이스 다운로드
-[DATABASE_DOWNLOAD.md](DATABASE_DOWNLOAD.md) 참조하여 `tree-doctor-pdf-qa.db` 파일을 프로젝트 루트에 저장
-
-### 3. 빌드
-```bash
+# 데이터베이스 다운로드 (DATABASE_DOWNLOAD.md 참조)
 npm run build
 ```
 
-### 4. Claude Desktop 설정
+### 3. Claude Desktop 설정
 ```json
 {
   "mcpServers": {
@@ -78,7 +84,7 @@ npm run build
 }
 ```
 
-### 5. Claude Desktop 재시작
+### 4. Claude Desktop 재시작
 Claude Desktop을 재시작하면 자동으로 MCP 서버가 연결됩니다.
 
 ### ✅ Windows 호환성

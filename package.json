@@ -15,7 +15,9 @@
     "import-exams": "npm run build && node dist/scripts/import-exams.js",
     "setup": "npm run convert-markdown && npm run setup-data",
     "convert-markdown": "node scripts/convert-markdown-to-json.js",
-    "setup-data": "node scripts/setup-complete-data.js"
+    "setup-data": "node scripts/setup-complete-data.js",
+    "install-all": "node scripts/auto-install.js",
+    "postinstall": "node scripts/check-database.js || echo 'Database check skipped'"
   },
   "keywords": [
     "mcp",
