@@ -37,8 +37,12 @@
 
 ## 🚀 설치 및 사용법
 
-### 1. 패키지 설치
+> ⚠️ **중요**: 이 프로젝트를 사용하려면 나무의사 교재 PDF 파일이 필요합니다. 자세한 내용은 [SETUP_GUIDE.md](./SETUP_GUIDE.md)를 참조하세요.
+
+### 1. 프로젝트 클론 및 패키지 설치
 ```bash
+git clone https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp.git
+cd tree-doctor-pdf-qa-mcp
 npm install
 ```
 
@@ -47,19 +51,34 @@ npm install
 npm run build
 ```
 
-### 3. Claude Desktop 설정
+### 3. 교재 준비 및 데이터베이스 초기화
+```bash
+# 교재 디렉토리 생성
+mkdir -p textbooks
+
+# 나무의사 교재 PDF를 textbooks 디렉토리에 복사
+# (교재는 개인적으로 준비해야 합니다)
+
+# 데이터베이스 초기화
+node scripts/initialize-database.js
+
+# 교재 로드
+node scripts/load-textbooks.js ./textbooks
+```
+
+### 4. Claude Desktop 설정
 ```bash
 npm run setup-claude
 ```
 
-### 4. 나무의사 교재 로드
-```bash
-# Claude Desktop에서 다음 명령으로 교재 로드
-💬 "나무의사 교재를 로드해주세요"
-```
-
 ### 5. Claude Desktop 재시작
 Claude Desktop을 재시작하면 자동으로 MCP 서버가 연결됩니다.
+
+### 📚 교재가 없는 경우
+나무의사 관련 교재는 저작권 문제로 레포지토리에 포함되지 않습니다. 다음 방법으로 교재를 준비하세요:
+- 온라인 서점에서 나무의사 관련 전자책 구매
+- 기존에 보유한 PDF 교재 사용
+- 관련 기관에서 제공하는 학습 자료 활용
 
 ## 🛠️ 사용 예시
 
