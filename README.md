@@ -35,9 +35,20 @@
 - **통합 관리**: 하나의 페이지에서 모든 북마크 조회
 - **시험 전날 요약**: 북마크 기반 자동 요약 생성
 
-## 🚀 설치 및 사용법
+## 📂 데이터베이스 포함 내용
 
-> ⚠️ **중요**: 이 프로젝트를 사용하려면 나무의사 교재 PDF 파일이 필요합니다. 자세한 내용은 [SETUP_GUIDE.md](./SETUP_GUIDE.md)를 참조하세요.
+이 프로젝트는 다음 데이터를 포함하고 있습니다:
+- 📝 **기출문제**: 1,051개 (2019-2025년)
+- 📚 **교재**: 18권 (전체 텍스트 추출 완료)
+  - 수목병리학: 4권
+  - 기출문제집: 3권
+  - 2차시험: 2권
+  - 수목생리학: 2권
+  - 기타 과목별 교재들
+
+> ⚠️ **중요**: 데이터베이스 파일(120MB)은 크기 제한으로 Git에 포함되지 않습니다. [DATABASE_DOWNLOAD.md](DATABASE_DOWNLOAD.md)를 참조하여 다운로드하세요.
+
+## 🚀 설치 및 사용법
 
 ### 1. 프로젝트 클론 및 패키지 설치
 ```bash
@@ -46,39 +57,34 @@ cd tree-doctor-pdf-qa-mcp
 npm install
 ```
 
-### 2. 빌드
+### 2. 데이터베이스 다운로드
+[DATABASE_DOWNLOAD.md](DATABASE_DOWNLOAD.md) 참조하여 `tree-doctor-pdf-qa.db` 파일을 프로젝트 루트에 저장
+
+### 3. 빌드
 ```bash
 npm run build
 ```
 
-### 3. 교재 준비 및 데이터베이스 초기화
-```bash
-# 교재 디렉토리 생성
-mkdir -p textbooks
-
-# 나무의사 교재 PDF를 textbooks 디렉토리에 복사
-# (교재는 개인적으로 준비해야 합니다)
-
-# 데이터베이스 초기화
-node scripts/initialize-database.js
-
-# 교재 로드
-node scripts/load-textbooks.js ./textbooks
-```
-
 ### 4. Claude Desktop 설정
-```bash
-npm run setup-claude
+```json
+{
+  "mcpServers": {
+    "tree-doctor-pdf-qa": {
+      "command": "node",
+      "args": ["C:\\경로\\tree-doctor-pdf-qa-mcp\\dist\\index.js"],
+      "env": {}
+    }
+  }
+}
 ```
 
 ### 5. Claude Desktop 재시작
 Claude Desktop을 재시작하면 자동으로 MCP 서버가 연결됩니다.
 
-### 📚 교재가 없는 경우
-나무의사 관련 교재는 저작권 문제로 레포지토리에 포함되지 않습니다. 다음 방법으로 교재를 준비하세요:
-- 온라인 서점에서 나무의사 관련 전자책 구매
-- 기존에 보유한 PDF 교재 사용
-- 관련 기관에서 제공하는 학습 자료 활용
+### ✅ Windows 호환성
+- 모든 경로는 자동으로 변환됩니다
+- SQLite 데이터베이스 크로스플랫폼 지원
+- PDF 파일 없이도 사용 가능 (이미 텍스트 추출 완료)
 
 ## 🛠️ 사용 예시
 

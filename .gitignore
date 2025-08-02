@@ -15,5 +15,8 @@ textbooks/
 *.db.tmp
 *.db.backup.*
 
-# 중요: 메인 데이터베이스는 Git에 포함!
-# tree-doctor-pdf-qa.db는 제외하지 않음
+# 데이터베이스 파일 (크기 제한으로 인해 제외)
+tree-doctor-pdf-qa.db
+
+# 추출된 텍스트 파일
+textbooks-extracted/
