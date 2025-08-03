@@ -1,0 +1,39 @@
+=== Claude Code 복사용 명령어 ===
+
+[한 줄로 설치]
+다음 명령어를 실행해줘: git clone https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp.git && cd tree-doctor-pdf-qa-mcp && npm run install-all
+
+[단계별 설치]
+1. git clone https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp.git
+2. cd tree-doctor-pdf-qa-mcp  
+3. npm run install-all
+
+[Claude Desktop 설정 추가 - Windows]
+%APPDATA%\Claude\claude_desktop_config.json 파일에 다음 내용을 추가해줘:
+{
+  "mcpServers": {
+    "tree-doctor-pdf-qa": {
+      "command": "node",
+      "args": ["설치경로\\tree-doctor-pdf-qa-mcp\\dist\\index.js"],
+      "env": {}
+    }
+  }
+}
+
+[Claude Desktop 설정 추가 - Mac]
+~/.claude/claude_desktop_config.json 파일에 다음 내용을 추가해줘:
+{
+  "mcpServers": {
+    "tree-doctor-pdf-qa": {
+      "command": "node", 
+      "args": ["설치경로/tree-doctor-pdf-qa-mcp/dist/index.js"],
+      "env": {}
+    }
+  }
+}
+
+[설치 확인]
+설치가 완료되었는지 확인해줘. 기출문제 1,051개와 교재 18권이 있어야 해.
+
+[테스트]
+"수목생리학에서 광합성 과정을 설명해줘" 라고 물어봐줘.
