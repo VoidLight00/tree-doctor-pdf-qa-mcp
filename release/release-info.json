@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "date": "2025-08-03T04:45:00.086Z",
+  "database": {
+    "filename": "tree-doctor-pdf-qa.db",
+    "size": 120541184,
+    "checksum": "160013dce494391ab47f28478c2b610e1fc02292c2a1eb71bd4d975f09737361",
+    "contents": {
+      "exam_questions": 1051,
+      "textbooks": 18,
+      "textbook_chunks": 8985
+    }
+  }
+}

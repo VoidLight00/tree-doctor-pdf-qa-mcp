@@ -21,25 +21,16 @@ const projectRoot = path.join(__dirname, '..');
 class AutoInstaller {
   constructor() {
     this.dbPath = path.join(projectRoot, 'tree-doctor-pdf-qa.db');
-    // Google Drive 직접 다운로드 링크 (추후 실제 링크로 교체)
-    this.dbUrl = process.env.TREE_DOCTOR_DB_URL || 'https://drive.google.com/uc?export=download&id=YOUR_FILE_ID';
+    // GitHub Release 다운로드 링크
+    this.dbUrl = 'https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp/releases/download/v1.0.0/tree-doctor-pdf-qa-db.tar.gz';
     
     // 백업 다운로드 소스들 (병렬 시도)
     this.downloadSources = [
       {
-        name: 'Google Drive',
-        url: this.dbUrl,
-        agent: 1
-      },
-      {
         name: 'GitHub Release',
-        url: 'https://github.com/VoidLight00/tree-doctor-pdf-qa-mcp/releases/download/v1.0/tree-doctor-pdf-qa.db',
-        agent: 2
-      },
-      {
-        name: 'Direct Server',
-        url: 'https://tree-doctor-mcp.com/database/tree-doctor-pdf-qa.db',
-        agent: 3
+        url: this.dbUrl,
+        agent: 1,
+        compressed: true
       }
     ];
   }
@@ -123,7 +114,9 @@ class AutoInstaller {
     return new Promise((resolve, reject) => {
       console.log(`🤖 Agent ${source.agent} (${source.name}): 다운로드 시도...`);
       
-      const tempPath = `${this.dbPath}.tmp${source.agent}`;
+      const tempPath = source.compressed 
+        ? `${this.dbPath}.tar.gz.tmp${source.agent}`
+        : `${this.dbPath}.tmp${source.agent}`;
       const file = createWriteStream(tempPath);
       
       https.get(source.url, (response) => {
@@ -164,9 +157,16 @@ class AutoInstaller {
       file.close();
       console.log(`\n✅ Agent ${source.agent}: 다운로드 완료`);
       
-      // 최종 위치로 이동
       try {
-        await fs.rename(tempPath, this.dbPath);
+        if (source.compressed) {
+          // 압축 해제
+          console.log('📦 압축 해제 중...');
+          await this.runCommand('tar', ['-xzf', tempPath, '-C', projectRoot]);
+          await fs.unlink(tempPath); // 압축 파일 삭제
+        } else {
+          // 최종 위치로 이동
+          await fs.rename(tempPath, this.dbPath);
+        }
         resolve();
       } catch (err) {
         reject(err);
