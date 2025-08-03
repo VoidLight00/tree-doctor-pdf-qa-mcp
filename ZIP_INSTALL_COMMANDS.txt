@@ -1,0 +1,35 @@
+=== ZIP 파일 설치 명령어 (Claude Code 복사용) ===
+
+[ZIP 파일 설치]
+다음 ZIP 파일을 다운로드하고 압축을 풀어줘: tree-doctor-pdf-qa-mcp-full.zip
+그다음 해당 폴더로 이동해서 npm install && npm run build 실행해줘
+
+[Claude Desktop 설정 - Windows]
+%APPDATA%\Claude\claude_desktop_config.json 파일을 열어서 다음 내용을 추가해줘:
+{
+  "mcpServers": {
+    "tree-doctor-pdf-qa": {
+      "command": "node",
+      "args": ["압축해제한경로\\tree-doctor-pdf-qa-mcp\\dist\\index.js"],
+      "env": {}
+    }
+  }
+}
+
+[Claude Desktop 설정 - Mac]
+~/.claude/claude_desktop_config.json 파일을 열어서 다음 내용을 추가해줘:
+{
+  "mcpServers": {
+    "tree-doctor-pdf-qa": {
+      "command": "node",
+      "args": ["압축해제한경로/tree-doctor-pdf-qa-mcp/dist/index.js"],
+      "env": {}
+    }
+  }
+}
+
+[설치 확인]
+설치가 완료되었는지 확인해줘. 기출문제 1,051개와 교재 18권이 있어야 해.
+
+[테스트]
+"나무의사 기출문제 중 수목생리학 문제 보여줘" 라고 물어봐줘.
